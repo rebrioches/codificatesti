@@ -1,0 +1,1918 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Codifica de La Rassegna Settimanale</title>
+                <respStmt xml:id="Floris">
+                    <resp>Codifica a cura di:</resp>
+                    <persName>Rebecca Floris</persName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Edizione digitale 2026</edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>Informazioni sulla pubblicazione</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Informazioni sulla fonte originale</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+    <standOff>
+        <listPerson>
+            <person xml:id="FP_Perez">
+                <persName><forename>Francesco</forename> <forename>Paolo</forename> <surname>Perez</surname></persName>
+                <occupation>Ministro della Pubblica Istruzione (1878-1879).</occupation>
+            </person>
+            <person xml:id="C_Darwin">
+                <persName><forename>Charles</forename> <surname>Darwin</surname></persName>
+            </person>
+            <person xml:id="H_Spencer">
+                <persName><forename>Herbert</forename> <surname>Spencer</surname></persName>
+            </person>
+            <person xml:id="JS_Mill">
+                <persName><forename>John</forename> <forename>Stuart</forename> <surname>Mill</surname></persName>
+            </person>
+            <person xml:id="C_Alfieri">
+                <persName><forename>Carlo</forename> <surname>Alfieri di Sostegno</surname></persName>
+                <birth><date when="1827">1827</date></birth>
+                <death><date when="1897">1897</date></death>
+                <occupation>Senatore e pubblicista</occupation>
+                <note>Fondatore della Scuola di scienze politiche di Firenze.</note>
+            </person>
+            <person xml:id="P_Sbarbaro">
+                <persName><forename>Pietro</forename> <surname>Sbarbaro</surname></persName>
+                <birth><date when="1838">1838</date></birth>
+                <death><date when="1893">1893</date></death>
+                <occupation>Docente di economia e giornalista polemico</occupation>
+                <note>Direttore de "Le Forche Caudine".</note>
+            </person>
+            <person xml:id="Q_Sella">
+                <persName><forename>Quintino</forename> <surname>Sella</surname></persName>
+                <birth><date when="1827">1827</date></birth>
+                <death><date when="1884">1884</date></death>
+                <occupation>Statista della Destra Storica, scienziato e alpinista</occupation>
+            </person>
+            <person xml:id="A_Bertani">
+                <persName><forename>Agostino</forename> <surname>Bertani</surname></persName>
+                <birth><date when="1812">1812</date></birth>
+                <death><date when="1886">1886</date></death>
+                <occupation>Medico e politico; leader della Sinistra estrema</occupation>
+            </person>
+            <person xml:id="B_Spaventa">
+                <persName><forename>Bertrando</forename> <surname>Spaventa</surname></persName>
+                <birth><date when="1817">1817</date></birth>
+                <death><date when="1883">1883</date></death>
+                <occupation>Filosofo idealista hegeliano e deputato</occupation>
+            </person>
+            <person xml:id="GB_DeRossi">
+                <persName><forename>Giovanni</forename> <forename>Battista</forename> <surname>de Rossi</surname></persName>
+                <occupation>Archeologo delle catacombe cristiane</occupation>
+            </person>
+            <person xml:id="L_Bufalini">
+                <persName><forename>Leonardo</forename> <surname>Bufalini</surname></persName>
+                <occupation>Architetto e cartografo</occupation>
+                <death><date when="1567">1567</date></death>
+                <note>Celebre per la pianta di Roma del 1551 citata nel testo come supporto fondamentale agli studi topografici del De Rossi.</note>
+            </person>
+            <person xml:id="N_Costantinovich">
+                <persName><roleName>Gran Duca</roleName> <forename>Niccolò</forename> <surname>Costantinovich</surname></persName>
+                <birth><date when="1850">1850</date></birth>
+                <death><date when="1918">1918</date></death>
+                <affiliation>Famiglia Romanov</affiliation>
+                <note>Esiliato in Asia Centrale, fu promotore di infrastrutture irrigue e ferroviarie nel Turkestan, come menzionato nel programma della spedizione.</note>
+            </person>
+            <person xml:id="G_Dati">
+                <persName><forename>Giuliano</forename> <surname>Dati</surname></persName>
+                <birth><date when="1445">1445</date></birth>
+                <death><date when="1524">1524</date></death>
+                <occupation>Prelato e poeta</occupation>
+                <note>Tradusse in ottava rima la lettera di Colombo e scrisse poemi sul Prete Gianni, oggetto della lettura del conte Manzoni.</note>
+            </person>
+            <person xml:id="HW_Dove">
+                <persName><roleName>Prof.</roleName> <forename>Heinrich</forename> <forename>Wilhelm</forename> <surname>Dove</surname></persName>
+                <birth><date when="1803">1803</date></birth>
+                <occupation>Fisico e meteorologo</occupation>
+                <note>Padre della meteorologia moderna. Il testo della rivista riporta per errore il decesso al 6 aprile.</note>
+            </person>
+            <person xml:id="L_Franchetti">
+                <persName><forename>Leopoldo</forename> <surname>Franchetti</surname></persName>
+                <birth><date when="1847">1847</date></birth>
+                <death><date when="1917">1917</date></death>
+                <occupation>Senatore e studioso</occupation>
+                <note>Fondatore e proprietario della Rassegna Settimanale insieme a Sidney Sonnino.</note>
+            </person>
+            <person xml:id="G_Gherardino">
+                <persName><forename>Giustino</forename> <nameLink>di maestro</nameLink> <surname>Gherardino da Forlì</surname></persName>
+                <occupation>Miniatore</occupation>
+                <note>Artista del XIV secolo la cui identità è stata rivelata dal codice acquisito dalla Biblioteca Marciana.</note>
+            </person>
+            <person xml:id="P_Gianni">
+                <persName>Prete Gianni</persName>
+                <note type="myth">Leggendario sovrano cristiano d'Oriente, figura centrale dell'immaginario medievale trattata nel poema di Giuliano Dati.</note>
+            </person>
+            <person xml:id="L_Manzoni">
+                <persName><roleName>Conte</roleName> <forename>Luigi</forename> <surname>Manzoni</surname></persName>
+                <birth><date when="1844">1844</date></birth>
+                <death><date when="1905">1905</date></death>
+                <occupation>Bibliografo e uomo politico</occupation>
+                <affiliation ref="#Deputazione_BO">R. Deputazione di Storia patria di Bologna</affiliation>
+            </person>
+            <person xml:id="P_Pampaloni">
+                <persName><forename>Pietro</forename> <surname>Pampaloni</surname></persName>
+                <occupation>Gerente responsabile</occupation>
+                <affiliation ref="#Tip_Barbera">Tipografia Barbèra</affiliation>
+            </person>
+            <person xml:id="Rocher">
+                <persName>
+                    <choice>
+                        <abbr>Sig.</abbr>
+                        <expan>Signor</expan>
+                    </choice>
+                    <surname>Rocher</surname>
+                </persName>
+                <residence><placeName ref="#TLS">Tolosa</placeName></residence>
+                <occupation>Inventore del nuovo combustibile Amianthine.</occupation>
+            </person>
+            <person xml:id="S_Sonnino">
+                <persName><forename>Sidney</forename> <surname>Sonnino</surname></persName> 
+                <birth><date when="1847">1847</date></birth>
+                <death><date when="1922">1922</date></death>
+                <occupation>Uomo di stato</occupation>
+                <note>Co-fondatore della rivista e futuro Presidente del Consiglio del Regno d'Italia.</note>
+            </person>
+            <person xml:id="Provv">
+                <persName>Provveditore agli Studi</persName>
+                <note>Funzionario ministeriale a capo dell'amministrazione scolastica della provincia.</note>
+            </person>
+            <person xml:id="Dir">
+                <persName>Direttore scolastico</persName>
+                <note>Responsabile dell'istituto; l'autore ne invoca la facoltà di limitare le iscrizioni per motivi di salute.</note>
+            </person>
+            <person xml:id="Maestre">
+                <persName>Maestre elementari</persName>
+                <note>Professione d'uscita; l'autore critica la preparazione troppo teorica rispetto alle necessità pratiche.</note>
+            </person>
+            <person xml:id="Maestri">
+                <persName>Maestri elementari</persName>
+                <note>Professione d'uscita</note>
+            </person>
+            <person xml:id="Alunne">
+                <persName>Alunne / Scolare</persName>
+                <note>Giovani donne (15-19 anni) soggette a condizioni ambientali insalubri.</note>
+            </person>
+        </listPerson>
+
+        <listPlace>
+            <place xml:id="ITA" type="country">
+                <placeName>Italia</placeName>
+                <location><geo>41.8719 12.5674</geo></location>
+            </place>
+            <place xml:id="RM" type="city">
+                <placeName>Roma</placeName>
+                <location>
+                    <country key="ITA" ref="#ITA">Italia</country>
+                    <geo>41.8902 12.4922</geo>
+                </location>
+                <desc>Sede della redazione de "La Rassegna Settimanale".</desc>
+                <note>Capitale del Regno d'Italia dal 1871.</note>
+            </place>
+            <place xml:id="BL" type="city">
+                <placeName>Berlino</placeName>
+                <location>
+                    <country key="DE">Germania</country>
+                    <geo>52.5200 13.4050</geo>
+                </location>
+            </place>
+            <place xml:id="CN">
+                <placeName>Cuneo</placeName>
+                <location>
+                    <settlement>Cuneo</settlement>
+                    <region>Piemonte</region>
+                    <country>Italia</country>
+                </location>
+                <desc>Luogo del rinvenimento della copia della pianta di Roma del Bufalini (convento di S.M. degli Angeli).</desc>
+            </place>
+            <place xml:id="VE">
+                <placeName>Venezia</placeName>
+                <location>
+                    <settlement>Venezia</settlement>
+                    <region>Veneto</region>
+                    <country>Italia</country>
+                </location>
+                <desc>Sede della Biblioteca Marciana e della Confraternita della Carità.</desc>
+            </place>
+            <place xml:id="BL1">
+                <placeName>Berlino</placeName>
+                <location>
+                    <settlement>Berlino</settlement>
+                    <country>Germania</country>
+                </location>
+                <desc>Luogo del decesso del fisico Heinrich Wilhelm Dove.</desc>
+            </place>
+            <place xml:id="TLS">
+                <placeName>Tolosa</placeName>
+                <location>
+                    <settlement>Tolosa</settlement>
+                    <country>Francia</country>
+                </location>
+                <desc>Residenza del signor Rocher, inventore dell'Amianthine.</desc>
+            </place>
+            <place xml:id="Asia_C">
+                <placeName>Asia centrale</placeName>
+                <location><region>Continente Asiatico</region></location>
+                <desc>Vasta regione interna dell'Asia, teatro della spedizione del Gran Duca Niccolò Costantinovich.</desc>
+            </place>
+            <place xml:id="Ural">
+                <placeName>Ural</placeName>
+                <desc>Fiume che segna il confine geografico tra Europa e Asia; punto di partenza della spedizione.</desc>
+            </place>
+            <place xml:id="Oxus">
+                <placeName>Oxus</placeName>
+                <placeName type="modern">Amu Daria</placeName>
+                <desc>Grande fiume dell'Asia Centrale; la spedizione ne studiava la navigabilità e l'antico sbocco nel Caspio.</desc>
+            </place>
+            <place xml:id="Syr_Daria">
+                <placeName>Syr Daria</placeName>
+                <placeName type="ancient">Iassarte</placeName>
+                <desc>Fiume che attraversa il Kazakistan e l'Uzbekistan.</desc>
+            </place>
+            <place xml:id="Khiva">
+                <placeName>Khiva</placeName>
+                <location>
+                    <settlement>Khiva</settlement>
+                    <region>Corasmia</region>
+                    <country>Uzbekistan</country>
+                </location>
+                <desc>Capitale dello storico Khanato di Khiva, celebre per la sua oasi.</desc>
+            </place>
+            <place xml:id="Uzboi">
+                <placeName>Uzboi</placeName>
+                <desc>Antico letto fluviale che un tempo collegava l'Oxus (Amu Daria) al Mar Caspio attraverso il deserto.</desc>
+            </place>
+            <place xml:id="Caspio">
+                <placeName>Caspio</placeName>
+                <placeName type="standard">Mar Caspio</placeName>
+                <desc>Il più grande bacino d'acqua chiuso della Terra.</desc>
+            </place>
+            <place xml:id="Afghanistan">
+                <placeName>Afghanistan</placeName>
+                <location><country>Stato sovrano dell'Asia meridionale</country></location>
+            </place>
+            <place xml:id="Karasugai">
+                <placeName>Karasugai</placeName>
+                <location><region>Syr Daria</region></location>
+                <desc>Località di passaggio della spedizione russa.</desc>
+            </place>
+            <place xml:id="Tashkend">
+                <placeName>Tashkend</placeName>
+                <location>
+                    <settlement>Tashkent</settlement>
+                    <country>Uzbekistan</country>
+                </location>
+            </place>
+            <place xml:id="Samarcanda">
+                <placeName>Samarcanda</placeName>
+                <location>
+                    <settlement>Samarcanda</settlement>
+                    <country>Uzbekistan</country>
+                </location>
+                <desc>Storico centro culturale della Via della Seta.</desc>
+            </place>
+            <place xml:id="Kunduz">
+                <placeName>Kunduz</placeName>
+                <location>
+                    <settlement>Kunduz</settlement>
+                    <country>Afghanistan</country>
+                </location>
+            </place>
+            <place xml:id="Kara_Kum">
+                <placeName>Kara Kum</placeName>
+                <desc>Vasto deserto di sabbie nere nell'Asia Centrale (attuale Turkmenistan).</desc>
+            </place>
+            <place xml:id="Krasnovodsk">
+                <placeName>Krasnovodsk</placeName>
+                <placeName type="modern">Türkmenbaşy</placeName>
+                <location>
+                    <settlement>Krasnovodsk</settlement>
+                    <country>Turkmenistan</country>
+                </location>
+                <desc>Città portuale sul Mar Caspio.</desc>
+            </place>
+            <place xml:id="Sari_Kamish">
+                <placeName>Sari Kamish</placeName>
+                <desc>Lago salato situato tra il Turkmenistan e l'Uzbekistan.</desc>
+            </place>
+            <place xml:id="Merv">
+                <placeName>Merv</placeName>
+                <location>
+                    <region>Oasi di Merv</region>
+                    <country>Turkmenistan</country>
+                </location>
+                <desc>Città-oasi citata nel testo come possibile obiettivo di una spedizione militare russa.</desc>
+            </place>
+            <place xml:id="America">
+                <placeName>America</placeName>
+                <desc>Riferimento generico agli Stati Uniti o al continente americano.</desc>
+            </place>
+            <place xml:id="SUD">
+                <placeName>Mezzogiorno</placeName>
+                <desc>Riferimento alle province meridionali.</desc>
+            </place>
+        </listPlace>
+
+<list type="glossary" xml:id="glossario_critico">
+    <head>Glossario Unificato: Istituzioni, Norme e Concetti</head>
+
+    <label>
+        <term type="org" xml:id="Min_Istruzione">Ministero della Pubblica Istruzione</term>
+    </label>
+    <item>
+        <gloss corresp="#Min_Istruzione">Organo centrale del governo italiano preposto all'amministrazione del sistema scolastico nazionale.</gloss>
+    </item>
+
+    <label>
+        <term type="org" xml:id="CPS">Consiglio Provinciale Scolastico</term>
+    </label>
+    <item>
+        <gloss corresp="#CPS">Ente locale incaricato della gestione e della vigilanza sulle scuole della provincia.</gloss>
+    </item>
+
+    <label>
+        <term type="org" xml:id="Consiglio_Istr">Consiglio Superiore di Pubblica Istruzione</term>
+    </label>
+    <item>
+        <gloss corresp="#Consiglio_Istr">Massimo organo consultivo del Ministero, incaricato di dare pareri sulle riforme e sulla disciplina dei professori.</gloss>
+    </item>
+
+    <label>
+        <term type="org" xml:id="Rassegna">La Rassegna Settimanale</term>
+    </label>
+    <item>
+        <gloss corresp="#Rassegna">Rivista di orientamento politico e culturale attiva nel periodo post-unitario.</gloss>
+    </item>
+
+    <label>
+        <term type="political_party" xml:id="Destra">Destra Storica</term>
+    </label>
+    <item>
+        <gloss corresp="#Destra">Fazione politica erede di Cavour, caratterizzata da un orientamento conservatore liberale.</gloss>
+    </item>
+
+    <label>
+        <term type="political_party" xml:id="Sinistra">Sinistra Storica</term>
+    </label>
+    <item>
+        <gloss corresp="#Sinistra">Schieramento politico di stampo liberal-progressista che salì al potere nel 1876.</gloss>
+    </item>
+
+    <label>
+        <term type="political_party" xml:id="partito_conservatore">Partito conservatore</term>
+    </label>
+    <item>
+        <gloss corresp="#partito_conservatore">Area politica che mirava alla conservazione delle istituzioni tradizionali; associata nel testo a Carlo Alfieri.</gloss>
+    </item>
+
+    <label>
+        <term xml:id="democrazia_liberale">Democrazia liberale</term>
+    </label>
+    <item>
+        <gloss corresp="#democrazia_liberale">Sistema politico basato sulla sovranità popolare e tutela delle libertà individuali.</gloss>
+    </item>
+
+    <label>
+        <term xml:id="autoritarismo_democratico">Autoritarismo democratico</term>
+    </label>
+    <item>
+        <gloss corresp="#autoritarismo_democratico">Definizione polemica per descrivere una gestione del potere centrale molto forte (riferito a Sella e Bertani).</gloss>
+    </item>
+
+    <label>
+        <term xml:id="liberalismo">Liberalismo</term>
+    </label>
+    <item>
+        <gloss corresp="#liberalismo">Dottrina politica basata sulla libertà individuale e limitazione del potere statale.</gloss>
+    </item>
+
+    <label>
+        <term xml:id="democrazia">Democrazia</term>
+    </label>
+    <item>
+        <gloss corresp="#democrazia">Forma di governo in cui il potere risiede nel popolo; analizzata nel testo in chiave critica.</gloss>
+    </item>
+
+    <label>
+        <term type="law" xml:id="Legge_Casati">Legge Casati (1859)</term>
+    </label>
+    <item>
+        <gloss corresp="#Legge_Casati">Riforma fondamentale della scuola italiana; stabilì l'obbligatorietà del primo biennio elementare.</gloss>
+    </item>
+
+    <label>
+        <term type="law" xml:id="Statuto_Alb">Statuto Albertino</term>
+    </label>
+    <item>
+        <gloss corresp="#Statuto_Alb">La carta costituzionale del Regno d'Italia.</gloss>
+    </item>
+
+    <label>
+        <term type="object" xml:id="PAT_SUP">Diploma / Patente</term>
+    </label>
+    <item>
+        <gloss corresp="#PAT_SUP">Titolo legale (patente) che abilita all'esercizio della professione di insegnante.</gloss>
+    </item>
+
+    <label>
+        <term type="education" xml:id="istr_sup">Istruzione superiore</term>
+    </label>
+    <item>
+        <gloss corresp="#istr_sup">Insegnamento scolastico che prosegue oltre il livello elementare di base.</gloss>
+    </item>
+
+    <label>
+        <term xml:id="scuole_speciali">Scuole speciali</term>
+    </label>
+    <item>
+        <gloss corresp="#scuole_speciali">Istituti professionalizzanti (come le Scuole Normali) per la preparazione a un mestiere specifico.</gloss>
+    </item>
+
+    <label>
+        <term xml:id="scuole_cultura">Scuole di cultura generale</term>
+    </label>
+    <item>
+        <gloss corresp="#scuole_cultura">Istituti (Ginnasi/Licei) volti a fornire un'istruzione umanistica o scientifica ampia.</gloss>
+    </item>
+
+    <label>
+        <term xml:id="SNF">Scuole Normali Femminili</term>
+    </label>
+    <item>
+        <gloss corresp="#SNF">Istituti per la formazione delle maestre elementari.</gloss>
+    </item>
+
+    <label>
+        <term type="rhetoric" xml:id="ammazzatoi">Ammazzatoi</term>
+    </label>
+    <item>
+        <gloss corresp="#ammazzatoi">Metafora iperbolica per denunciare l'insalubrità mortale delle aule.</gloss>
+    </item>
+
+    <label>
+        <term type="hygiene" xml:id="stipate">Stivamento</term>
+    </label>
+    <item>
+        <gloss corresp="#stipate">Sovraffollamento critico delle aule oltre i limiti igienici.</gloss>
+    </item>
+
+    <label>
+        <term type="pathology" xml:id="soffocare">Asfissia / Spossatezza</term>
+    </label>
+    <item>
+        <gloss corresp="#soffocare">Stato patologico derivante dalla mancanza di ossigeno nelle aule chiuse.</gloss>
+    </item>
+
+    <label>
+        <term type="pathology" xml:id="pallida_magra_ricurva">Deperimento posturale</term>
+    </label>
+    <item>
+        <gloss corresp="#pallida_magra_ricurva">Sindrome fisica (anemia e scoliosi) causata dall'ambiente scolastico malsano.</gloss>
+    </item>
+
+    <label>
+        <term type="legal" xml:id="num_max">Limite legale (Capienza)</term>
+    </label>
+    <item>
+        <gloss corresp="#num_max">Numero massimo di alunni consentito per aula dalle norme di sicurezza.</gloss>
+    </item>
+
+    <label>
+        <term type="legal" xml:id="dovere">Responsabilità civile (Dovere)</term>
+    </label>
+    <item>
+        <gloss corresp="#dovere">Obbligo delle autorità di garantire la salute degli studenti.</gloss>
+    </item>
+
+    <label>
+        <term xml:id="industria_privata">Industria privata</term>
+    </label>
+    <item>
+        <gloss corresp="#industria_privata">Settore economico gestito da privati, qui riferito alla gestione ferroviaria.</gloss>
+    </item>
+<label>
+    <term type="org" xml:id="Consiglio_Istr">Consiglio Superiore di Pubblica Istruzione</term>
+</label>
+<item>
+    <gloss corresp="#Consiglio_Istr">Organo consultivo del Ministero della Pubblica Istruzione. Nel testo è descritto come un ente indebolito dai ministri che spesso ne ignorano i pareri obbligatori.</gloss>
+</item>
+
+<label>
+    <term type="org" xml:id="Camera">Camera dei Deputati</term>
+</label>
+<item>
+    <gloss corresp="#Camera">Ramo del Parlamento dove viene discussa la politica scolastica e dove, secondo l'autore, il Consiglio Superiore viene spesso attaccato.</gloss>
+</item>
+<label>
+    <term type="normativa" xml:id="Art_106">Articolo 106 (Legge Casati)</term>
+</label>
+<item>
+    <gloss corresp="#Art_106">Disposizione che permetteva al Ministro di rimuovere i professori che insegnavano dottrine contrarie alla religione o alla morale dello Stato.</gloss>
+</item>
+
+<label>
+    <term type="didattica" xml:id="licenza_liceale">Esame di Licenza Liceale</term>
+</label>
+<item>
+    <gloss corresp="#licenza_liceale">Esame finale del liceo classico, necessario per l'accesso all'università. Il testo denuncia la continua variazione delle norme per favorire gli istituti privati.</gloss>
+</item>
+
+<label>
+    <term type="valore" xml:id="liberta_scienza">Libertà della scienza e della coscienza</term>
+</label>
+<item>
+    <gloss corresp="#liberta_scienza">Concetto cardine del pensiero liberale rivendicato dall'autore contro l'ingerenza religiosa e politica nell'insegnamento universitario.</gloss>
+</item>
+
+<label>
+    <term type="atto_legale" xml:id="decreto_ministeriale">Decreto / Circolare</term>
+</label>
+<item>
+    <gloss corresp="#decreto_ministeriale">Strumenti amministrativi rapidi usati dai ministri per modificare il sistema scolastico senza passare dal dibattito parlamentare (denunciati come causa di instabilità).</gloss>
+</item>
+<list type="glossary" xml:id="glossario_rassegna_notizie">
+    <head>Glossario: Istituzioni, Scienza e Cultura</head>
+
+    <label>
+        <term type="org" xml:id="Inst_Archeo_Ger">Istituto archeologico germanico</term>
+    </label>
+    <item>
+        <gloss corresp="#Inst_Archeo_Ger">Importante istituto di ricerca fondato a Roma nel 1829; nel testo si celebra il 50° anniversario della sua fondazione.</gloss>
+    </item>
+
+    <label>
+        <term type="org" xml:id="Deputazione_BO">R. Deputazione di Storia patria di Bologna</term>
+    </label>
+    <item>
+        <gloss corresp="#Deputazione_BO">Istituzione accademica dedicata alla ricerca, conservazione e pubblicazione di documenti relativi alla storia del territorio bolognese.</gloss>
+    </item>
+
+    <label>
+        <term type="org" xml:id="Marciana">Biblioteca Marciana</term>
+    </label>
+    <item>
+        <gloss corresp="#Marciana">Storica biblioteca di Venezia, citata nel testo per l'acquisto di un prezioso antifonario del XIV secolo.</gloss>
+    </item>
+
+    <label>
+        <term type="org" xml:id="Conf_Carita">Confraternita della Carità</term>
+    </label>
+    <item>
+        <gloss corresp="#Conf_Carita">Antica associazione laica veneziana (Scuola) che commissionò l'antifonario miniato descritto nel testo.</gloss>
+    </item>
+
+    <label>
+        <term type="object" xml:id="Antifonario">Antifonario</term>
+    </label>
+    <item>
+        <gloss corresp="#Antifonario">Libro liturgico che raccoglie le antifone e gli altri canti dell'ufficiatura divina; quello citato è in pergamena e riccamente miniato.</gloss>
+    </item>
+
+    <label>
+        <term type="object" xml:id="cod">Codice (cod.)</term>
+    </label>
+    <item>
+        <gloss corresp="#cod">Manoscritto antico in forma di libro; nel testo è riferito all'antifonario, definito "interessantissimo per la storia dell'arte".</gloss>
+    </item>
+
+    <label>
+        <term type="project" xml:id="Spedizione_Imp">Spedizione Imperiale</term>
+    </label>
+    <item>
+        <gloss corresp="#Spedizione_Imp">Missione esplorativa russa nell'Asia centrale con scopi scientifici (geologia, archeologia) e strategici (progettazione ferroviaria).</gloss>
+    </item>
+
+    <label>
+        <term type="tech" xml:id="Amianthine">Amianthine</term>
+    </label>
+    <item>
+        <gloss corresp="#Amianthine">Nuovo combustibile inventato dal signor Rocher, composto da polvere di amianto, carbone di legna e nitrato di piombo.</gloss>
+    </item>
+
+    <label>
+        <term type="material" xml:id="amianto">Amianto</term>
+    </label>
+    <item>
+        <gloss corresp="#amianto">Minerale a struttura fibrosa, qui citato come componente principale del nuovo combustibile "Amianthine".</gloss>
+    </item>
+
+    <label>
+        <term type="discipline" xml:id="meteorologia">Meteorologia</term>
+    </label>
+    <item>
+        <gloss corresp="#meteorologia">Branca della fisica che studia i fenomeni atmosferici; nel testo viene citata in relazione alla morte del prof. Dove, definito "padre" della disciplina.</gloss>
+    </item>
+
+    <label>
+        <term type="journal" xml:id="Globe">The Globe</term>
+    </label>
+    <item>
+        <gloss corresp="#Globe">Giornale britannico citato come fonte per i dettagli sulla spedizione russa in Asia centrale.</gloss>
+    </item>
+
+    <label>
+        <term type="journal" xml:id="Nature">Nature</term>
+    </label>
+    <item>
+        <gloss corresp="#Nature">Prestigiosa rivista scientifica britannica (fondata nel 1869) citata come fonte di notizie scientifiche.</gloss>
+    </item>
+
+</list>
+    </standOff>
+</teiCorpus>
+
+<!--Codifica singole entrate articoli bibliografie notizie-->
+<?xml version="1.0" encoding="UTF-8"?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Edizione Critica e Analitica Integrale: I Locali delle Scuole Normali Femminili (1879)</title>   
+            </titleStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <title level="j">La Rassegna Settimanale</title>
+                        <imprint>
+                            <biblScope unit="volume">3</biblScope>
+                            <biblScope unit="issue">69</biblScope>
+                            <date when="1879-04-27">27 Aprile 1879</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <!-- Teizone -  -->
+<facsimile>
+<surface xml:id="locali_scuole_normali_femminili_Pag313">
+<graphic url='Volume 3 Fascicolo 69 I locali delle scuole normali femminili Pag 313.jpeg' width='568.4px' height='834.4px' />
+<zone ulx="19" uly="46" lrx="530" lry="70" xml:id="scuole_femminili313_intestazione" corresp="#Cod_scuole_femminili313_header"/>
+<!--titolo prima pagina-->
+<zone ulx="123" uly="82" lrx="426" lry="93" xml:id="scuole_femminili313_titolo" corresp="#Cod_scuole_femminili313_titolo" />
+   <!--righe dell'articolo prima pagina-->
+<zone ulx="31" uly="112" lrx="518" lry="124" xml:id="scuole_femminili313_riga1" corresp="#Codscuole_femminili313_riga1"/>
+<zone ulx="18" uly="149" lrx="271" lry="160" xml:id="scuole_femminili313_riga2" corresp="#Codscuole_femminili313_riga2"/>
+<zone ulx="31" uly="163" lrx="271" lry="174" xml:id="scuole_femminili313_riga3" corresp="#Codscuole_femminili313_riga3"/>
+<zone ulx="19" uly="176" lrx="271" lry="185" xml:id="scuole_femminili313_riga4" corresp="#Codscuole_femminili313_riga4"/>
+<zone ulx="20" uly="187" lrx="271" lry="198" xml:id="scuole_femminili313_riga5" corresp="#Codscuole_femminili313_riga5"/>
+<zone ulx="19" uly="200" lrx="271" lry="207" xml:id="scuole_femminili313_riga6" corresp="#Codscuole_femminili313_riga6"/>
+<zone ulx="17" uly="210" lrx="268" lry="218" xml:id="scuole_femminili313_riga7" corresp="#Codscuole_femminili313_riga7"/>
+<zone ulx="18" uly="221" lrx="268" lry="228" xml:id="scuole_femminili313_riga8" corresp="#Codscuole_femminili313_riga8"/>
+<zone ulx="20" uly="230" lrx="269" lry="242" xml:id="scuole_femminili313_riga9" corresp="#Codscuole_femminili313_riga9"/>
+<zone ulx="19" uly="242" lrx="271" lry="247" xml:id="scuole_femminili313_riga10" corresp="#Codscuole_femminili313_riga10"/>
+<zone ulx="20" uly="252" lrx="267" lry="260" xml:id="scuole_femminili313_riga11" corresp="#Codscuole_femminili313_riga11"/>
+<zone ulx="16" uly="264" lrx="271" lry="273" xml:id="scuole_femminili313_riga12" corresp="#Codscuole_femminili313_riga12"/>
+<zone ulx="17" uly="275" lrx="269" lry="283" xml:id="scuole_femminili313_riga13" corresp="#Codscuole_femminili313_riga13"/>
+<zone ulx="20" uly="287" lrx="268" lry="293" xml:id="scuole_femminili313_riga14" corresp="#Codscuole_femminili313_riga14"/>
+<zone ulx="20" uly="297" lrx="208" lry="305" xml:id="scuole_femminili313_riga15" corresp="#Codscuole_femminili313_riga15"/>
+<zone ulx="31" uly="306" lrx="273" lry="313" xml:id="scuole_femminili313_riga16" corresp="#Codscuole_femminili313_riga16"/>
+<zone ulx="19" uly="322" lrx="270" lry="328" xml:id="scuole_femminili313_riga17" corresp="#Codscuole_femminili313_riga17"/>
+<zone ulx="20" uly="332" lrx="270" lry="340" xml:id="scuole_femminili313_riga18" corresp="#Codscuole_femminili313_riga18"/>
+<zone ulx="19" uly="344" lrx="271" lry="349" xml:id="scuole_femminili313_riga19" corresp="#Codscuole_femminili313_riga19"/>
+<zone ulx="21" uly="353" lrx="272" lry="362" xml:id="scuole_femminili313_riga20" corresp="#Codscuole_femminili313_riga20"/>
+<zone ulx="21" uly="365" lrx="267" lry="372" xml:id="scuole_femminili313_riga21" corresp="#Codscuole_femminili313_riga21"/>
+<zone ulx="21" uly="374" lrx="271" lry="383" xml:id="scuole_femminili313_riga22" corresp="#Codscuole_femminili313_riga22"/>
+<zone ulx="15" uly="385" lrx="264" lry="394" xml:id="scuole_femminili313_riga23" corresp="#Codscuole_femminili313_riga23"/>
+<zone ulx="16" uly="395" lrx="270" lry="402" xml:id="scuole_femminili313_riga24" corresp="#Codscuole_femminili313_riga24"/>
+<zone ulx="18" uly="407" lrx="269" lry="413" xml:id="scuole_femminili313_riga25" corresp="#Codscuole_femminili313_riga25"/>
+<zone ulx="15" uly="416" lrx="269" lry="426" xml:id="scuole_femminili313_riga26" corresp="#Codscuole_femminili313_riga26"/>
+<zone ulx="18" uly="430" lrx="270" lry="437" xml:id="scuole_femminili313_riga27" corresp="#Codscuole_femminili313_riga27"/>
+<zone ulx="21" uly="440" lrx="269" lry="447" xml:id="scuole_femminili313_riga28" corresp="#Codscuole_femminili313_riga28"/>
+<zone ulx="19" uly="451" lrx="270" lry="456" xml:id="scuole_femminili313_riga29" corresp="#Codscuole_femminili313_riga29"/>
+<zone ulx="22" uly="460" lrx="268" lry="469" xml:id="scuole_femminili313_riga30" corresp="#Codscuole_femminili313_riga30"/>
+<zone ulx="23" uly="473" lrx="269" lry="478" xml:id="scuole_femminili313_riga31" corresp="#Codscuole_femminili313_riga31"/>
+<zone ulx="19" uly="484" lrx="271" lry="490" xml:id="scuole_femminili313_riga32" corresp="#Codscuole_femminili313_riga32"/>
+<zone ulx="18" uly="492" lrx="269" lry="499" xml:id="scuole_femminili313_riga33" corresp="#Codscuole_femminili313_riga33"/>
+<zone ulx="23" uly="503" lrx="270" lry="510" xml:id="scuole_femminili313_riga34" corresp="#Codscuole_femminili313_riga34"/>
+<zone ulx="20" uly="514" lrx="275" lry="521" xml:id="scuole_femminili313_riga35" corresp="#Codscuole_femminili313_riga35"/>
+<zone ulx="23" uly="526" lrx="273" lry="534" xml:id="scuole_femminili313_riga36" corresp="#Codscuole_femminili313_riga36"/>
+<zone ulx="27" uly="534" lrx="265" lry="546" xml:id="scuole_femminili313_riga37" corresp="#Codscuole_femminili313_riga37"/>
+<zone ulx="18" uly="548" lrx="268" lry="556" xml:id="scuole_femminili313_riga38" corresp="#Codscuole_femminili313_riga38"/>
+<zone ulx="21" uly="558" lrx="273" lry="566" xml:id="scuole_femminili313_riga39" corresp="#Codscuole_femminili313_riga39"/>
+<zone ulx="20" uly="567" lrx="270" lry="577" xml:id="scuole_femminili313_riga40" corresp="#Codscuole_femminili313_riga40"/>
+<zone ulx="18" uly="580" lrx="267" lry="586" xml:id="scuole_femminili313_riga41" corresp="#Codscuole_femminili313_riga41"/>
+<zone ulx="19" uly="592" lrx="272" lry="597" xml:id="scuole_femminili313_riga42" corresp="#Codscuole_femminili313_riga42"/>
+<zone ulx="17" uly="600" lrx="270" lry="611" xml:id="scuole_femminili313_riga43" corresp="#Codscuole_femminili313_riga43"/>
+<zone ulx="14" uly="613" lrx="273" lry="621" xml:id="scuole_femminili313_riga44" corresp="#Codscuole_femminili313_riga44"/>
+<zone ulx="19" uly="623" lrx="271" lry="632" xml:id="scuole_femminili313_riga45" corresp="#Codscuole_femminili313_riga45"/>
+<zone ulx="18" uly="632" lrx="272" lry="642" xml:id="scuole_femminili313_riga46" corresp="#Codscuole_femminili313_riga46"/>
+<zone ulx="19" uly="643" lrx="151" lry="652" xml:id="scuole_femminili313_riga47" corresp="#Codscuole_femminili313_riga47"/>
+<zone ulx="31" uly="654" lrx="273" lry="664" xml:id="scuole_femminili313_riga48" corresp="#Codscuole_femminili313_riga48"/>
+<zone ulx="19" uly="667" lrx="272" lry="675" xml:id="scuole_femminili313_riga49" corresp="#Codscuole_femminili313_riga49"/>
+<zone ulx="21" uly="678" lrx="271" lry="685" xml:id="scuole_femminili313_riga50" corresp="#Codscuole_femminili313_riga50"/>
+<zone ulx="15" uly="690" lrx="267" lry="695" xml:id="scuole_femminili313_riga51" corresp="#Codscuole_femminili313_riga51"/>
+<zone ulx="19" uly="699" lrx="272" lry="705" xml:id="scuole_femminili313_riga52" corresp="#Codscuole_femminili313_riga52"/>
+<zone ulx="16" uly="708" lrx="274" lry="716" xml:id="scuole_femminili313_riga53" corresp="#Codscuole_femminili313_riga53"/>
+<zone ulx="16" uly="719" lrx="272" lry="728" xml:id="scuole_femminili313_riga54" corresp="#Codscuole_femminili313_riga54"/>
+<zone ulx="15" uly="730" lrx="270" lry="738" xml:id="scuole_femminili313_riga55" corresp="#Codscuole_femminili313_riga55"/>
+<zone ulx="14" uly="742" lrx="271" lry="750" xml:id="scuole_femminili313_riga56" corresp="#Codscuole_femminili313_riga56"/>
+<zone ulx="17" uly="751" lrx="271" lry="762" xml:id="scuole_femminili313_riga57" corresp="#Codscuole_femminili313_riga57"/>
+<zone ulx="17" uly="766" lrx="269" lry="771" xml:id="scuole_femminili313_riga58" corresp="#Codscuole_femminili313_riga58"/>
+<zone ulx="13" uly="775" lrx="271" lry="782" xml:id="scuole_femminili313_riga59" corresp="#Codscuole_femminili313_riga59"/>
+<zone ulx="21" uly="786" lrx="266" lry="796" xml:id="scuole_femminili313_riga60" corresp="#Codscuole_femminili313_riga60"/>
+<zone ulx="281" uly="148" lrx="531" lry="155" xml:id="scuole_femminili313_riga61" corresp="#Codscuole_femminili313_riga61"/>
+<zone ulx="281" uly="158" lrx="531" lry="163" xml:id="scuole_femminili313_riga62" corresp="#Codscuole_femminili313_riga62"/>
+<zone ulx="279" uly="170" lrx="386" lry="178" xml:id="scuole_femminili313_riga63" corresp="#Codscuole_femminili313_riga63"/>
+<zone ulx="288" uly="178" lrx="531" lry="189" xml:id="scuole_femminili313_riga64" corresp="#Codscuole_femminili313_riga64"/>
+<zone ulx="278" uly="191" lrx="527" lry="199" xml:id="scuole_femminili313_riga65" corresp="#Codscuole_femminili313_riga65"/>
+<zone ulx="279" uly="202" lrx="530" lry="210" xml:id="scuole_femminili313_riga66" corresp="#Codscuole_femminili313_riga66"/>
+<zone ulx="279" uly="214" lrx="528" lry="219" xml:id="scuole_femminili313_riga67" corresp="#Codscuole_femminili313_riga67"/>
+<zone ulx="281" uly="224" lrx="529" lry="230" xml:id="scuole_femminili313_riga68" corresp="#Codscuole_femminili313_riga68"/>
+<zone ulx="279" uly="233" lrx="528" lry="244" xml:id="scuole_femminili313_riga69" corresp="#Codscuole_femminili313_riga69"/>
+<zone ulx="276" uly="246" lrx="527" lry="254" xml:id="scuole_femminili313_riga70" corresp="#Codscuole_femminili313_riga70"/>
+<zone ulx="279" uly="258" lrx="531" lry="265" xml:id="scuole_femminili313_riga71" corresp="#Codscuole_femminili313_riga71"/>
+<zone ulx="277" uly="269" lrx="531" lry="278" xml:id="scuole_femminili313_riga72" corresp="#Codscuole_femminili313_riga72"/>
+<zone ulx="276" uly="280" lrx="531" lry="289" xml:id="scuole_femminili313_riga73" corresp="#Codscuole_femminili313_riga73"/>
+<zone ulx="279" uly="290" lrx="530" lry="300" xml:id="scuole_femminili313_riga74" corresp="#Codscuole_femminili313_riga74"/>
+<zone ulx="279" uly="299" lrx="531" lry="309" xml:id="scuole_femminili313_riga75" corresp="#Codscuole_femminili313_riga75"/>
+<zone ulx="278" uly="311" lrx="531" lry="319" xml:id="scuole_femminili313_riga76" corresp="#Codscuole_femminili313_riga76"/>
+<zone ulx="278" uly="321" lrx="532" lry="330" xml:id="scuole_femminili313_riga77" corresp="#Codscuole_femminili313_riga77"/>
+<zone ulx="277" uly="330" lrx="533" lry="343" xml:id="scuole_femminili313_riga78" corresp="#Codscuole_femminili313_riga78"/>
+<zone ulx="277" uly="343" lrx="531" lry="354" xml:id="scuole_femminili313_riga79" corresp="#Codscuole_femminili313_riga79"/>
+<zone ulx="275" uly="353" lrx="532" lry="363" xml:id="scuole_femminili313_riga80" corresp="#Codscuole_femminili313_riga80"/>
+<zone ulx="277" uly="365" lrx="535" lry="374" xml:id="scuole_femminili313_riga81" corresp="#Codscuole_femminili313_riga81"/>
+<zone ulx="278" uly="373" lrx="535" lry="385" xml:id="scuole_femminili313_riga82" corresp="#Codscuole_femminili313_riga82"/>
+<zone ulx="275" uly="382" lrx="533" lry="395" xml:id="scuole_femminili313_riga83" corresp="#Codscuole_femminili313_riga83"/>
+<zone ulx="274" uly="394" lrx="535" lry="407" xml:id="scuole_femminili313_riga84" corresp="#Codscuole_femminili313_riga84"/>
+<zone ulx="275" uly="407" lrx="534" lry="416" xml:id="scuole_femminili313_riga85" corresp="#Codscuole_femminili313_riga85"/>
+<zone ulx="276" uly="416" lrx="534" lry="426" xml:id="scuole_femminili313_riga86" corresp="#Codscuole_femminili313_riga86"/>
+<zone ulx="279" uly="429" lrx="533" lry="439" xml:id="scuole_femminili313_riga87" corresp="#Codscuole_femminili313_riga87"/>
+<zone ulx="278" uly="440" lrx="367" lry="449" xml:id="scuole_femminili313_riga88" corresp="#Codscuole_femminili313_riga88"/>
+<zone ulx="293" uly="448" lrx="531" lry="461" xml:id="scuole_femminili313_riga89" corresp="#Codscuole_femminili313_riga89"/>
+<zone ulx="279" uly="463" lrx="532" lry="470" xml:id="scuole_femminili313_riga90" corresp="#Codscuole_femminili313_riga90"/>
+<zone ulx="279" uly="473" lrx="533" lry="481" xml:id="scuole_femminili313_riga91" corresp="#Codscuole_femminili313_riga91"/>
+<zone ulx="279" uly="484" lrx="532" lry="493" xml:id="scuole_femminili313_riga92" corresp="#Codscuole_femminili313_riga92"/>
+<zone ulx="279" uly="494" lrx="534" lry="502" xml:id="scuole_femminili313_riga93" corresp="#Codscuole_femminili313_riga93"/>
+<zone ulx="279" uly="507" lrx="531" lry="515" xml:id="scuole_femminili313_riga94" corresp="#Codscuole_femminili313_riga94"/>
+<zone ulx="276" uly="517" lrx="531" lry="525" xml:id="scuole_femminili313_riga95" corresp="#Codscuole_femminili313_riga95"/>
+<zone ulx="279" uly="527" lrx="531" lry="536" xml:id="scuole_femminili313_riga96" corresp="#Codscuole_femminili313_riga96"/>
+<zone ulx="277" uly="538" lrx="529" lry="547" xml:id="scuole_femminili313_riga97" corresp="#Codscuole_femminili313_riga97"/>
+<zone ulx="276" uly="547" lrx="531" lry="559" xml:id="scuole_femminili313_riga98" corresp="#Codscuole_femminili313_riga98"/>
+<zone ulx="278" uly="560" lrx="530" lry="570" xml:id="scuole_femminili313_riga99" corresp="#Codscuole_femminili313_riga99"/>
+<zone ulx="277" uly="570" lrx="468" lry="581" xml:id="scuole_femminili313_riga100" corresp="#Codscuole_femminili313_riga100"/>
+</surface>
+</facsimile>
+<text xml:id="Scuole_Normali_text" subtype="essay">
+    <body>
+        <pb n="313" facs="#locali_scuole_normali_femminili_Pag313"/>
+        
+        <fw type="pageNum" place="left" xml:id="Cod_scuole_femminili313_NumeroPagina" facs="#scuole_femminili313_NumeroPagina">313</fw>
+        <fw type="title" place="center" xml:id="Cod_scuole_femminili313_Intestazione" facs="#scuole_femminili313_Intestazione">LA RASSEGNA SETTIMANALE</fw>
+        <fw type="issue" place="right" xml:id="Cod_scuole_femminili313_NumeroVolumeFascicolo" facs="#scuole_femminili313_NumeroVolumeFascicolo">
+            Vol. 3°. <placeName ref="#RM">ROMA</placeName>, <date when="1879-04-27">27 Aprile 1879</date>. N° 69.
+            <milestone unit="headerBreak"/>
+        </fw>
+
+        <head rend="align(center) case(allcaps)" xml:id="Cod_scuole_femminili313_Titolo" n="1" facs="#scuole_femminili313_Titolo">
+            <title type="main" rend="bold">I LOCALI DELLE SCUOLE NORMALI FEMMINILI.</title>
+        </head>
+
+        <p xml:id="Scuole_Normali313_paragrafo1" n="1">
+            <lb xml:id="Cod_scuole_femminili313_riga1" n="1" facs="#scuole_femminili313_riga1"/>
+            Nella <orgName ref="#Rassegna">Rassegna</orgName> del <date when="1879-04-13">13 aprile</date> pubblicammo una lettera,
+            <lb xml:id="Cod_scuole_femminili313_riga2" n="2" facs="#scuole_femminili313_riga2"/>
+            nella quale sono molte e giuste osservazioni, ed è citato un
+            <lb xml:id="Cod_scuole_femminili313_riga3" n="3" facs="#scuole_femminili313_riga3"/>
+            fatto che merita considerazione. Essa parla d’una <orgName ref="#SNF">scuola 
+            <lb xml:id="Cod_scuole_femminili313_riga4" n="4" facs="#scuole_femminili313_riga4" break="no"/>
+            normale</orgName> che si trova in un <emphasis>attico locale</emphasis>, insufficiente al 
+            <lb xml:id="Cod_scuole_femminili313_riga5" n="5" facs="#scuole_femminili313_riga5"/>
+            avere delle alunne che si presentano per l’ammissione. Bia-
+            <lb xml:id="Cod_scuole_femminili313_riga6" n="6" facs="#scuole_femminili313_riga6" break="no"/>
+            sima il <roleName ref="#Provv">provveditore</roleName> che ha messo, illegalmente egli dice,
+            <lb xml:id="Cod_scuole_femminili313_riga7" n="7" facs="#scuole_femminili313_riga7"/>
+            un limite al numero delle alunne. Noi non intendiamo giu-
+            <lb xml:id="Cod_scuole_femminili313_riga8" n="8" facs="#scuole_femminili313_riga8" break="no"/>
+            dicare il caso particolare. Bisognerebbe conoscere la città,
+            <lb xml:id="Cod_scuole_femminili313_riga9" n="9" facs="#scuole_femminili313_riga9"/>
+            la scuola, il locale a cui allude la lettera; bisognerebbe sapere 
+            <lb xml:id="Cod_scuole_femminili313_riga10" n="10" facs="#scuole_femminili313_riga10"/>
+            se è stato consultato il <orgName ref="#CPS">Consiglio Provinciale scolastico</orgName>, e
+            <lb xml:id="Cod_scuole_femminili313_riga11" n="11" facs="#scuole_femminili313_riga11"/>
+            molte altre cose. Ma non occorre occuparsene. L’importanza
+            <lb xml:id="Cod_scuole_femminili313_riga12" n="12" facs="#scuole_femminili313_riga12"/>
+            del fatto non sta nel caso particolare; sta nell'essere esso un 
+            <lb xml:id="Cod_scuole_femminili313_riga13" n="13" facs="#scuole_femminili313_riga13"/>
+            fatto che si ripete in molte città italiane.
+            <lb xml:id="Cod_scuole_femminili313_riga14" n="14" facs="#scuole_femminili313_riga14"/>
+            Le <orgName ref="#SNF">scuole femminili</orgName> sono fra noi assai meno del bisogno, 
+            <lb xml:id="Cod_scuole_femminili313_riga15" n="15" facs="#scuole_femminili313_riga15"/>
+            e le <orgName ref="#SNF">normali</orgName> non bastano di certo alle scolare che si 
+            <lb xml:id="Cod_scuole_femminili313_riga16" n="16" facs="#scuole_femminili313_riga16"/>
+            presentano. In moltissime città esse sono le uniche scuole, in
+            <lb xml:id="Cod_scuole_femminili313_riga17" n="17" facs="#scuole_femminili313_riga17"/>
+            cui la donna possa ricevere una <term ana="#istr_sup">istruzione superiore</term> alla 
+            <lb xml:id="Cod_scuole_femminili313_riga18" n="18" facs="#scuole_femminili313_riga18"/>
+            <term ana="#istr_ele">elementare</term>. È da ciò che seguono inconvenienti molti, e più 
+            <lb xml:id="Cod_scuole_femminili313_riga19" n="19" facs="#scuole_femminili313_riga19"/>
+            gravi assai di quello che si suppone. Se la <orgName ref="#SNF">scuola normale</orgName>
+            <lb xml:id="Cod_scuole_femminili313_riga20" n="20" facs="#scuole_femminili313_riga20"/>
+            è buona, tutte quelle che vanno in essa per avere una 
+            <lb xml:id="Cod_scuole_femminili313_riga21" n="21" facs="#scuole_femminili313_riga21"/>
+            <term ana="#cult_gen">cultura generale</term> restano, in parte almeno, tradite. La <orgName ref="#SNF">scuola 
+            <lb xml:id="Cod_scuole_femminili313_riga22" n="22" facs="#scuole_femminili313_riga22" break="no"/>
+            normale</orgName> deve formare <roleName ref="#Maestre">maestre elementari</roleName>, che sappiano
+            <lb xml:id="Cod_scuole_femminili313_riga23" n="23" facs="#scuole_femminili313_riga23"/>
+            tenere una classe numerosa, ed insegnare praticamente a 
+            <lb xml:id="Cod_scuole_femminili313_riga24" n="24" facs="#scuole_femminili313_riga24"/>
+            leggere, scrivere e far di conti correttamente. Per farlo 
+            <lb xml:id="Cod_scuole_femminili313_riga25" n="25" facs="#scuole_femminili313_riga25"/>
+            bene ci vogliono varie cognizioni e non poco studio: ma 
+            <lb xml:id="Cod_scuole_femminili313_riga26" n="26" facs="#scuole_femminili313_riga26"/>
+            <choice>
+                <sic>noi ci una donna abbastanza istruita per insegnare a maestre</sic>
+                <corr>non ci è una donna abbastanza istruita per insegnare a <roleName ref="#Maestre">maestre</roleName></corr>
+            </choice>, sono 
+            <lb xml:id="Cod_scuole_femminili313_riga27" n="27" facs="#scuole_femminili313_riga27"/>
+            anzi per lo più, incapacissimi a fare i <roleName ref="#Maestri">maestri elementari</roleName>. 
+            <lb xml:id="Cod_scuole_femminili313_riga28" n="28" facs="#scuole_femminili313_riga28"/>
+            Se noi mandassimo alle <orgName ref="#SNM">scuole normali maschili</orgName> tutti gli 
+            <lb xml:id="Cod_scuole_femminili313_riga29" n="29" facs="#scuole_femminili313_riga29"/>
+            alunni che vanno alle <orgName ref="#ST">scuole tecniche</orgName>, ai <orgName ref="#GIN">ginnasi</orgName>, ai <orgName ref="#LIC">licei</orgName>,
+            <lb xml:id="Cod_scuole_femminili313_riga31" n="31" facs="#scuole_femminili313_riga31"/>
+            agli <orgName ref="#IT">istituti tecnici</orgName> per avere in essi la cultura generale? 
+            <lb xml:id="Cod_scuole_femminili313_riga32" n="32" facs="#scuole_femminili313_riga32"/>
+            Ebbene, questo è quello che sono ora costrette a fare le 
+            <lb xml:id="Cod_scuole_femminili313_riga33" n="33" facs="#scuole_femminili313_riga33"/>
+            donne. E cioè che è peggio, anche gli <orgName ref="#EDUC">educandati</orgName>, anche
+            <lb xml:id="Cod_scuole_femminili313_riga34" n="34" facs="#scuole_femminili313_riga34"/>
+            alcune <orgName ref="#SPRIV">scuole private</orgName>, senza alcuna necessità, si uniformano
+            <lb xml:id="Cod_scuole_femminili313_riga35" n="35" facs="#scuole_femminili313_riga35"/>
+            alle <orgName ref="#SNF">scuole normali</orgName>, e non hanno altro scopo che ad apparecchiare agli
+            <lb xml:id="Cod_scuole_femminili313_riga36" n="36" facs="#scuole_femminili313_riga36"/>
+            esami di <term ana="#istr_sup">patente</term>. È il solo diploma che, non diremo per legge,
+            <lb xml:id="Cod_scuole_femminili313_riga37" n="37" facs="#scuole_femminili313_riga37"/>
+            ma per costume, apra una via alla donna, e tutti lo vogliono.
+            <lb xml:id="Cod_scuole_femminili313_riga38" n="38" facs="#scuole_femminili313_riga38"/>
+            Per quanto si faccia, l'istruzione della <roleName ref="#Maestre">maestra elementare</roleName> 
+            <lb xml:id="Cod_scuole_femminili313_riga39" n="39" facs="#scuole_femminili313_riga39"/>
+            deve essere pratica, professionale, se almeno deve corrispon-
+            <lb xml:id="Cod_scuole_femminili313_riga40" n="40" facs="#scuole_femminili313_riga40" break="no"/>
+            dere allo scopo. La <term ana="#cult_gen">cultura generale</term> è quindi nelle <orgName ref="#SNF">scuole
+            <lb xml:id="Cod_scuole_femminili313_riga41" n="41" facs="#scuole_femminili313_riga41" break="no"/>
+            normali</orgName> ristretta in angusti confini, e non può estendersi, al-
+            <lb xml:id="Cod_scuole_femminili313_riga42" n="42" facs="#scuole_femminili313_riga42" break="no"/>
+            largarsi largamente, come sarebbe necessario a quelle alunne
+            <lb xml:id="Cod_scuole_femminili313_riga43" n="43" facs="#scuole_femminili313_riga43"/>
+            che vogliono essere solamente donne colte per proprio uso 
+            <lb xml:id="Cod_scuole_femminili313_riga44" n="44" facs="#scuole_femminili313_riga44"/>
+            e piacere, e come non è certo necessario a chi vuole essere solo 
+            <lb xml:id="Cod_scuole_femminili313_riga45" n="45" facs="#scuole_femminili313_riga45"/>
+            una buona <roleName ref="#Maestre">maestra elementare</roleName>.
+            <lb xml:id="Cod_scuole_femminili313_riga46" n="46" facs="#scuole_femminili313_riga46"/>
+            Tutto questo però non toglie, che le nostre <orgName ref="#SNF">scuole normali</orgName> 
+            <lb xml:id="Cod_scuole_femminili313_riga47" n="47" facs="#scuole_femminili313_riga47"/>
+            servano di fatto nello stesso tempo come <orgName ana="#istr_sup">scuole speciali</orgName>, cioè
+            <lb xml:id="Cod_scuole_femminili313_riga48" n="48" facs="#scuole_femminili313_riga48"/>
+            normali, e come <orgName ana="#cult_gen">scuole di cultura generale</orgName>. Quindi le alunne
+            <lb xml:id="Cod_scuole_femminili313_riga49" n="49" facs="#scuole_femminili313_riga49"/>
+            s’affollano in esse, tanto che quasi non sono soltanto 
+            <lb xml:id="Cod_scuole_femminili313_riga50" n="50" facs="#scuole_femminili313_riga50"/>
+            piene ma addirittura <term ana="#stipate">stipate</term>. La legge, a cui accenna il caso
+            <lb xml:id="Cod_scuole_femminili313_riga51" n="51" facs="#scuole_femminili313_riga51"/>
+            citato nella lettera che pubblicammo, non ha messo un limite
+            <lb xml:id="Cod_scuole_femminili313_riga52" n="52" facs="#scuole_femminili313_riga52"/>
+            al numero delle alunne che debbano essere contenute in una
+            <lb xml:id="Cod_scuole_femminili313_riga53" n="53" facs="#scuole_femminili313_riga53"/>
+            classe di <orgName ref="#SNF">scuola normale</orgName>. I locali stessi sono ristretti, perchè
+            <lb xml:id="Cod_scuole_femminili313_riga54" n="54" facs="#scuole_femminili313_riga54"/>
+            non s'era preveduto il grande sviluppo <choice><sic>ched</sic><corr>che</corr></choice> dovevano pren-
+            <lb xml:id="Cod_scuole_femminili313_riga55" n="55" facs="#scuole_femminili313_riga55" break="no"/>
+            dere le scuole; spesso sono <term ana="#malsani">malsani</term>. Quando il <roleName ref="#Provv">Provveditore</roleName>
+            <lb xml:id="Cod_scuole_femminili313_riga56" n="56" facs="#scuole_femminili313_riga56"/>
+            ed il <orgName ref="#CPS">Consiglio scolastico</orgName> sono interrogati intorno al numero 
+            <lb xml:id="Cod_scuole_femminili313_riga57" n="57" facs="#scuole_femminili313_riga57"/>
+            delle alunne da ammettersi, rispondono spesso: la legge tace,
+            <lb xml:id="Cod_scuole_femminili313_riga58" n="58" facs="#scuole_femminili313_riga58"/>
+            — come tace di fatti. E allora le mura delle sale diventano
+            <lb xml:id="Cod_scuole_femminili313_riga59" n="59" facs="#scuole_femminili313_riga59"/>
+            i confini naturali e materiali al numero delle alunne. Se ne
+            <lb xml:id="Cod_scuole_femminili313_riga60" n="60" facs="#scuole_femminili313_riga60"/>
+            ammettono finche ce n'entrano, qualche volta fino ad <measure quantity="80">ottanta</measure> 
+
+            <cb n="2"/>
+
+            <lb xml:id="Cod_scuole_femminili313_riga61" n="61" facs="#scuole_femminili313_riga61"/>
+            o <measure quantity="90">novanta</measure> in una classe.
+            <lb xml:id="Cod_scuole_femminili313_riga62" n="62" facs="#scuole_femminili313_riga62"/>
+            È facile immaginare quello che segue. Metà delle alun-
+            <lb xml:id="Cod_scuole_femminili313_riga63" n="63" facs="#scuole_femminili313_riga63" break="no"/>
+            ne non ne profittano punto. I <term ref="#QUAD">quaderni</term> non sono corretti; 
+            <lb xml:id="Cod_scuole_femminili313_riga64" n="64" facs="#scuole_femminili313_riga64"/>
+            le <term ana="#ripetizioni">ripetizioni</term> si fanno male assai; la <term ana="#valore">disciplina</term> non si 
+            <lb xml:id="Cod_scuole_femminili313_riga65" n="65" facs="#scuole_femminili313_riga65"/>
+            può mantenere; il <term ana="#valore">profitto</term> è scarso. Ma ciò non è il peg-
+            <lb xml:id="Cod_scuole_femminili313_riga66" n="66" facs="#scuole_femminili313_riga66" break="no"/>
+            gio. Spesso la sala è ristretta, e c’è <term ana="#aria_luce">poca aria, poca luce</term>.
+            <lb xml:id="Cod_scuole_femminili313_riga67" n="67" facs="#scuole_femminili313_riga67"/>
+            È allora le alunne soffrono nella <term ana="#patologia">salute</term>. Possiamo citare un
+            <lb xml:id="Cod_scuole_femminili313_riga68" n="68" facs="#scuole_femminili313_riga68"/>
+            fatto a nostra conoscenza, seguito in una città del <placeName ref="#SUD">Mezzogiorno</placeName>. —
+            <lb xml:id="Cod_scuole_femminili313_riga69" n="69" facs="#scuole_femminili313_riga69"/>
+            <measure quantity="50">Cinquanta</measure> alunne erano messe in una stanza 
+            <lb xml:id="Cod_scuole_femminili313_riga70" n="70" facs="#scuole_femminili313_riga70"/>
+            strettissima, nella quale si <term ana="#soffocare">soffocava dal caldo</term>. Tutte le 
+            <lb xml:id="Cod_scuole_femminili313_riga71" n="71" facs="#scuole_femminili313_riga71"/>
+            premure fatte, perchè la scuola mutasse locale, furono vane.
+            <lb xml:id="Cod_scuole_femminili313_riga72" n="72" facs="#scuole_femminili313_riga72"/>
+            Il locale non v’era o non si voleva trovare. Di giorno in 
+            <lb xml:id="Cod_scuole_femminili313_riga73" n="73" facs="#scuole_femminili313_riga73"/>
+            giorno le alunne <term ana="#impallidire">impallidivano</term>. Alcune <term ana="#ammalarsi">s’ammalarono</term> in 
+            <lb xml:id="Cod_scuole_femminili313_riga74" n="74" facs="#scuole_femminili313_riga74"/>
+            modo da dovere per sempre abbandonare la scuola e gli 
+            <lb xml:id="Cod_scuole_femminili313_riga75" n="75" facs="#scuole_femminili313_riga75"/>
+            studi; un paio <term ana="#morire">morirono</term>. Questi racconti sembrano favole a chi 
+            <lb xml:id="Cod_scuole_femminili313_riga76" n="76" facs="#scuole_femminili313_riga76"/>
+            non ha visto coi propri occhi. Sappiamo di una giovanetta, 
+            <lb xml:id="Cod_scuole_femminili313_riga77" n="77" facs="#scuole_femminili313_riga77"/>
+            che entrò nella scuola piena di vita e di freschezza; pa-
+            <lb xml:id="Cod_scuole_femminili313_riga78" n="78" facs="#scuole_femminili313_riga78" break="no"/>
+            reva un fiore. Dopo due anni si durava fatica a ricono-
+            <lb xml:id="Cod_scuole_femminili313_riga79" n="79" facs="#scuole_femminili313_riga79" break="no"/>
+            scerla. <term ana="#deperimento">Pallida, magra, ricurva</term>, soffriva degli <term ana="#occhi">occhi</term>; aveva
+            <lb xml:id="Cod_scuole_femminili313_riga80" n="80" facs="#scuole_femminili313_riga80"/>
+            continui <term ana="#mal_capo">mal di capo</term>; pareva una vecchia. Aveva preso la
+            <lb xml:id="Cod_scuole_femminili313_riga81" n="81" facs="#scuole_femminili313_riga81"/>
+            <term ref="#PAT_SUP">patente di grado superiore</term>; ma aveva perduto ogni inte-
+            <lb xml:id="Cod_scuole_femminili313_riga82" n="82" facs="#scuole_femminili313_riga82" break="no"/>
+            resse alla vita. Non pensava che a quaderni, a domande 
+            <lb xml:id="Cod_scuole_femminili313_riga83" n="83" facs="#scuole_femminili313_riga83"/>
+            e risposte, ad esami. Domandava se c’era per le donne 
+            <lb xml:id="Cod_scuole_femminili313_riga84" n="84" facs="#scuole_femminili313_riga84"/>
+            altri <term ref="#DIP">diplomi</term> da prendere. Non aveva più passione nella let-
+            <lb xml:id="Cod_scuole_femminili313_riga85" n="85" facs="#scuole_femminili313_riga85" break="no"/>
+            tura, nello scrivere; confessava che, senza andare a lezione, 
+            <lb xml:id="Cod_scuole_femminili313_riga86" n="86" facs="#scuole_femminili313_riga86"/>
+            non poteva studiare.
+            <lb xml:id="Cod_scuole_femminili313_riga87" n="87" facs="#scuole_femminili313_riga87"/>
+            Tutto questo ci par che dia da pensare, e per parte
+            <lb xml:id="Cod_scuole_femminili313_riga88" n="88" facs="#scuole_femminili313_riga88"/>
+            nostra ci par che sia assolutamente necessario determinare 
+            <lb xml:id="Cod_scuole_femminili313_riga89" n="89" facs="#scuole_femminili313_riga89"/>
+            il <term ana="#num_max">numero massimo</term> delle alunne che si possano ammettere 
+            <lb xml:id="Cod_scuole_femminili313_riga90" n="90" facs="#scuole_femminili313_riga90"/>
+            in una classe, e quando le sale sono troppo piccole, dare al 
+            <lb xml:id="Cod_scuole_femminili313_riga91" n="91" facs="#scuole_femminili313_riga91"/>
+            <orgName ref="#CPS">Consiglio Provinciale</orgName> ed al <roleName ref="#Dir">Direttore</roleName> facoltà di limitare
+            <lb xml:id="Cod_scuole_femminili313_riga92" n="92" facs="#scuole_femminili313_riga92"/>
+            ancora questo numero, se non si vuole che le <orgName ref="#SNF">scuole fem-
+            <lb xml:id="Cod_scuole_femminili313_riga93" n="93" facs="#scuole_femminili313_riga93" break="no"/>
+            minili</orgName> divengano <term ana="#ammazzatoi">ammazzatoi</term>. Quando la legge tace, e non 
+            <lb xml:id="Cod_scuole_femminili313_riga94" n="94" facs="#scuole_femminili313_riga94"/>
+            vi sono ordini in contrario, noi crediamo che si possa biasi-
+            <lb xml:id="Cod_scuole_femminili313_riga95" n="95" facs="#scuole_femminili313_riga95" break="no"/>
+            mare l’<term ana="#istituzione">autorità scolastica</term> che provvede in nome della pub-
+            <lb xml:id="Cod_scuole_femminili313_riga96" n="96" facs="#scuole_femminili313_riga96" break="no"/>
+            blica salute e del pubblico bene. Si può disputare intorno 
+            <lb xml:id="Cod_scuole_femminili313_riga97" n="97" facs="#scuole_femminili313_riga97"/>
+            al modo. Non crediamo si possa disputare quanto al <term ana="#diritto">diritto</term>, 
+            <lb xml:id="Cod_scuole_femminili313_riga98" n="98" facs="#scuole_femminili313_riga98"/>
+            e diremmo anche al <term ana="#dovere">dovere</term>, di provvedere.
+            <lb xml:id="Cod_scuole_femminili313_riga99" n="99" facs="#scuole_femminili313_riga99"/>
+           <lb xml:id="Cod_scuole_femminili313_riga100" n="100" facs="#scuole_femminili313_riga100"/>
+        </p>
+    </body>
+</text>
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Edizione Critica Digitale de La Rassegna Settimanale - Numero 69 (27 Aprile 1879)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Università di Pisa - Informatica Umanistica</publisher>
+                <date when="2025">2025</date>
+                <availability status="free"><p>Accesso aperto per fini accademici.</p></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct xml:id="Rassegna_69">
+                    <monogr>
+                        <title level="j">La Rassegna Settimanale di politica, scienze, lettere ed arti</title>
+                        <imprint>
+                            <publisher>Tipografia Barbèra</publisher>
+                            <pubPlace>Roma</pubPlace>
+                            <date when="1879-04-27">27 Aprile 1879</date>
+                            <biblScope unit="issue">69</biblScope>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+ <!-- Teizone  -->
+<facsimile> 
+  <surface xml:id="Full_Alfieri">
+    <graphic url='Bibliografia- Volume 3, Fascicolo 69, C. Alfieri Chi ha tempo non aspetti tempo Pag. 330.png' width='566.4px' height='833.4px' />
+
+    <!-- Header / Intestazione pagina -->
+    <zone ulx="46" uly="35" lrx="66" lry="43" xml:id="Alfieri_header" corresp="#Cod_Alfieri_header"/>
+
+    <!-- Titolo pagina -->
+    <zone ulx="217" uly="33" lrx="378" lry="42" xml:id="Alfieri_titolo" corresp="#Cod_Alfieri_titolo" />
+
+    <!-- Righe del corpo -->
+    <zone ulx="477" uly="35" lrx="551" lry="44" xml:id="Alfieri_riga1" corresp="#Cod_Alfieri_riga1"/>
+    <zone ulx="131" uly="62" lrx="211" lry="70" xml:id="Alfieri_riga2" corresp="#Cod_Alfieri_riga2"/>
+    <zone ulx="152" uly="74" lrx="190" lry="82" xml:id="Alfieri_riga3" corresp="#Cod_Alfieri_riga3"/>
+    <zone ulx="46" uly="83" lrx="296" lry="93" xml:id="Alfieri_riga4" corresp="#Cod_Alfieri_riga4"/>
+    <zone ulx="60" uly="94" lrx="232" lry="104" xml:id="Alfieri_riga5" corresp="#Cod_Alfieri_riga5"/>
+    <zone ulx="60" uly="111" lrx="296" lry="121" xml:id="Alfieri_riga6" corresp="#Cod_Alfieri_riga6"/>
+    <zone ulx="48" uly="123" lrx="297" lry="130" xml:id="Alfieri_riga7" corresp="#Cod_Alfieri_riga7"/>
+    <zone ulx="45" uly="132" lrx="298" lry="140" xml:id="Alfieri_riga8" corresp="#Cod_Alfieri_riga8"/>
+    <zone ulx="47" uly="144" lrx="295" lry="151" xml:id="Alfieri_riga9" corresp="#Cod_Alfieri_riga9"/>
+    <zone ulx="48" uly="153" lrx="296" lry="163" xml:id="Alfieri_riga10" corresp="#Cod_Alfieri_riga10"/>
+    <zone ulx="46" uly="165" lrx="296" lry="174" xml:id="Alfieri_riga11" corresp="#Cod_Alfieri_riga11"/>
+    <zone ulx="44" uly="176" lrx="296" lry="183" xml:id="Alfieri_riga12" corresp="#Cod_Alfieri_riga12"/>
+    <zone ulx="46" uly="187" lrx="108" lry="195" xml:id="Alfieri_riga13" corresp="#Cod_Alfieri_riga13"/>
+    <zone ulx="59" uly="196" lrx="298" lry="206" xml:id="Alfieri_riga14" corresp="#Cod_Alfieri_riga14"/>
+    <zone ulx="47" uly="208" lrx="297" lry="216" xml:id="Alfieri_riga15" corresp="#Cod_Alfieri_riga15"/>
+    <zone ulx="46" uly="220" lrx="296" lry="227" xml:id="Alfieri_riga16" corresp="#Cod_Alfieri_riga16"/>
+    <zone ulx="47" uly="231" lrx="295" lry="236" xml:id="Alfieri_riga17" corresp="#Cod_Alfieri_riga17"/>
+    <zone ulx="47" uly="241" lrx="296" lry="247" xml:id="Alfieri_riga18" corresp="#Cod_Alfieri_riga18"/>
+    <zone ulx="46" uly="250" lrx="295" lry="258" xml:id="Alfieri_riga19" corresp="#Cod_Alfieri_riga19"/>
+    <zone ulx="46" uly="262" lrx="296" lry="270" xml:id="Alfieri_riga20" corresp="#Cod_Alfieri_riga20"/>
+    <zone ulx="46" uly="272" lrx="297" lry="282" xml:id="Alfieri_riga21" corresp="#Cod_Alfieri_riga21"/>
+    <zone ulx="44" uly="284" lrx="297" lry="290" xml:id="Alfieri_riga22" corresp="#Cod_Alfieri_riga22"/>
+    <zone ulx="46" uly="294" lrx="296" lry="303" xml:id="Alfieri_riga23" corresp="#Cod_Alfieri_riga23"/>
+    <zone ulx="45" uly="306" lrx="299" lry="312" xml:id="Alfieri_riga24" corresp="#Cod_Alfieri_riga24"/>
+    <zone ulx="45" uly="316" lrx="296" lry="323" xml:id="Alfieri_riga25" corresp="#Cod_Alfieri_riga25"/>
+    <zone ulx="47" uly="327" lrx="298" lry="335" xml:id="Alfieri_riga26" corresp="#Cod_Alfieri_riga26"/>
+    <zone ulx="44" uly="338" lrx="295" lry="345" xml:id="Alfieri_riga27" corresp="#Cod_Alfieri_riga27"/>
+    <zone ulx="43" uly="350" lrx="296" lry="357" xml:id="Alfieri_riga28" corresp="#Cod_Alfieri_riga28"/>
+    <zone ulx="46" uly="359" lrx="296" lry="367" xml:id="Alfieri_riga29" corresp="#Cod_Alfieri_riga29"/>
+    <zone ulx="43" uly="370" lrx="298" lry="378" xml:id="Alfieri_riga30" corresp="#Cod_Alfieri_riga30"/>
+    <zone ulx="43" uly="380" lrx="296" lry="389" xml:id="Alfieri_riga31" corresp="#Cod_Alfieri_riga31"/>
+    <zone ulx="46" uly="392" lrx="298" lry="399" xml:id="Alfieri_riga32" corresp="#Cod_Alfieri_riga32"/>
+    <zone ulx="46" uly="404" lrx="295" lry="411" xml:id="Alfieri_riga33" corresp="#Cod_Alfieri_riga33"/>
+    <zone ulx="47" uly="415" lrx="295" lry="422" xml:id="Alfieri_riga34" corresp="#Cod_Alfieri_riga34"/>
+    <zone ulx="47" uly="426" lrx="295" lry="431" xml:id="Alfieri_riga35" corresp="#Cod_Alfieri_riga35"/>
+    <zone ulx="45" uly="433" lrx="298" lry="441" xml:id="Alfieri_riga36" corresp="#Cod_Alfieri_riga36"/>
+    <zone ulx="47" uly="445" lrx="298" lry="452" xml:id="Alfieri_riga37" corresp="#Cod_Alfieri_riga37"/>
+    <zone ulx="46" uly="454" lrx="298" lry="466" xml:id="Alfieri_riga38" corresp="#Cod_Alfieri_riga38"/>
+    <zone ulx="47" uly="468" lrx="298" lry="474" xml:id="Alfieri_riga39" corresp="#Cod_Alfieri_riga39"/>
+    <zone ulx="46" uly="478" lrx="294" lry="486" xml:id="Alfieri_riga40" corresp="#Cod_Alfieri_riga40"/>
+    <zone ulx="44" uly="486" lrx="295" lry="496" xml:id="Alfieri_riga41" corresp="#Cod_Alfieri_riga41"/>
+    <zone ulx="47" uly="498" lrx="295" lry="506" xml:id="Alfieri_riga42" corresp="#Cod_Alfieri_riga42"/>
+    <zone ulx="45" uly="506" lrx="296" lry="514" xml:id="Alfieri_riga43" corresp="#Cod_Alfieri_riga43"/>
+    <zone ulx="44" uly="518" lrx="295" lry="529" xml:id="Alfieri_riga44" corresp="#Cod_Alfieri_riga44"/>
+    <zone ulx="45" uly="531" lrx="295" lry="538" xml:id="Alfieri_riga45" corresp="#Cod_Alfieri_riga45"/>
+    <zone ulx="46" uly="540" lrx="296" lry="548" xml:id="Alfieri_riga46" corresp="#Cod_Alfieri_riga46"/>
+    <zone ulx="47" uly="550" lrx="296" lry="561" xml:id="Alfieri_riga47" corresp="#Cod_Alfieri_riga47"/>
+    <zone ulx="46" uly="562" lrx="295" lry="571" xml:id="Alfieri_riga48" corresp="#Cod_Alfieri_riga48"/>
+    <zone ulx="44" uly="575" lrx="295" lry="582" xml:id="Alfieri_riga49" corresp="#Cod_Alfieri_riga49"/>
+    <zone ulx="44" uly="586" lrx="296" lry="592" xml:id="Alfieri_riga50" corresp="#Cod_Alfieri_riga50"/>
+    <zone ulx="47" uly="594" lrx="297" lry="604" xml:id="Alfieri_riga51" corresp="#Cod_Alfieri_riga51"/>
+    <zone ulx="44" uly="606" lrx="299" lry="614" xml:id="Alfieri_riga52" corresp="#Cod_Alfieri_riga52"/>
+    <zone ulx="45" uly="617" lrx="298" lry="626" xml:id="Alfieri_riga53" corresp="#Cod_Alfieri_riga53"/>
+    <zone ulx="44" uly="628" lrx="227" lry="636" xml:id="Alfieri_riga54" corresp="#Cod_Alfieri_riga54"/>
+  </surface>
+</facsimile>
+<!--Testo articolo-->
+<text xml:id="Alfieri_text" subtype="bibliography">
+    <body>
+        <pb n="330" facs="#Full_Alfieri"/>
+        
+        <fw type="pageNum" place="left" xml:id="Cod_Alfieri_header" facs="#Alfieri_intestazione">330</fw>
+        <fw type="title" place="center" xml:id="Cod_Alfieri_titolo" facs="#Alfieri_titolo">LA RASSEGNA SETTIMANALE</fw>
+        <fw type="issue" place="right" xml:id="Cod_ALfieri_riga1" facs="#Alfieri_riga1">
+            [Vol. 3°, N° 69]
+            <milestone unit="headerBreak"/>
+        </fw>
+
+        <head rend="align(center) case(allcaps)" xml:id="Cod_ALfieri_riga2" n="1" facs="#Alfieri_riga2">
+            <term type="tema">BIBLIOGRAFIA</term>.
+        </head>
+        <head rend="align(center) case(allcaps)" xml:id="Cod_ALfieri_riga3" n="2" facs="#Alfieri_riga3">
+            <term type="tema">POLITICA</term>.
+        </head>
+
+        <p xml:id="Alfieri_citazione_bibl" n="1">
+            <lb xml:id="Cod_ALfieri_riga4" n="4" facs="#Alfieri_riga4"/>
+            <persName ref="#C_Alfieri">CARLO ALFIERI</persName>. <title level="m" rend="italic">Chi ha tempo non aspetti tempo. Pareri d’un 
+            <lb xml:id="Cod_ALfieri_riga5" n="5" facs="#Alfieri_riga5"/>
+            Senatore</title>. — <placeName ref="#RM">Roma</placeName> <orgName ref="#Tip_Senato">Tip. del Senato</orgName>, <date when="1879">1879</date>.
+        </p>
+
+        <p xml:id="Alfieri_paragrafo1" n="2">
+            <lb xml:id="Cod_ALfieri_riga6" n="6" facs="#Alfieri_riga6"/>
+            Da alcuni anni <choice><abbr>l’on.</abbr><expan>l’onorevole</expan></choice> <persName ref="#C_Alfieri">Alfieri</persName> suole, di quando in quando, 
+            <lb xml:id="Cod_ALfieri_riga7" n="7" facs="#Alfieri_riga7"/>
+            dire al pubblico le ragioni, che lo fanno essere malcontento
+            <lb xml:id="Cod_ALfieri_riga8" n="8" facs="#Alfieri_riga8"/>
+            delle nostre condizioni politiche. Fedele a questa sua buona
+            <lb xml:id="Cod_ALfieri_riga9" n="9" facs="#Alfieri_riga9"/>
+            abitudine egli ripubblica ora alcune lettere già apparse nella
+            <lb xml:id="Cod_ALfieri_riga10" n="10" facs="#Alfieri_riga10"/>
+            <title level="j" rend="italic">Gazzetta Piemontese</title>, precedute da un proemio, e chiuse con
+            <lb xml:id="Cod_ALfieri_riga11" n="11" facs="#Alfieri_riga11"/>
+            due altre lettere al <roleName>prof.</roleName> <persName ref="#P_Sbarbaro">Sbarbaro</persName> intorno al <term type="corrente">partito con-
+            <lb xml:id="Cod_ALfieri_riga12" n="12" facs="#Alfieri_riga12" break="no"/>
+            servatore</term>, ed alla trasformazione della <orgName ref="#DestraS">Destra</orgName> nella <term type="corrente">demo-
+            <lb xml:id="Cod_ALfieri_riga13" n="13" facs="#Alfieri_riga13" break="no"/>
+            crazia liberale</term>.
+        </p>
+
+        <p xml:id="Alfieri_paragrafo2" n="3">
+            <lb xml:id="Cod_ALfieri_riga14" n="14" facs="#Alfieri_riga14"/>
+            <choice><abbr>L’on.</abbr><expan>L’onorevole</expan></choice> <roleName>Senatore</roleName> rammenta com’egli avesse ben augurato
+            <lb xml:id="Cod_ALfieri_riga15" n="15" facs="#Alfieri_riga15"/>
+            della <orgName ref="#Sinistra">Sinistra</orgName>, quando questa, per salire al potere, si fece
+            <lb xml:id="Cod_ALfieri_riga16" n="16" facs="#Alfieri_riga16"/>
+            a difendere la causa dei capitali e dell’<term type="tema">industria privata</term> 
+            <lb xml:id="Cod_ALfieri_riga17" n="17" facs="#Alfieri_riga17"/>
+            applicata alla costruzione ed all’esercizio delle nostre fer-
+            <lb xml:id="Cod_ALfieri_riga18" n="18" facs="#Alfieri_riga18" break="no"/>
+            rovie. Quella causa sembra <choice><abbr>all’A.</abbr><expan>all'Autore</expan></choice> essere stata poscia abban-
+            <lb xml:id="Cod_ALfieri_riga19" n="19" facs="#Alfieri_riga19" break="no"/>
+            donata dalla <orgName ref="#Sinistra">Sinistra</orgName>, la quale ha così perduto le sue sim-
+            <lb xml:id="Cod_ALfieri_riga20" n="20" facs="#Alfieri_riga20" break="no"/>
+            patie. La <orgName ref="#DestraS">Destra</orgName> poi nel frattempo ha proclamato a suo
+            <lb xml:id="Cod_ALfieri_riga22" n="22" facs="#Alfieri_riga22"/>
+            capo <persName ref="#Q_Sella">Sella</persName>, il più autorevole rappresentante dell’<term type="corrente">autoritarismo democra-
+            <lb xml:id="Cod_ALfieri_riga23" n="23" facs="#Alfieri_riga23" break="no"/>
+            tico</term> nello stato nostro.
+            <lb xml:id="Cod_ALfieri_riga24" n="24" facs="#Alfieri_riga24"/>
+            Il <term type="corrente">partito conservatore</term> doveva necessariamente essere inclinato
+            <lb xml:id="Cod_ALfieri_riga25" n="25" facs="#Alfieri_riga25"/>
+            a favorire l’influenza delle autorità ecclesiastiche nella no-
+            <lb xml:id="Cod_ALfieri_riga26" n="26" facs="#Alfieri_riga26" break="no"/>
+            stra politica. Questa dichiarazione, che a noi pare conforme
+            <lb xml:id="Cod_ALfieri_riga27" n="27" facs="#Alfieri_riga27"/>
+            alla verità, dispiacque molto <choice><abbr>all’on.</abbr><expan>all’onorevole</expan></choice> <persName ref="#C_Alfieri">Alfieri</persName>, il quale, nel rim-
+            <lb xml:id="Cod_ALfieri_riga28" n="28" facs="#Alfieri_riga28"/>
+            proverarla ingiustamente al <persName ref="#Q_Sella">Sella</persName>, non riesce a contenere
+            <lb xml:id="Cod_ALfieri_riga29" n="29" facs="#Alfieri_riga29"/>
+            in giusta misura l’espressione del suo malcontento. Eppure
+            <lb xml:id="Cod_ALfieri_riga30" n="30" facs="#Alfieri_riga30"/>
+            se ci fosse modo di trasformare, come vorrebbe l’<persName ref="#C_Alfieri">Alfieri</persName>,
+            <lb xml:id="Cod_ALfieri_riga31" n="31" facs="#Alfieri_riga31"/>
+            la <orgName ref="#DestraS">Destra</orgName> in un partito di liberisti cattolici della scuola
+            <lb xml:id="Cod_ALfieri_riga32" n="32" facs="#Alfieri_riga32"/>
+            del <persName>Montalembert</persName>, questo appunto sarebbe che il <persName ref="#Q_Sella">Sella</persName>
+            <lb xml:id="Cod_ALfieri_riga33" n="33" facs="#Alfieri_riga33"/>
+            e lo <persName ref="#B_Spaventa">Spaventa</persName> con altri autoritari democratici passassero
+            <lb xml:id="Cod_ALfieri_riga34" n="34" facs="#Alfieri_riga34"/>
+            a <orgName ref="#Sinistra">Sinistra</orgName>. Le intenzioni <choice><abbr>dell’on.</abbr><expan>dell’onorevole</expan></choice> <roleName>Senatore</roleName> sono eccel-
+            <lb xml:id="Cod_ALfieri_riga35" n="35" facs="#Alfieri_riga35" break="no"/>
+            lenti: i suoi ideali politici degni di rispetto, molte delle sue
+            <lb xml:id="Cod_ALfieri_riga36" n="36" facs="#Alfieri_riga36"/>
+            considerazioni giuste, l’operosità sua <choice><sic>patriotticaè</sic><corr>patriottica è</corr></choice> lode-
+            <lb xml:id="Cod_ALfieri_riga37" n="37" facs="#Alfieri_riga37" break="no"/>
+            vole; ma bisogna anche aggiungere che in tutto ciò ch’egli
+            <lb xml:id="Cod_ALfieri_riga38" n="38" facs="#Alfieri_riga38"/>
+            pubblica o fa, si cerca invano qualche precisione di concetti,
+            <lb xml:id="Cod_ALfieri_riga39" n="39" facs="#Alfieri_riga39"/>
+            qualche chiarezza di fini. Com’è vago il suo cattolicismo, così
+            <lb xml:id="Cod_ALfieri_riga40" n="40" facs="#Alfieri_riga40"/>
+            è indeterminato il <term type="corrente">liberalismo democratico</term> ch’egli invoca.
+            <lb xml:id="Cod_ALfieri_riga41" n="41" facs="#Alfieri_riga41"/>
+            Egli non istudia la realtà politica in sè stessa; la <orgName ref="#Chiesa">Chiesa</orgName>,
+            <lb xml:id="Cod_ALfieri_riga42" n="42" facs="#Alfieri_riga42"/>
+            lo <orgName ref="#Stato">Stato</orgName>, la <term type="tema">democrazia</term>, e il <term type="corrente">liberalismo</term> in <placeName ref="#ITA">Italia</placeName> così come 
+            <lb xml:id="Cod_ALfieri_riga43" n="43" facs="#Alfieri_riga43"/>
+            sono, come li ha fatti la storia, e come uscirono dagli av-
+            <lb xml:id="Cod_ALfieri_riga44" n="44" facs="#Alfieri_riga44" break="no"/>
+            venimenti e dal moto degli interessi e dei pensieri contempo-
+            <lb xml:id="Cod_ALfieri_riga45" n="45" facs="#Alfieri_riga45" break="no"/>
+            ranei. Gli sfugge pertanto il concetto dei limiti entro i quali
+            <lb xml:id="Cod_ALfieri_riga46" n="46" facs="#Alfieri_riga46"/>
+            una loro modificazione è possibile. Egli si è formato, sulle
+            <lb xml:id="Cod_ALfieri_riga47" n="47" facs="#Alfieri_riga47"/>
+            tracce di alcuni maestri, un ideale politico, una dottrina
+            <lb xml:id="Cod_ALfieri_riga48" n="48" facs="#Alfieri_riga48"/>
+            molto più astratta ch’egli non creda, e vorrebbe che tutti
+            <lb xml:id="Cod_ALfieri_riga49" n="49" facs="#Alfieri_riga49"/>
+            s’inchinassero a quei suoi <choice><sic>fantasimi;s’illude</sic><corr>fantasimi; s’illude</corr></choice> quando gli pare 
+            <lb xml:id="Cod_ALfieri_riga50" n="50" facs="#Alfieri_riga50"/>
+            di aver trovati compagni nel suo culto, si sdegna quando
+            <lb xml:id="Cod_ALfieri_riga51" n="51" facs="#Alfieri_riga51"/>
+            s’avvede d’aver troppo sperato. In questo opuscolo egli si
+            <lb xml:id="Cod_ALfieri_riga52" n="52" facs="#Alfieri_riga52"/>
+            mostra molto fiducioso nei nuovi <term type="corrente">conservatori</term>, i quali, o non 
+            <lb xml:id="Cod_ALfieri_riga53" n="53" facs="#Alfieri_riga53"/>
+            si faranno vivi, o si mostreranno assai diversi da quelli, che
+            <lb xml:id="Cod_ALfieri_riga54" n="54" facs="#Alfieri_riga54"/>
+            <choice><abbr>l’on.</abbr><expan>l’onorevole</expan></choice> <roleName>Senatore</roleName> vagheggia a lui somiglianti.
+        </p>
+    </body>
+</text>
+<!-- istruzione pubblica-->
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Edizione Critica Digitale de La Rassegna Settimanale - Numero 106 (11 Gennaio 1880)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Università di Pisa - Informatica Umanistica</publisher>
+                <date when="2025">2025</date>
+                <availability status="free"><p>Accesso aperto per fini accademici.</p></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct xml:id="Rassegna_106_Bibl">
+                    <monogr>
+                        <title level="j">La Rassegna Settimanale di politica, scienze, lettere ed arti</title>
+                        <imprint>
+                            <publisher>Tipografia Barbèra</publisher>
+                            <pubPlace>Roma</pubPlace>
+                            <date when="1880-01-11">11 Gennaio 1880</date>
+                            <biblScope unit="volume">5</biblScope>
+                            <biblScope unit="issue">106</biblScope>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+<!--Teizone  -->
+<facsimile>
+<surface xml:id="la_legge_sull_istruzione_pubblica_pag_21">
+<!--volume 5 fascicolo 106 pagina 21-->
+<graphic url='Volume 5 Fascicolo 106 La legge sulistruzione pubblica Pag 21.png' width='559.4px' height='833.4px' />
+<zone ulx="25" uly="37" lrx="532" lry="58"  xml:id="IstruzionePubblica21_Header" corresp="#Cod_istruzionePubblica21_Header"/>
+
+<zone ulx="32" uly="72" lrx="279" lry="83" xml:id="IstruzionePubblica21_NumeroPagina" corresp="#Cod_IstruzionePubblica21_NumeroPagina"/> 
+<zone ulx="36" uly="140" lrx="259" lry="146" xml:id="IstruzionePubblica21_Intestazione" corresp="#Cod_IstruzionePubblica21_Intestazione"/ />
+<zone ulx="40" uly="154" lrx="270" lry="162" xml:id="IstruzionePubblica21_NumeroVolumeFascicolo" corresp="#Cod_IstruzionePubblica21_NumeroVolumeFascicolo" />
+<!-- intestazione interna -->
+<zone ulx="25" uly="167" lrx="272" lry="173" xml:id="IstruzionePubblica21_HeaderInterno" corresp="#Cod_IstruzionePubblica21_HeaderInterno"/>
+
+<!-- titolo articolo -->
+<zone ulx="23" uly="180" lrx="273" lry="184" xml:id="IstruzionePubblica21_Titolo" corresp="#Cod_IstruzionePubblica21_Titolo"/>
+
+<!--    testo    -->
+<zone ulx="25" uly="190" lrx="273" lry="193" xml:id="IstruzionePubblica21_riga1" corresp="#Cod_IstruzionePubblica21_riga1" />
+<zone ulx="28" uly="202" lrx="274" lry="205" xml:id="IstruzionePubblica21_riga2" corresp="#Cod_IstruzionePubblica21_riga2"/>
+<zone ulx="26" uly="213" lrx="274" lry="216" xml:id="IstruzionePubblica21_riga3" corresp="#Cod_IstruzionePubblica21_riga3"/>
+<zone ulx="31" uly="224" lrx="273" lry="227" xml:id="IstruzionePubblica21_riga4" corresp="#Cod_IstruzionePubblica21_riga4"/>
+<zone ulx="27" uly="233" lrx="275" lry="238" xml:id="IstruzionePubblica21_riga5" corresp="#Cod_IstruzionePubblica21_riga5"/>
+<zone ulx="30" uly="245" lrx="272" lry="248" xml:id="IstruzionePubblica21_riga6" corresp="#Cod_IstruzionePubblica21_riga6"/>
+<zone ulx="29" uly="254" lrx="275" lry="261" xml:id="IstruzionePubblica21_riga7" corresp="#Cod_IstruzionePubblica21_riga7"/>
+<zone ulx="27" uly="266" lrx="272" lry="270" xml:id="IstruzionePubblica21_riga8" corresp="#Cod_IstruzionePubblica21_riga8"/>
+<zone ulx="27" uly="275" lrx="274" lry="279" xml:id="IstruzionePubblica21_riga9" corresp="#Cod_IstruzionePubblica21_riga9"/>
+<zone ulx="28" uly="288" lrx="270" lry="290" xml:id="IstruzionePubblica21_riga10" corresp="#Cod_IstruzionePubblica21_riga10"/>
+<zone ulx="26" uly="295" lrx="274" lry="302" xml:id="IstruzionePubblica21_riga11" corresp="#Cod_IstruzionePubblica21_riga11"/>
+<zone ulx="27" uly="306" lrx="271" lry="312" xml:id="IstruzionePubblica21_riga12" corresp="#Cod_IstruzionePubblica21_riga12"/>
+<zone ulx="27" uly="319" lrx="273" lry="324" xml:id="IstruzionePubblica21_riga13" corresp="#Cod_IstruzionePubblica21_riga13"/>
+<zone ulx="27" uly="327" lrx="274" lry="333" xml:id="IstruzionePubblica21_riga14" corresp="#Cod_IstruzionePubblica21_riga14"/>
+<zone ulx="25" uly="340" lrx="278" lry="346" xml:id="IstruzionePubblica21_riga15" corresp="#Cod_IstruzionePubblica21_riga15"/>
+<zone ulx="27" uly="351" lrx="179" lry="354" xml:id="IstruzionePubblica21_riga16" corresp="#Cod_IstruzionePubblica21_riga16"/>
+<zone ulx="40" uly="361" lrx="275" lry="366" xml:id="IstruzionePubblica21_riga17" corresp="#Cod_IstruzionePubblica21_riga17"/>
+<zone ulx="25" uly="370" lrx="271" lry="378" xml:id="IstruzionePubblica21_riga18" corresp="#Cod_IstruzionePubblica21_riga18"/>
+<zone ulx="27" uly="379" lrx="274" lry="390" xml:id="IstruzionePubblica21_riga19" corresp="#Cod_IstruzionePubblica21_riga19"/>
+<zone ulx="28" uly="391" lrx="271" lry="400" xml:id="IstruzionePubblica21_riga20" corresp="#Cod_IstruzionePubblica21_riga20" />
+<zone ulx="30" uly="399" lrx="276" lry="407" xml:id="IstruzionePubblica21_riga21" corresp="#Cod_IstruzionePubblica21_riga21"/>
+<zone ulx="27" uly="413" lrx="275" lry="420" xml:id="IstruzionePubblica21_riga22" corresp="#Cod_IstruzionePubblica21_riga22"/>
+<zone ulx="24" uly="425" lrx="273" lry="429" xml:id="IstruzionePubblica21_riga23" corresp="#Cod_IstruzionePubblica21_riga23"/>
+<zone ulx="25" uly="436" lrx="276" lry="441" xml:id="IstruzionePubblica21_riga24" corresp="#Cod_IstruzionePubblica21_riga24"/>
+<zone ulx="29" uly="444" lrx="275" lry="453" xml:id="IstruzionePubblica21_riga25" corresp="#Cod_IstruzionePubblica21_riga25"/>
+<zone ulx="31" uly="455" lrx="271" lry="463" xml:id="IstruzionePubblica21_riga26" corresp="#Cod_IstruzionePubblica21_riga26"/>
+<zone ulx="27" uly="467" lrx="271" lry="473" xml:id="IstruzionePubblica21_riga27" corresp="#Cod_IstruzionePubblica21_riga27"/>
+<zone ulx="31" uly="478" lrx="272" lry="486" xml:id="IstruzionePubblica21_riga28" corresp="#Cod_IstruzionePubblica21_riga28"/>
+<zone ulx="29" uly="488" lrx="272" lry="497" xml:id="IstruzionePubblica21_riga29" corresp="#Cod_IstruzionePubblica21_riga29"/>
+<zone ulx="30" uly="500" lrx="273" lry="506" xml:id="IstruzionePubblica21_riga30" corresp="#Cod_IstruzionePubblica21_riga30"/> 
+<zone ulx="30" uly="512" lrx="271" lry="519" xml:id="IstruzionePubblica21_riga31" corresp="#Cod_IstruzionePubblica21_riga31"/>
+<zone ulx="31" uly="522" lrx="275" lry="527" xml:id="IstruzionePubblica21_riga32" corresp="#Cod_IstruzionePubblica21_riga32"/>
+<zone ulx="26" uly="533" lrx="272" lry="540" xml:id="IstruzionePubblica21_riga33" corresp="#Cod_IstruzionePubblica21_riga33"/>
+<zone ulx="30" uly="543" lrx="273" lry="549" xml:id="IstruzionePubblica21_riga34" corresp="#Cod_IstruzionePubblica21_riga34"/>
+<zone ulx="31" uly="555" lrx="276" lry="561" xml:id="IstruzionePubblica21_riga35" corresp="#Cod_IstruzionePubblica21_riga35"/>
+<zone ulx="25" uly="566" lrx="276" lry="570" xml:id="IstruzionePubblica21_riga36" corresp="#Cod_IstruzionePubblica21_riga36"/>
+<zone ulx="31" uly="572" lrx="269" lry="586" xml:id="IstruzionePubblica21_riga37" corresp="#Cod_IstruzionePubblica21_riga37"/>
+<zone ulx="28" uly="585" lrx="269" lry="595" xml:id="IstruzionePubblica21_riga38" corresp="#Cod_IstruzionePubblica21_riga38"/>
+<zone ulx="28" uly="596" lrx="272" lry="602" xml:id="IstruzionePubblica21_riga39" corresp="#Cod_IstruzionePubblica21_riga39"/>
+<zone ulx="30" uly="606" lrx="268" lry="615" xml:id="IstruzionePubblica21_riga40" corresp="#Cod_IstruzionePubblica21_riga40"/>
+<zone ulx="27" uly="620" lrx="271" lry="623" xml:id="IstruzionePubblica21_riga41" corresp="#Cod_IstruzionePubblica21_riga41"/>
+<zone ulx="34" uly="627" lrx="272" lry="634" xml:id="IstruzionePubblica21_riga42" corresp="#Cod_IstruzionePubblica21_riga42"/>
+<zone ulx="32" uly="637" lrx="272" lry="645" xml:id="IstruzionePubblica21_riga43" corresp="#Cod_IstruzionePubblica21_riga43"/>
+<zone ulx="28" uly="646" lrx="273" lry="657" xml:id="IstruzionePubblica21_riga44" corresp="#Cod_IstruzionePubblica21_riga44"/>
+<zone ulx="29" uly="658" lrx="271" lry="669" xml:id="IstruzionePubblica21_riga45" corresp="#Cod_IstruzionePubblica21_riga45"/>
+<zone ulx="31" uly="671" lrx="275" lry="678" xml:id="IstruzionePubblica21_riga46" corresp="#Cod_IstruzionePubblica21_riga46"/>
+<zone ulx="24" uly="679" lrx="276" lry="690" xml:id="IstruzionePubblica21_riga47" corresp="#Cod_IstruzionePubblica21_riga47"/>
+<zone ulx="28" uly="690" lrx="275" lry="700" xml:id="IstruzionePubblica21_riga48" corresp="#Cod_IstruzionePubblica21_riga48"/>
+<zone ulx="29" uly="699" lrx="275" lry="710" xml:id="IstruzionePubblica21_riga49" corresp="#Cod_IstruzionePubblica21_riga49"/>
+<zone ulx="26" uly="711" lrx="275" lry="721" xml:id="IstruzionePubblica21_riga50" corresp="#Cod_IstruzionePubblica21_riga50"/>
+<zone ulx="27" uly="726" lrx="275" lry="731" xml:id="IstruzionePubblica21_riga51" corresp="#Cod_IstruzionePubblica21_riga51"/>
+<zone ulx="25" uly="734" lrx="274" lry="741" xml:id="IstruzionePubblica21_riga52" corresp="#Cod_IstruzionePubblica21_riga52"/>
+<zone ulx="27" uly="746" lrx="273" lry="750" xml:id="IstruzionePubblica21_riga53" corresp="#Cod_IstruzionePubblica21_riga53"/>
+<zone ulx="26" uly="754" lrx="273" lry="762" xml:id="IstruzionePubblica21_riga54" corresp="#Cod_IstruzionePubblica21_riga54"/>
+<zone ulx="27" uly="766" lrx="275" lry="774" xml:id="IstruzionePubblica21_riga55" corresp="#Cod_IstruzionePubblica21_riga55"/>
+<zone ulx="282" uly="134" lrx="536" lry="143" xml:id="IstruzionePubblica21_riga56" corresp="#Cod_IstruzionePubblica21_riga56"/>
+<zone ulx="282" uly="146" lrx="515" lry="153" xml:id="IstruzionePubblica21_riga57" corresp="#Cod_IstruzionePubblica21_riga57"/>
+<zone ulx="296" uly="157" lrx="534" lry="166" xml:id="IstruzionePubblica21_riga58" corresp="#Cod_IstruzionePubblica21_riga58"/>
+<zone ulx="286" uly="169" lrx="538" lry="177" xml:id="IstruzionePubblica21_riga59" corresp="#Cod_IstruzionePubblica21_riga59"/>
+<zone ulx="283" uly="180" lrx="536" lry="188" xml:id="IstruzionePubblica21_riga60" corresp="#Cod_IstruzionePubblica21_riga60"/>
+<zone ulx="285" uly="190" lrx="531" lry="198" xml:id="IstruzionePubblica21_riga61" corresp="#Cod_IstruzionePubblica21_riga61"/>
+<zone ulx="281" uly="200" lrx="536" lry="208" xml:id="IstruzionePubblica21_riga62" corresp="#Cod_IstruzionePubblica21_riga62"/>
+<zone ulx="283" uly="211" lrx="535" lry="219" xml:id="IstruzionePubblica21_riga63" corresp="#Cod_IstruzionePubblica21_riga63"/>
+<zone ulx="285" uly="220" lrx="534" lry="230" xml:id="IstruzionePubblica21_riga64" corresp="#Cod_IstruzionePubblica21_riga64"/>
+<zone ulx="283" uly="231" lrx="533" lry="240" xml:id="IstruzionePubblica21_riga65" corresp="#Cod_IstruzionePubblica21_riga65"/>
+<zone ulx="285" uly="240" lrx="325" lry="251" xml:id="IstruzionePubblica21_riga66" corresp="#Cod_IstruzionePubblica21_riga66"/>
+<zone ulx="298" uly="251" lrx="536" lry="262" xml:id="IstruzionePubblica21_riga67" corresp="#Cod_IstruzionePubblica21_riga67"/>
+<zone ulx="284" uly="264" lrx="535" lry="271" xml:id="IstruzionePubblica21_riga68" corresp="#Cod_IstruzionePubblica21_riga68"/>
+<zone ulx="282" uly="274" lrx="535" lry="284" xml:id="IstruzionePubblica21_riga69" corresp="#Cod_IstruzionePubblica21_riga69"/>
+<zone ulx="283" uly="285" lrx="536" lry="294" xml:id="IstruzionePubblica21_riga70" corresp="#Cod_IstruzionePubblica21_riga70"/>
+<zone ulx="26" uly="282" lrx="273" lry="287" xml:id="IstruzionePubblica21_riga71" corresp="#Cod_IstruzionePubblica21_riga71"/>
+<zone ulx="286" uly="294" lrx="535" lry="305" xml:id="IstruzionePubblica21_riga72" corresp="#Cod_IstruzionePubblica21_riga72"/>
+<zone ulx="283" uly="309" lrx="535" lry="314" xml:id="IstruzionePubblica21_riga73" corresp="#Cod_IstruzionePubblica21_riga73"/>
+<zone ulx="284" uly="318" lrx="536" lry="327" xml:id="IstruzionePubblica21_riga74" corresp="#Cod_IstruzionePubblica21_riga74"/>
+<zone ulx="284" uly="318" lrx="536" lry="327" xml:id="IstruzionePubblica21_riga75" corresp="#Cod_IstruzionePubblica21_riga75"/>
+<zone ulx="284" uly="318" lrx="536" lry="327" xml:id="IstruzionePubblica21_riga76" corresp="#Cod_IstruzionePubblica21_riga76"/>
+<zone ulx="280" uly="328" lrx="331" lry="337" xml:id="IstruzionePubblica21_riga77" corresp="#Cod_IstruzionePubblica21_riga77"/>
+<zone ulx="290" uly="339" lrx="532" lry="348" xml:id="IstruzionePubblica21_riga78" corresp="#Cod_IstruzionePubblica21_riga78"/>
+<zone ulx="280" uly="349" lrx="535" lry="356" xml:id="IstruzionePubblica21_riga79" corresp="#Cod_IstruzionePubblica21_riga79"/>
+<zone ulx="283" uly="359" lrx="536" lry="365" xml:id="IstruzionePubblica21_riga80" corresp="#Cod_IstruzionePubblica21_riga80"/>
+<zone ulx="280" uly="369" lrx="538" lry="379" xml:id="IstruzionePubblica21_riga81" corresp="#Cod_IstruzionePubblica21_riga81"/>
+<zone ulx="287" uly="384" lrx="536" lry="390" xml:id="IstruzionePubblica21_riga82" corresp="#Cod_IstruzionePubblica21_riga82"/>
+<zone ulx="286" uly="393" lrx="532" lry="400" xml:id="IstruzionePubblica21_riga83" corresp="#Cod_IstruzionePubblica21_riga83"/>
+<zone ulx="285" uly="402" lrx="537" lry="410" xml:id="IstruzionePubblica21_riga84" corresp="#Cod_IstruzionePubblica21_riga84"/>
+<zone ulx="280" uly="410" lrx="538" lry="420" xml:id="IstruzionePubblica21_riga85" corresp="#Cod_IstruzionePubblica21_riga85"/>
+<zone ulx="283" uly="424" lrx="536" lry="434" xml:id="IstruzionePubblica21_riga86" corresp="#Cod_IstruzionePubblica21_riga86"/>
+<zone ulx="283" uly="438" lrx="533" lry="442" xml:id="IstruzionePubblica21_riga87" corresp="#Cod_IstruzionePubblica21_riga87"/>
+<zone ulx="285" uly="446" lrx="531" lry="454" xml:id="IstruzionePubblica21_riga88" corresp="#Cod_IstruzionePubblica21_riga88"/>
+<zone ulx="283" uly="455" lrx="537" lry="465" xml:id="IstruzionePubblica21_riga89" corresp="#Cod_IstruzionePubblica21_riga89"/>
+<zone ulx="282" uly="468" lrx="538" lry="475" xml:id="IstruzionePubblica21_riga90" corresp="#Cod_IstruzionePubblica21_riga90"/>
+<zone ulx="283" uly="477" lrx="536" lry="485" xml:id="IstruzionePubblica21_riga91" corresp="#Cod_IstruzionePubblica21_riga91"/>
+<zone ulx="283" uly="490" lrx="535" lry="498" xml:id="IstruzionePubblica21_riga92" corresp="#Cod_IstruzionePubblica21_riga92"/>
+<zone ulx="284" uly="501" lrx="539" lry="509" xml:id="IstruzionePubblica21_riga93" corresp="#Cod_IstruzionePubblica21_riga93"/>
+<zone ulx="285" uly="514" lrx="533" lry="518" xml:id="IstruzionePubblica21_riga94" corresp="#Cod_IstruzionePubblica21_riga94"/>
+<zone ulx="286" uly="520" lrx="535" lry="528" xml:id="IstruzionePubblica21_riga95" corresp="#Cod_IstruzionePubblica21_riga95"/>
+<zone ulx="285" uly="530" lrx="536" lry="538" xml:id="IstruzionePubblica21_riga96" corresp="#Cod_IstruzionePubblica21_riga96"/>
+<zone ulx="286" uly="542" lrx="535" lry="551" xml:id="IstruzionePubblica21_riga97" corresp="#Cod_IstruzionePubblica21_riga97"/>
+<zone ulx="283" uly="554" lrx="537" lry="562" xml:id="IstruzionePubblica21_riga98" corresp="#Cod_IstruzionePubblica21_riga98"/>
+<zone ulx="284" uly="566" lrx="538" lry="572" xml:id="IstruzionePubblica21_riga99" corresp="#Cod_IstruzionePubblica21_riga99"/>
+<zone ulx="286" uly="577" lrx="535" lry="584" xml:id="IstruzionePubblica21_riga100" corresp="#Cod_IstruzionePubblica21_riga100"/>
+<zone ulx="283" uly="583" lrx="536" lry="594" xml:id="IstruzionePubblica21_riga101" corresp="#Cod_IstruzionePubblica21_riga101"/>
+<zone ulx="284" uly="597" lrx="535" lry="605" xml:id="IstruzionePubblica21_riga102" corresp="#Cod_IstruzionePubblica21_riga102"/>
+<zone ulx="284" uly="608" lrx="535" lry="617" xml:id="IstruzionePubblica21_riga103" corresp="#Cod_IstruzionePubblica21_riga103"/>
+<zone ulx="283" uly="615" lrx="537" lry="626" xml:id="IstruzionePubblica21_riga104" corresp="#Cod_IstruzionePubblica21_riga104"/>
+<zone ulx="284" uly="627" lrx="537" lry="636" xml:id="IstruzionePubblica21_riga105" corresp="#Cod_IstruzionePubblica21_riga105"/>
+<zone ulx="282" uly="639" lrx="403" lry="646" xml:id="IstruzionePubblica21_riga106" corresp="#Cod_IstruzionePubblica21_riga106"/>
+<zone ulx="300" uly="648" lrx="539" lry="658" xml:id="IstruzionePubblica21_riga107" corresp="#Cod_IstruzionePubblica21_riga107"/>
+<zone ulx="283" uly="660" lrx="539" lry="668" xml:id="IstruzionePubblica21_riga108" corresp="#Cod_IstruzionePubblica21_riga108"/>
+<zone ulx="285" uly="671" lrx="535" lry="678" xml:id="IstruzionePubblica21_riga109" corresp="#Cod_IstruzionePubblica21_riga109"/>
+<zone ulx="281" uly="682" lrx="536" lry="688" xml:id="IstruzionePubblica21_riga110" corresp="#Cod_IstruzionePubblica21_riga110"/>
+<zone ulx="282" uly="692" lrx="537" lry="702" xml:id="IstruzionePubblica21_riga111" corresp="#Cod_IstruzionePubblica21_riga111"/>
+<zone ulx="285" uly="702" lrx="535" lry="710" xml:id="IstruzionePubblica21_riga112" corresp="#Cod_IstruzionePubblica21_riga112"/>
+<zone ulx="287" uly="711" lrx="539" lry="722" xml:id="IstruzionePubblica21_riga113" corresp="#Cod_IstruzionePubblica21_riga113"/>
+<zone ulx="283" uly="726" lrx="538" lry="730" xml:id="IstruzionePubblica21_riga114" corresp="#Cod_IstruzionePubblica21_riga114"/>
+<zone ulx="285" uly="733" lrx="539" lry="740" xml:id="IstruzionePubblica21_riga115" corresp="#Cod_IstruzionePubblica21_riga115"/>
+<zone ulx="284" uly="745" lrx="535" lry="753" xml:id="IstruzionePubblica21_riga116" corresp="#Cod_IstruzionePubblica21_riga116"/>
+<zone ulx="281" uly="755" lrx="536" lry="761" xml:id="IstruzionePubblica21_riga117" corresp="#Cod_IstruzionePubblica21_riga117"/>
+<zone ulx="282" uly="766" lrx="537" lry="774" xml:id="IstruzionePubblica21_riga118" corresp="#Cod_IstruzionePubblica21_riga118"/>
+</surface>
+<surface xml:id="la_legge_sull_istruzione_pubblica_pag21">
+<graphic url='Volume 5 Fascicolo 106 La legge sulistruzione pubblica Pag 22.png' width='557.4px' height='828.4px' />
+<!--Volume 5 Fascicolo 106 pagina 22-->
+<!--    intestazione    -->
+
+<zone ulx="32" uly="72" lrx="279" lry="83" xml:id="IstruzionePubblica22_riga1" corresp="#Cod_IstruzionePubblica22_riga1"/>
+<zone ulx="31" uly="84" lrx="280" lry="91" xml:id="IstruzionePubblica22_riga2" corresp="#Cod_IstruzionePubblica22_riga2"/>
+<zone ulx="31" uly="96" lrx="279" lry="102" xml:id="IstruzionePubblica22_riga3" corresp="#Cod_IstruzionePubblica22_riga3"/>
+<zone ulx="34" uly="106" lrx="281" lry="118" xml:id="IstruzionePubblica22_riga4" corresp="#Cod_IstruzionePubblica22_riga4"/>
+<zone ulx="33" uly="119" lrx="278" lry="125" xml:id="IstruzionePubblica22_riga5" corresp="#Cod_IstruzionePubblica22_riga5"/>
+<zone ulx="30" uly="125" lrx="280" lry="136" xml:id="IstruzionePubblica22_riga6" corresp="#Cod_IstruzionePubblica22_riga6"/>
+<zone ulx="31" uly="141" lrx="280" lry="146" xml:id="IstruzionePubblica22_riga7" corresp="#Cod_IstruzionePubblica22_riga7" />
+<zone ulx="31" uly="150" lrx="282" lry="156" xml:id="IstruzionePubblica22_riga8" corresp="#Cod_IstruzionePubblica22_riga8"/>
+<zone ulx="33" uly="159" lrx="97" lry="167" xml:id="IstruzionePubblica22_riga9" corresp="#Cod_IstruzionePubblica22_riga9"/>
+</surface>
+</facsimile>
+<text xml:id="IstruzionePubblica_text" subtype="essay">
+    <body>
+        <pb n="21" facs="#la_legge_sull_istruzione_pubblica_pag_21"/>
+        
+        <fw type="pageNum" place="left" xml:id="Cod_IstruzionePubblica21_NumeroPagina" facs="#IstruzionePubblica21_NumeroPagina">21</fw>
+        <fw type="title" place="center" xml:id="Cod_IstruzionePubblica21_Intestazione" facs="#IstruzionePubblica21_Intestazione">LA RASSEGNA SETTIMANALE</fw>
+        <fw type="issue" place="right" xml:id="Cod_IstruzionePubblica21_NumeroVolumeFascicolo" facs="#IstruzionePubblica21_NumeroVolumeFascicolo">
+            Vol. 5°, N° 106
+            <milestone unit="headerBreak"/>
+        </fw> 
+
+        <head rend="align(center) case(allcaps)" xml:id="Cod_IstruzionePubblica21_Titolo" n="1" facs="#IstruzionePubblica21_Titolo">
+            <lb/>DI <term type="tema">POLITICA</term>, <term type="tema">SCIENZE</term> <term type="tema">LETTERE</term>
+            <lb/>Vol. 5°. <placeName ref="#RM">ROMA</placeName>, <date when="1880-01-11">11 Gennaio 1880</date>. N° 106.
+            <lb/><title rend="bold">LA LEGGE SULL'ISTRUZIONE PUBBLICA</title>
+        </head>
+
+        <p xml:id="IstruzionePubblica21_paragrafo1" n="1">
+            <lb xml:id="Cod_IstruzionePubblica21_riga1" n="1" facs="#IstruzionePubblica21_riga1"/>
+            È appena passato qualche mese, che tutto il <term type="collettivo">corpo in
+            <lb xml:id="Cod_IstruzionePubblica21_riga2" n="2" facs="#IstruzionePubblica21_riga2" break="no"/>
+            segnante</term> e, quello che è più, anche la <term type="media">stampa</term> erano una
+            <lb xml:id="Cod_IstruzionePubblica21_riga3" n="3" facs="#IstruzionePubblica21_riga3" break="no"/>
+            nimi nel dichiarare, che il <term type="istituzione">pubblico insegnamento</term> correva 
+            <lb xml:id="Cod_IstruzionePubblica21_riga4" n="4" facs="#IstruzionePubblica21_riga4"/>
+            fra noi un gravissimo pericolo. Alcune poche <term type="normativa">disposizioni</term> 
+            <lb xml:id="Cod_IstruzionePubblica21_riga5" n="5" facs="#IstruzionePubblica21_riga5"/>
+            assai utili alle <orgName type="scuola">scuole secondarie</orgName>, — le sole che riuscivano  
+            <lb xml:id="Cod_IstruzionePubblica21_riga6" n="6" facs="#IstruzionePubblica21_riga6"/>
+            a mantenere ancora qualche <term type="valore">ordine</term>, a dare qualche debole  
+            <lb xml:id="Cod_IstruzionePubblica21_riga7" n="7" facs="#IstruzionePubblica21_riga7"/>
+            efficacia all’<term type="didattica">insegnamento classico</term>, — che in dieci anni di 
+            <lb xml:id="Cod_IstruzionePubblica21_riga8" n="8" facs="#IstruzionePubblica21_riga8"/>
+            sforzi continui erano state finalmente, non solo adottate dal 
+            <lb xml:id="Cod_IstruzionePubblica21_riga9" n="9" facs="#IstruzionePubblica21_riga9"/>
+            <orgName ref="#Min_Istruzione">Ministero</orgName>, ma accettate dal <placeName>paese</placeName> e riconosciute da tutti 
+            <lb xml:id="Cod_IstruzionePubblica21_riga10" n="10" facs="#IstruzionePubblica21_riga10"/>
+            necessarie, indispensabili, stavano per essere abolite dal 
+            <lb xml:id="Cod_IstruzionePubblica21_riga11" n="11" facs="#IstruzionePubblica21_riga11"/>
+            <roleName>ministro</roleName> <persName ref="#FP_Perez">Perez</persName>, nonostante l’opposizione del <term type="collettivo">corpo inse            <lb xml:id="Cod_IstruzionePubblica21_riga12" n="12" facs="#IstruzionePubblica21_riga12" break="no"/>
+            gnante</term>, dell’<term type="istituzione">amministrazione</term> e del <orgName ref="#Consiglio_Istr">Consiglio di Pubblica 
+            <lb xml:id="Cod_IstruzionePubblica21_riga13" n="13" facs="#IstruzionePubblica21_riga13"/>
+            Istruzione</orgName>, che egli non aveva neppure consultato. A far 
+            <lb xml:id="Cod_IstruzionePubblica21_riga14" n="14" facs="#IstruzionePubblica21_riga14"/>
+            tutto questo, si diceva, sarebbe bastato un semplice <term type="atto_legale">decreto</term>, 
+            <lb xml:id="Cod_IstruzionePubblica21_riga15" n="15" facs="#IstruzionePubblica21_riga15"/>
+            e forse anche una <term type="atto_legale">circolare</term> del <roleName>Ministro</roleName>. Il pericolo fu scon
+            <lb xml:id="Cod_IstruzionePubblica21_riga16" n="16" facs="#IstruzionePubblica21_riga16" break="no"/>
+            giurato solo dalla <term type="politica">crisi ministeriale</term>, seguita per una que
+            <lb xml:id="Cod_IstruzionePubblica21_riga17" n="17" facs="#IstruzionePubblica21_riga17" break="no"/>
+            stione finanziaria. Senza di ciò l’operazione sarebbe stata 
+            <lb xml:id="Cod_IstruzionePubblica21_riga18" n="18" facs="#IstruzionePubblica21_riga18"/>
+            compiuta, e gli sforzi fatti in dieci anni a vantaggio delle 
+            <lb xml:id="Cod_IstruzionePubblica21_riga19" n="19" facs="#IstruzionePubblica21_riga19"/>
+            <orgName type="scuola">scuole</orgName> sarebbero a quest’ora perduti.
+        </p>
+
+        <p xml:id="IstruzionePubblica21_paragrafo2" n="2">
+            <lb xml:id="Cod_IstruzionePubblica21_riga20" n="20" facs="#IstruzionePubblica21_riga20"/>
+            Come dunque è così facile fare e disfare? Hanno dav
+            <lb xml:id="Cod_IstruzionePubblica21_riga21" n="21" facs="#IstruzionePubblica21_riga21" break="no"/>
+            vero le nostre <orgName type="scuola">scuole</orgName>, tutto il nostro <term type="sistema">sistema scolastico</term> un
+            <lb xml:id="Cod_IstruzionePubblica21_riga22" n="22" facs="#IstruzionePubblica21_riga22"/>
+            fondamento così debole, che si possano con un <term type="atto_legale">decreto</term> o 
+            <lb xml:id="Cod_IstruzionePubblica21_riga23" n="23" facs="#IstruzionePubblica21_riga23"/>
+            una <term type="atto_legale">circolare</term> alterare sostanzialmente a dispetto di tutti? 
+            <lb xml:id="Cod_IstruzionePubblica21_riga24" n="24" facs="#IstruzionePubblica21_riga24"/>
+            La questione ci pare che meriti qualche attenzione, perché il 
+            <lb xml:id="Cod_IstruzionePubblica21_riga25" n="25" facs="#IstruzionePubblica21_riga25"/>
+            <term type="concetto">pericolo passato</term> oggi può ricomparire domani. Il fatto è che  
+            <lb xml:id="Cod_IstruzionePubblica21_riga26" n="26" facs="#IstruzionePubblica21_riga26"/>
+            a forza di <term type="normativa">leggi</term>, di <term type="normativa">regolamenti</term>, di <term type="normativa">circolari</term> e di mutamenti  
+            <lb xml:id="Cod_IstruzionePubblica21_riga27" n="27" facs="#IstruzionePubblica21_riga27"/>
+            continui noi siamo arrivati a non aver più alcuna <term type="valore">stabilità</term>, e  
+            <lb xml:id="Cod_IstruzionePubblica21_riga28" n="28" facs="#IstruzionePubblica21_riga28"/>
+            tutto dipende dall’<orgName ref="#Min_Istruzione">amministrazione</orgName> e dal capriccio del <roleName>Mini
+            <lb xml:id="Cod_IstruzionePubblica21_riga29" n="29" facs="#IstruzionePubblica21_riga29" break="no"/>
+            stro</roleName>. Vi sono esempi di <placeName type="nazione">paesi</placeName> i quali, anche con una <term type="normativa">legge</term> poco
+            <lb xml:id="Cod_IstruzionePubblica21_riga30" n="30" facs="#IstruzionePubblica21_riga30"/>
+            chiara e poco determinata, vanno regolarmente innanzi. 
+            <lb xml:id="Cod_IstruzionePubblica21_riga31" n="31" facs="#IstruzionePubblica21_riga31"/>
+            Ma questi sono paesi nei quali hanno gran forza e sono 
+            <lb xml:id="Cod_IstruzionePubblica21_riga32" n="32" facs="#IstruzionePubblica21_riga32"/>
+            molto rispettate le <term type="concetto">consuetudini</term>, il che non segue fra noi. 
+            <lb xml:id="Cod_IstruzionePubblica21_riga33" n="33" facs="#IstruzionePubblica21_riga33"/>
+            O sono paesi nei quali in mancanza di buone <term type="normativa">leggi</term> e  
+            <lb xml:id="Cod_IstruzionePubblica21_riga34" n="34" facs="#IstruzionePubblica21_riga34"/>
+            di buoni <term type="normativa">regolamenti</term>, si trovano <term type="istituzione">autorità costituite</term>, che ser
+            <lb xml:id="Cod_IstruzionePubblica21_riga35" n="35" facs="#IstruzionePubblica21_riga35" break="no"/>
+            bano inalterate le <term type="concetto">tradizioni scolastiche</term>, nè le mutano
+            <lb xml:id="Cod_IstruzionePubblica21_riga36" n="36" facs="#IstruzionePubblica21_riga36"/>
+            senza molto discutere e molto ponderare. E neppur questo 
+            <lb xml:id="Cod_IstruzionePubblica21_riga37" n="37" facs="#IstruzionePubblica21_riga37"/>
+            segue fra noi. Il <orgName ref="#Consiglio_Istr">Consiglio Superiore</orgName> dovrebbe serbare le 
+            <lb xml:id="Cod_IstruzionePubblica21_riga38" n="38" facs="#IstruzionePubblica21_riga38"/>
+            buone tradizioni e qualche volta vi è riuscito, frenando i 
+            <lb xml:id="Cod_IstruzionePubblica21_riga39" n="39" facs="#IstruzionePubblica21_riga39"/>
+            <roleName>Ministri</roleName>, salvandoli dal discendere quella china su cui li 
+            <lb xml:id="Cod_IstruzionePubblica21_riga40" n="40" facs="#IstruzionePubblica21_riga40"/>
+            spingeva l’<term type="concetto">onda politica</term> e il desiderio di male intesa <term type="valore">popolarità</term>. 
+            <lb xml:id="Cod_IstruzionePubblica21_riga41" n="41" facs="#IstruzionePubblica21_riga41"/>
+            Ma questo <orgName ref="#Consiglio_Istr">Consiglio</orgName> è ora ogni giorno attaccato 
+            <lb xml:id="Cod_IstruzionePubblica21_riga42" n="42" facs="#IstruzionePubblica21_riga42"/>
+            nella <orgName>Camera</orgName> e fuori, ed il <roleName>Ministro</roleName> lo interroga o no, se
+            <lb xml:id="Cod_IstruzionePubblica21_riga43" n="43" facs="#IstruzionePubblica21_riga43" break="no"/>
+            condo che gli piace. Sebbene costituito per <term type="normativa">legge</term> e nomi
+            <lb xml:id="Cod_IstruzionePubblica21_riga44" n="44" facs="#IstruzionePubblica21_riga44" break="no"/>
+            nato anche nello <term ref="#Statuto_Alb">Statuto fondamentale</term>, esso fu una volta 
+            <lb xml:id="Cod_IstruzionePubblica21_riga45" n="45" facs="#IstruzionePubblica21_riga45"/>
+            disfatto con un <term type="atto_legale">decreto</term>, e poi ricostituito con un altro <term type="atto_legale">de
+            <lb xml:id="Cod_IstruzionePubblica21_riga46" n="46" facs="#IstruzionePubblica21_riga46" break="no"/>
+            creto</term>. Sebbene il <roleName>Ministro</roleName> sia tenuto a consultarlo in certi 
+            <lb xml:id="Cod_IstruzionePubblica21_riga47" n="47" facs="#IstruzionePubblica21_riga47"/>
+            casi, continuamente avviene che non lo consulta. Recente
+            <lb xml:id="Cod_IstruzionePubblica21_riga48" n="48" facs="#IstruzionePubblica21_riga48" break="no"/>
+            mente il <persName ref="#FP_Perez">Perez</persName> operava come se il <orgName ref="#Consiglio_Istr">Consiglio</orgName> non esistesse, 
+            <lb xml:id="Cod_IstruzionePubblica21_riga49" n="49" facs="#IstruzionePubblica21_riga49"/>
+            o faceva il contrario di quello che esso gli proponeva, senza 
+            <lb xml:id="Cod_IstruzionePubblica21_riga50" n="50" facs="#IstruzionePubblica21_riga50"/>
+            neppur dirgliene le ragioni. Che forza può dunque avere 
+            <lb xml:id="Cod_IstruzionePubblica21_riga51" n="51" facs="#IstruzionePubblica21_riga51"/>
+            il <orgName ref="#Consiglio_Istr">Consiglio</orgName>, e dove possono le <orgName type="scuola">scuole</orgName> trovare qualche sta
+            <lb xml:id="Cod_IstruzionePubblica21_riga52" n="52" facs="#IstruzionePubblica21_riga52" break="no"/>
+            bilità? Non vediamo ogni anno essere mutate le norme, secon
+            <lb xml:id="Cod_IstruzionePubblica21_riga53" n="53" facs="#IstruzionePubblica21_riga53" break="no"/>
+            do cui si danno gli <term type="didattica">esami della licenza liceale</term>, senza che se ne 
+            <lb xml:id="Cod_IstruzionePubblica21_riga54" n="54" facs="#IstruzionePubblica21_riga54"/>
+            sappia il perchè? O piuttosto è un perchè che non si osa confes
+            <lb xml:id="Cod_IstruzionePubblica21_riga55" n="55" facs="#IstruzionePubblica21_riga55" break="no"/>
+            sare, cioè il solo desiderio di essere indulgenti verso i molti 
+            
+            <cb n="2"/>
+
+            <lb xml:id="Cod_IstruzionePubblica21_riga56" n="56" facs="#IstruzionePubblica21_riga56"/>
+            che studiano poco e gridano assai, e verso coloro che fanno 
+            <lb xml:id="Cod_IstruzionePubblica21_riga57" n="57" facs="#IstruzionePubblica21_riga57"/>
+            la <term type="economico">speculazione</term> d’ <orgName type="scuola_privata">istituti privati</orgName> a buon prezzo. I <term type="normativa">regola
+            <lb xml:id="Cod_IstruzionePubblica21_riga58" n="58" facs="#IstruzionePubblica21_riga58" break="no"/>
+            menti universitari</term> furono tante volte mutati, e sono così
+            <lb xml:id="Cod_IstruzionePubblica21_riga59" n="59" facs="#IstruzionePubblica21_riga59"/>
+            intricati, che ogni <orgName type="università">università</orgName> li interpreta a suo modo, e si  
+            <lb xml:id="Cod_IstruzionePubblica21_riga60" n="60" facs="#IstruzionePubblica21_riga60"/>
+            crede di trovar sempre un <term type="atto_legale">articolo</term> con cui giustificarsi.
+        </p>
+
+        <p xml:id="IstruzionePubblica21_paragrafo3" n="3">
+            <lb xml:id="Cod_IstruzionePubblica21_riga61" n="61" facs="#IstruzionePubblica21_riga61"/>
+            La <term ref="#Legge_Casati">legge 13 nov. 1859</term>, che sarebbe la nostra <term type="normativa">legge fonda
+            <lb xml:id="Cod_IstruzionePubblica21_riga62" n="62" facs="#IstruzionePubblica21_riga62" break="no"/>
+            mentale di pubblica istruzione</term>, è stata tante volte in tante parti 
+            <lb xml:id="Cod_IstruzionePubblica21_riga63" n="63" facs="#IstruzionePubblica21_riga63"/>
+            modificata, che non sappiamo se può dirsi più una <term type="normativa">legge  
+            <lb xml:id="Cod_IstruzionePubblica21_riga64" n="64" facs="#IstruzionePubblica21_riga64" break="no"/>
+            dello Stato</term>. Del <term type="sistema">sistema universitario</term> che fondava, appena  
+            <lb xml:id="Cod_IstruzionePubblica21_riga65" n="65" facs="#IstruzionePubblica21_riga65"/>
+            si può dire che resti qualche cosa di sostanziale. Tutto è 
+            <lb xml:id="Cod_IstruzionePubblica21_riga66" n="66" facs="#IstruzionePubblica21_riga66"/>
+            mutato e spesso mutato in una direzione opposta a quella 
+            <lb xml:id="Cod_IstruzionePubblica21_riga67" n="67" facs="#IstruzionePubblica21_riga67"/>
+            per cui essa voleva andare. E molto di ciò che non è stato 
+            <lb xml:id="Cod_IstruzionePubblica21_riga68" n="68" facs="#IstruzionePubblica21_riga68"/>
+            distrutto, non è più osservato da un gran pezzo, e nessuno 
+            <lb xml:id="Cod_IstruzionePubblica21_riga69" n="69" facs="#IstruzionePubblica21_riga69"/>
+            vi pensa.
+        </p>
+
+        <p xml:id="IstruzionePubblica21_paragrafo4" n="4">
+            <lb xml:id="Cod_IstruzionePubblica21_riga70" n="70" facs="#IstruzionePubblica21_riga70"/>
+            Noi abbiamo molte volte ricordato, che questa <term type="normativa">legge</term> 
+            <lb xml:id="Cod_IstruzionePubblica21_riga71" n="71" facs="#IstruzionePubblica21_riga71"/>
+            vieta agli alunni dei <orgName type="seminario">seminari</orgName>, che non hanno <roleName>professori</roleName> con                    
+            <lb xml:id="Cod_IstruzionePubblica21_riga72" n="72" facs="#IstruzionePubblica21_riga72"/>
+            <term type="titolo">diploma</term>, di presentarsi agli <term type="didattica">esami di licenza liceale</term>. Se ciò
+            <lb xml:id="Cod_IstruzionePubblica21_riga73" n="73" facs="#IstruzionePubblica21_riga73"/>
+            fosse eseguito, la più parte dei <orgName type="seminario">seminari</orgName> dovrebbero chiu            <lb xml:id="Cod_IstruzionePubblica21_riga74" n="74" facs="#IstruzionePubblica21_riga74" break="no"/>
+            dersi o restringersi ai <term type="didattica">corsi teologici</term>. Invece fioriscono, 
+            <lb xml:id="Cod_IstruzionePubblica21_riga75" n="75" facs="#IstruzionePubblica21_riga75"/>
+            si moltiplicano, fanno concorrenza al <orgName type="governo">governo</orgName>, che accoglie 
+            <lb xml:id="Cod_IstruzionePubblica21_riga76" n="76" facs="#IstruzionePubblica21_riga76"/>
+            i loro alunni agli esami in onta alla <term type="normativa">legge</term>. Ma v'è di peg
+            <lb xml:id="Cod_IstruzionePubblica21_riga77" n="77" facs="#IstruzionePubblica21_riga77" break="no"/>
+            gio ancora.
+        </p>
+
+        <p xml:id="IstruzionePubblica21_paragrafo5" n="5">
+            <lb xml:id="Cod_IstruzionePubblica21_riga78" n="78" facs="#IstruzionePubblica21_riga78"/>
+            L' <term type="atto_legale">art. 106</term> della <term type="normativa">legge</term> dice che il <roleName>Ministro</roleName> può <quote>« so
+            <lb xml:id="Cod_IstruzionePubblica21_riga79" n="79" facs="#IstruzionePubblica21_riga79" break="no"/>
+            spendere o rimuovere quei <roleName>professori</roleName>, i quali coll'inse
+            <lb xml:id="Cod_IstruzionePubblica21_riga80" n="80" facs="#IstruzionePubblica21_riga80" break="no"/>
+            gnamento o cogli scritti hanno impugnato le verità sulle 
+            <lb xml:id="Cod_IstruzionePubblica21_riga81" n="81" facs="#IstruzionePubblica21_riga81"/>
+            quali riposa l' <term type="valore">ordine religioso e morale</term> »</quote>. Il che vuol dire 
+            <lb xml:id="Cod_IstruzionePubblica21_riga82" n="82" facs="#IstruzionePubblica21_riga82"/>
+            che se fra noi insegnassero il <persName ref="#C_Darwin">Darwin</persName>, lo <persName ref="#H_Spencer">Spencer</persName>, il <persName ref="#JS_Mill">Mill</persName> 
+            <lb xml:id="Cod_IstruzionePubblica21_riga83" n="83" facs="#IstruzionePubblica21_riga83"/>
+            ed altri di ugual valore, potrebbero, forse dovrebbero se
+            <lb xml:id="Cod_IstruzionePubblica21_riga84" n="84" facs="#IstruzionePubblica21_riga84" break="no"/>
+            condo la <term type="normativa">legge</term> essere destituiti. E senza andare al <persName ref="#C_Darwin">Darwin</persName> 
+            <lb xml:id="Cod_IstruzionePubblica21_riga85" n="85" facs="#IstruzionePubblica21_riga85"/>
+            o al <persName ref="#JS_Mill">Mill</persName>, possiamo dire che quasi tutti i nostri migliori  
+            <lb xml:id="Cod_IstruzionePubblica21_riga86" n="86" facs="#IstruzionePubblica21_riga86"/>
+            <roleName>insegnanti</roleName> potrebbero essere destituiti, giacchè non sono  
+            <lb xml:id="Cod_IstruzionePubblica21_riga87" n="87" facs="#IstruzionePubblica21_riga87"/>
+            pochi coloro i quali insegnano <term type="concetto">dottrine contrarie alla reli
+            <lb xml:id="Cod_IstruzionePubblica21_riga88" n="88" facs="#IstruzionePubblica21_riga88" break="no"/>
+            gione</term> che lo <term ref="#Statuto_Alb">Statuto</term> riconosce come <term type="istituzione">religione dello Stato</term>. 
+            <lb xml:id="Cod_IstruzionePubblica21_riga89" n="89" facs="#IstruzionePubblica21_riga89"/>
+            È vero che il <roleName>Ministro</roleName> non può destituire un <roleName>professore</roleName> 
+            <lb xml:id="Cod_IstruzionePubblica21_riga90" n="90" facs="#IstruzionePubblica21_riga90"/>
+            senza « il parere conforme del <orgName ref="#Consiglio_Istr">Consiglio Superiore</orgName>. » Ma 
+            <lb xml:id="Cod_IstruzionePubblica21_riga91" n="91" facs="#IstruzionePubblica21_riga91"/>
+            noi abbiamo visto che conto esso fa del <orgName ref="#Consiglio_Istr">Consiglio</orgName>, e come
+            <lb xml:id="Cod_IstruzionePubblica21_riga92" n="92" facs="#IstruzionePubblica21_riga92"/>
+            si crede in diritto anche di modificarlo, quasi di disfarlo con
+            <lb xml:id="Cod_IstruzionePubblica21_riga93" n="93" facs="#IstruzionePubblica21_riga93"/>
+            un <term type="atto_legale">decreto</term>. E poi, stando alla <term type="normativa">legge</term>, e se vuol rispettarla, non
+            <lb xml:id="Cod_IstruzionePubblica21_riga94" n="94" facs="#IstruzionePubblica21_riga94"/>
+            si trova il <orgName ref="#Consiglio_Istr">Consiglio</orgName> stesso molto impacciato? Finora ha
+            <lb xml:id="Cod_IstruzionePubblica21_riga95" n="95" facs="#IstruzionePubblica21_riga95"/>
+            prevalso una <term type="concetto">interpretazione molto larga</term>, e la <term type="valore">libertà d'in
+            <lb xml:id="Cod_IstruzionePubblica21_riga96" n="96" facs="#IstruzionePubblica21_riga96" break="no"/>
+            segnamento</term> di fatto esiste fra noi nelle <orgName type="scuola">scuole dello Stato</orgName>.  
+            <lb xml:id="Cod_IstruzionePubblica21_riga97" n="97" facs="#IstruzionePubblica21_riga97"/>
+            Ma quanto alla <term type="normativa">legge</term> non si può dire che essa esplicita
+            <lb xml:id="Cod_IstruzionePubblica21_riga98" n="98" facs="#IstruzionePubblica21_riga98" break="no"/>
+            mente riconosca la <term type="valore">libertà della scienza e della coscienza</term> nelle
+            <lb xml:id="Cod_IstruzionePubblica21_riga99" n="99" facs="#IstruzionePubblica21_riga99"/>
+            <orgName type="scuola">scuole</orgName>. Essa anzi adopera un tale linguaggio, che se un 
+            <lb xml:id="Cod_IstruzionePubblica21_riga100" n="100" facs="#IstruzionePubblica21_riga100"/>
+            giorno il <orgName ref="#Destra">partito « conservatore »</orgName> venisse al potere, gli sarebbe 
+            <lb xml:id="Cod_IstruzionePubblica21_riga101" n="101" facs="#IstruzionePubblica21_riga101"/>
+            facile, quando avesse un <orgName ref="#Consiglio_Istr">Consiglio superiore</orgName> fatto a sua  
+            <lb xml:id="Cod_IstruzionePubblica21_riga102" n="102" facs="#IstruzionePubblica21_riga102"/>
+            immagine, di destituire una buona parte dei <roleName>professori uni
+            <lb xml:id="Cod_IstruzionePubblica21_riga103" n="103" facs="#IstruzionePubblica21_riga103" break="no"/>
+            versitari</roleName>, e mettere sulla <term type="didattica">cattedra</term> uomini del suo colore.  
+            <lb xml:id="Cod_IstruzionePubblica21_riga104" n="104" facs="#IstruzionePubblica21_riga104"/>
+            E quello che è peggio, potrebbe farlo con tutta l'appa
+            <lb xml:id="Cod_IstruzionePubblica21_riga105" n="105" facs="#IstruzionePubblica21_riga105" break="no"/>
+            renza di rispettare la <term type="normativa">legge</term>. Non è questo un pericolo ed
+            <lb xml:id="Cod_IstruzionePubblica21_riga106" n="106" facs="#IstruzionePubblica21_riga106"/>
+            un grave pericolo per noi?
+        </p>
+
+        <p xml:id="IstruzionePubblica21_paragrafo6" n="6">
+            <lb xml:id="Cod_IstruzionePubblica21_riga107" n="107" facs="#IstruzionePubblica21_riga107"/>
+            Crediamo perciò che sia necessario mettere una volta 
+            <lb xml:id="Cod_IstruzionePubblica21_riga108" n="108" facs="#IstruzionePubblica21_riga108"/>
+            qualche <term type="valore">ordine</term> nella <term type="concetto">indigesta farragine delle nostre leggi  
+            <lb xml:id="Cod_IstruzionePubblica21_riga109" n="109" facs="#IstruzionePubblica21_riga109" break="no"/>
+            e regolamenti scolastici</term>, e dare coll'ordine una qual
+            <lb xml:id="Cod_IstruzionePubblica21_riga110" n="110" facs="#IstruzionePubblica21_riga110" break="no"/>
+            che <term type="valore">stabilità</term> alle <orgName type="scuola">scuole</orgName>, senza di che non sarà mai 
+            <lb xml:id="Cod_IstruzionePubblica21_riga111" n="111" facs="#IstruzionePubblica21_riga111"/>
+            possibile vederle fiorire. Se ogni giorno ai <roleName>Ministri</roleName> è 
+            <lb xml:id="Cod_IstruzionePubblica21_riga112" n="112" facs="#IstruzionePubblica21_riga112"/>
+            dato mutare i <term type="didattica">programmi</term>, gli <term type="didattica">esami</term>, i <term type="normativa">regolamenti</term>, senza  
+            <lb xml:id="Cod_IstruzionePubblica21_riga113" n="113" facs="#IstruzionePubblica21_riga113"/>
+            consultare alcuno o consultando solo chi a loro piace; se 
+            <lb xml:id="Cod_IstruzionePubblica21_riga114" n="114" facs="#IstruzionePubblica21_riga114"/>
+            nessuna <term type="concetto">tradizione</term> si può costituire, nessun <term type="sistema">ordinamento</term> è 
+            <lb xml:id="Cod_IstruzionePubblica21_riga115" n="115" facs="#IstruzionePubblica21_riga115"/>
+            sicuro di vivere, è certo che non si potrà avere alcun pro
+            <lb xml:id="Cod_IstruzionePubblica21_riga116" n="116" facs="#IstruzionePubblica21_riga116" break="no"/>
+            fitto negli <roleName>alunni</roleName>, e le <term type="istituzione">autorità scolastiche</term> non avranno mai 
+            <lb xml:id="Cod_IstruzionePubblica21_riga117" n="117" facs="#IstruzionePubblica21_riga117"/>
+            forza alcuna per far rispettare le <term type="normativa">leggi</term>, nè potranno for
+            <lb xml:id="Cod_IstruzionePubblica21_riga118" n="118" facs="#IstruzionePubblica21_riga118" break="no"/>
+            marsi un giudizio sicuro sui risultati che esse danno.
+        </p>
+        
+        <pb n="22" facs="#la_legge_sull_istruzione_pubblica_pag22"/>
+        <p xml:id="IstruzionePubblica22_paragrafo1" n="1">
+            <lb xml:id="Cod_IstruzionePubblica22_riga1" n="1" facs="#IstruzionePubblica22_riga1"/>
+            giacchè vengono mutate prima che questi risultati riescano vi
+            <lb xml:id="Cod_IstruzionePubblica22_riga2" n="2" facs="#IstruzionePubblica22_riga2" break="no"/>
+            sibili. E se a ciò si aggiunge l'incertezza stessa della <term type="normativa">legge</term>  
+            <lb xml:id="Cod_IstruzionePubblica22_riga3" n="3" facs="#IstruzionePubblica22_riga3"/>
+            in cose di così capitale importanza come è la <term type="valore">libertà della 
+            <lb xml:id="Cod_IstruzionePubblica22_riga4" n="4" facs="#IstruzionePubblica22_riga4"/>
+            scienza</term> e l' <term type="valore">indipendenza dell'insegnamento</term>, non parrà troppo
+            <lb xml:id="Cod_IstruzionePubblica22_riga5" n="5" facs="#IstruzionePubblica22_riga5"/>
+            il chiedere che s'esca una volta per sempre da tanta con
+            <lb xml:id="Cod_IstruzionePubblica22_riga6" n="6" facs="#IstruzionePubblica22_riga6" break="no"/>
+            fusione, tanti <term type="concetto">arbitrii</term> o tante <term type="concetto">illegalità</term>. Queste cose son sem
+            <lb xml:id="Cod_IstruzionePubblica22_riga7" n="7" facs="#IstruzionePubblica22_riga7" break="no"/>
+            pre biasimevoli e pericolose, ma sopra tutto poi, quando ne 
+            <lb xml:id="Cod_IstruzionePubblica22_riga8" n="8" facs="#IstruzionePubblica22_riga8"/>
+            dà esempio al <placeName>paese</placeName> il <orgName ref="#Min_Istruzione">Ministero della pubblica istruzione 
+            <lb xml:id="Cod_IstruzionePubblica22_riga9" n="9" facs="#IstruzionePubblica22_riga9"/>
+            ed educazione</orgName>.
+        </p>
+    </body>
+</text>
+ <!--Notizie-->
+ <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Codifica integrale e analitica: La Rassegna Settimanale n. 69</title>
+            </titleStmt>  
+            <publicationStmt>
+                <publisher>Università di Pisa</publisher>
+                <date when="2026">2026</date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title level="j">La Rassegna Settimanale</title>
+                    <date when="1879-04-27">27 Aprile 1879</date>
+                    <pubPlace ref="#RM">Roma</pubPlace>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader> 
+   <!--Teizone - Notizia Academy--> 
+<facsimile>
+<surface>
+<graphic url="Notizie Volume 3 Fascicolo 69 Pag. 332.png" width="562.4px" height="831.4px"/>
+<zone ulx="42" uly="31" lrx="549" lry="51" xml:id="NotizieVol3_header" corresp="Cod_NotizieVol3_header"/>
+<zone ulx="403" uly="128" lrx="454" lry="138" xml:id="NotizieVol3_labelDx" corresp="Cod_NotizieVol3_labelDx"/>
+<zone ulx="327" uly="141" lrx="553" lry="150"/>
+<zone ulx="302" uly="153" lrx="553" lry="158"/>
+<zone ulx="303" uly="161" lrx="551" lry="167"/>
+<zone ulx="301" uly="170" lrx="554" lry="178"/>
+<zone ulx="301" uly="180" lrx="551" lry="188"/>
+<zone ulx="300" uly="190" lrx="552" lry="197"/>
+<zone ulx="299" uly="198" lrx="551" lry="207"/>
+<zone ulx="301" uly="211" lrx="555" lry="218"/>
+<zone ulx="298" uly="220" lrx="535" lry="226"/>
+<zone ulx="327" uly="231" lrx="555" lry="240"/>
+<zone ulx="302" uly="242" lrx="555" lry="249"/>
+<zone ulx="301" uly="252" lrx="554" lry="259"/>
+<zone ulx="303" uly="259" lrx="554" lry="270"/>
+<zone ulx="302" uly="270" lrx="552" lry="281"/>
+<zone ulx="299" uly="282" lrx="555" lry="288"/>
+<zone ulx="300" uly="290" lrx="555" lry="299"/>
+<zone ulx="299" uly="298" lrx="422" lry="307"/>
+<zone ulx="315" uly="315" lrx="555" lry="321"/>
+<zone ulx="300" uly="324" lrx="553" lry="330"/>
+<zone ulx="303" uly="334" lrx="558" lry="342"/>
+<zone ulx="303" uly="343" lrx="555" lry="351"/>
+<zone ulx="302" uly="352" lrx="555" lry="363"/>
+<zone ulx="299" uly="363" lrx="549" lry="372"/>
+<zone ulx="302" uly="373" lrx="554" lry="379"/>
+<zone ulx="313" uly="383" lrx="555" lry="394"/>
+<zone ulx="301" uly="396" lrx="549" lry="403"/>
+<zone ulx="302" uly="406" lrx="557" lry="415"/>
+<zone ulx="299" uly="417" lrx="551" lry="421"/>
+<zone ulx="299" uly="422" lrx="551" lry="430"/>
+<zone ulx="298" uly="435" lrx="553" lry="443"/>
+<zone ulx="300" uly="445" lrx="555" lry="452"/>
+<zone ulx="299" uly="454" lrx="548" lry="462"/>
+<zone ulx="302" uly="467" lrx="556" lry="469"/>
+<zone ulx="302" uly="473" lrx="548" lry="483"/>
+<zone ulx="299" uly="486" lrx="554" lry="491"/>
+<zone ulx="303" uly="493" lrx="551" lry="499"/>
+<zone ulx="294" uly="503" lrx="555" lry="510"/>
+<zone ulx="295" uly="513" lrx="558" lry="520"/>
+<zone ulx="304" uly="522" lrx="559" lry="531"/>
+<zone ulx="297" uly="533" lrx="552" lry="541"/>
+<zone ulx="295" uly="546" lrx="553" lry="549"/>
+<zone ulx="299" uly="551" lrx="551" lry="559"/>
+<zone ulx="295" uly="561" lrx="555" lry="567"/>
+<zone ulx="304" uly="569" lrx="544" lry="579"/>
+<zone ulx="297" uly="583" lrx="546" lry="589"/>
+<zone ulx="294" uly="591" lrx="547" lry="598"/>
+<zone ulx="296" uly="598" lrx="550" lry="607"/>
+<zone ulx="299" uly="609" lrx="547" lry="617"/>
+<zone ulx="507" uly="619" lrx="537" lry="627"/>
+<zone ulx="313" uly="631" lrx="554" lry="639"/>
+<zone ulx="298" uly="640" lrx="545" lry="648"/>
+<zone ulx="304" uly="648" lrx="547" lry="659"/>
+<zone ulx="303" uly="661" lrx="388" lry="669"/>
+<zone ulx="496" uly="659" lrx="544" lry="667"/>
+<zone ulx="317" uly="670" lrx="548" lry="678"/>
+<zone ulx="306" uly="683" lrx="547" lry="693"/>
+<zone ulx="301" uly="691" lrx="327" lry="700"/>
+<zone ulx="391" uly="706" lrx="457" lry="711"/>
+<zone ulx="314" uly="718" lrx="553" lry="724"/>
+<zone ulx="299" uly="728" lrx="337" lry="735"/>
+<zone ulx="332" uly="739" lrx="419" lry="748"/>
+<zone ulx="324" uly="750" lrx="393" lry="758"/>
+<zone ulx="426" uly="743" lrx="514" lry="755"/>
+<zone ulx="322" uly="762" lrx="493" lry="774"/>
+<zone ulx="387" uly="775" lrx="531" lry="785"/>
+</surface>
+</facsimile>
+<text xml:id="NotizieVol3_text" subtype="news">
+    <body>
+        <pb n="332" facs="#NotizieVol3_header"/>
+        
+        <fw type="header" xml:id="Cod_NotizieVol3_header" facs="#NotizieVol3_header">
+            332 LA RASSEGNA SETTIMANALE Vol. 3°, N° 69
+        </fw>
+
+        <head rend="align(center) case(allcaps)" xml:id="Cod_NotizieVol3_labelDx" facs="#NotizieVol3_labelDx">
+            NOTIZIE.
+        </head>
+
+        <p xml:id="Notizie_P1" n="1">
+            <lb xml:id="Cod_NotizieVol3_riga1" n="1" facs="#NotizieVol3_riga1"/>
+            — La festa per il 50° anniversario della fondazione dell'<orgName ref="#Inst_Archeo_Ger">Istituto ar<lb xml:id="Cod_NotizieVol3_riga2" n="2" facs="#NotizieVol3_riga2" break="no"/>cheologico germanico</orgName> fu celebrata con grande solennità il 21 di aprile. 
+            <lb xml:id="Cod_NotizieVol3_riga3" n="3" facs="#NotizieVol3_riga3"/>
+            Furono editi vari libri in tale solenne circostanza, tra i quali è im<lb xml:id="Cod_NotizieVol3_riga4" n="4" facs="#NotizieVol3_riga4" break="no"/>portante il libro del <persName ref="#GB_DeRossi">commendatore de Rossi</persName>, intitolato: <title level="m">Storia gene<lb xml:id="Cod_NotizieVol3_riga5" n="5" facs="#NotizieVol3_riga5" break="no"/>rale delle misure e piante di Roma dalle sue origini a tutto il secolo XV.</title> 
+            <lb xml:id="Cod_NotizieVol3_riga6" n="6" facs="#NotizieVol3_riga6"/>
+            Questo libro trova il suo compimento nella pubblicazione che il <orgName ref="#Min_Istruzione">Mini<lb xml:id="Cod_NotizieVol3_riga7" n="7" facs="#NotizieVol3_riga7" break="no"/>stero dell'Istruzione</orgName> fece per la medesima circostanza, dando alla luce 
+            <lb xml:id="Cod_NotizieVol3_riga8" n="8" facs="#NotizieVol3_riga8"/>
+            una riproduzione della grande pianta di <placeName ref="#RM">Roma</placeName> di <persName ref="#L_Bufalini">L. Bufalini</persName>, tratta da 
+            <lb xml:id="Cod_NotizieVol3_riga9" n="9" facs="#NotizieVol3_riga9"/>
+            una copia rinvenuta a <placeName ref="#CN">Cuneo</placeName> nel convento di <placeName>S. M. degli Angeli</placeName>.
+        </p>
+
+        <p xml:id="Notizie_P2" n="2">
+            <lb xml:id="Cod_NotizieVol3_riga10" n="10" facs="#NotizieVol3_riga10"/>
+            — Nell’adunanza del <date when="1879-02-23">23 febbraio 1879</date>, della <orgName ref="#Deputazione_BO">R. Deputazione di 
+            <lb xml:id="Cod_NotizieVol3_riga11" n="11" facs="#NotizieVol3_riga11"/>
+            Storia patria di Bologna</orgName>, il <persName ref="#L_Manzoni">conte Luigi Manzoni</persName> ha letto la prima
+            <lb xml:id="Cod_NotizieVol3_riga12" n="12" facs="#NotizieVol3_riga12"/>
+            parte di un suo lavoro sulla storia e letteratura della leggenda di 
+            <lb xml:id="Cod_NotizieVol3_riga13" n="13" facs="#NotizieVol3_riga13"/>
+            <persName ref="#P_Gianni">Prete Gianni</persName>, menzionato nel <title level="m">Novellino</title> e famoso nelle cronache caval<lb xml:id="Cod_NotizieVol3_riga14" n="14" facs="#NotizieVol3_riga14" break="no"/>leresche del medio evo. In questa prima parte il <choice><abbr>signor</abbr><expan>signore</expan></choice> <persName ref="#L_Manzoni">Manzoni</persName> di<lb xml:id="Cod_NotizieVol3_riga15" n="15" facs="#NotizieVol3_riga15" break="no"/>scorre del poema in ottava rima sopra tale argomento, composto da 
+            <lb xml:id="Cod_NotizieVol3_riga16" n="16" facs="#NotizieVol3_riga16"/>
+            <persName ref="#G_Dati">Giuliano Dati</persName> sulla fine del <date>secolo XV</date>, più volte edita; ne chiarisce 
+            <lb xml:id="Cod_NotizieVol3_riga17" n="17" facs="#NotizieVol3_riga17"/>
+            le fonti, e n'espone il contenuto.
+        </p>
+
+        <p xml:id="Notizie_P3" n="3">
+            <lb xml:id="Cod_NotizieVol3_riga18" n="18" facs="#NotizieVol3_riga18"/>
+            — La <orgName ref="#Marciana">Biblioteca Marciana</orgName> ha acquistato recentemente un <term>Antifo<lb xml:id="Cod_NotizieVol3_riga19" n="19" facs="#NotizieVol3_riga19" break="no"/>nario</term> in pergamena, del <date>secolo XIV</date> (già appartenuto alla <orgName ref="#Conf_Carita">Confrater<lb xml:id="Cod_NotizieVol3_riga20" n="20" facs="#NotizieVol3_riga20" break="no"/>nita della Carità</orgName> di <placeName ref="#VE">Venezia</placeName>, e fatto a spese di questa), ornato di 
+            <lb xml:id="Cod_NotizieVol3_riga21" n="21" facs="#NotizieVol3_riga21"/>
+            venticinque miniature di rappresentazioni sacre. Nella seconda di dette 
+            <lb xml:id="Cod_NotizieVol3_riga22" n="22" facs="#NotizieVol3_riga22"/>
+            tavole miniate è scritto il nome dell’autore, che è <persName ref="#G_Gherardino">Giustino di maestro 
+            <lb xml:id="Cod_NotizieVol3_riga23" n="23" facs="#NotizieVol3_riga23" facs="#NotizieVol3_riga23"/>
+            Gherardino da Forlì</persName>. Il <term>cod.</term> è interessantissimo per la storia dell’arte, 
+            <lb xml:id="Cod_NotizieVol3_riga24" n="24" facs="#NotizieVol3_riga24"/>
+            e ci rivela il nome di un artista miniatore finora ignoto agli eruditi.
+        </p>
+
+        <p xml:id="Notizie_P4" n="4">
+            <lb xml:id="Cod_NotizieVol3_riga25" n="25" facs="#NotizieVol3_riga25"/>
+            Secondo il <title level="j">Globe</title> il programma ufficiale stabilito per la « Spedi<lb xml:id="Cod_NotizieVol3_riga26" n="26" facs="#NotizieVol3_riga26" break="no"/>zione Imperiale » nell’<placeName ref="#Asia_C">Asia centrale</placeName>, comandata dal <persName ref="#N_Costantinovich">Gran Duca Niccolò 
+            <lb xml:id="Cod_NotizieVol3_riga27" n="27" facs="#NotizieVol3_riga27"/>
+            Costantinovich</persName>, sarebbe il seguente: Lo Stato maggiore della spedi<lb xml:id="Cod_NotizieVol3_riga28" n="28" facs="#NotizieVol3_riga28" break="no"/>zione si comporrà di un <roleName>ingegnere</roleName>, di un <roleName>ufficiale</roleName> della flotta del Bal<lb xml:id="Cod_NotizieVol3_riga29" n="29" facs="#NotizieVol3_riga29" break="no"/>tico, di un <roleName>ispettore</roleName>, un <roleName>naturalista</roleName>, un <roleName>archeologo</roleName>, un <roleName>geologo</roleName>, un 
+            <lb xml:id="Cod_NotizieVol3_riga30" n="30" facs="#NotizieVol3_riga30"/>
+            <roleName>pittore</roleName>, un <roleName>topografo</roleName> ed un <roleName>corrispondente</roleName>. Scopo della spedizione è di 
+            <lb xml:id="Cod_NotizieVol3_riga31" n="31" facs="#NotizieVol3_riga31"/>
+            scegliere la strada che dovrà percorrere la <term>ferrovia dell’Asia centrale</term>, 
+            <lb xml:id="Cod_NotizieVol3_riga32" n="32" facs="#NotizieVol3_riga32"/>
+            esaminare la navigabilità dell’<placeName ref="#Oxus">Oxus</placeName> e decidere se è possibile di farlo 
+            <lb xml:id="Cod_NotizieVol3_riga33" n="33" facs="#NotizieVol3_riga33"/>
+            sboccare nel <placeName ref="#Caspio">Caspio</placeName>. La spedizione andrà dall’<placeName ref="#Ural">Ural</placeName> a <placeName ref="#Karasugai">Karasugai</placeName>, sul 
+            <lb xml:id="Cod_NotizieVol3_riga34" n="34" facs="#NotizieVol3_riga34"/>
+            <placeName ref="#Syr_Daria">Syr Daria</placeName>, poi per la via di <placeName ref="#Tashkend">Tashkend</placeName> e <placeName ref="#Samarcanda">Samarcanda</placeName> all’<placeName ref="#Oxus">Oxus</placeName> a <placeName ref="#Kunduz">Kunduz</placeName> 
+            <lb xml:id="Cod_NotizieVol3_riga35" n="35" facs="#NotizieVol3_riga35"/>
+            (<placeName ref="#Afghanistan">Afghanistan</placeName>); quindi lungo il fiume a <placeName ref="#Khiva">Khiva</placeName> e traverso il <placeName ref="#Kara_Kum">Kara Kum</placeName> 
+            <lb xml:id="Cod_NotizieVol3_riga36" n="36" facs="#NotizieVol3_riga36"/>
+            a <placeName ref="#Krasnovodsk">Krasnovodsk</placeName>. Lo scopo della spedizione sarà: 1. Raccogliere infor<lb xml:id="Cod_NotizieVol3_riga37" n="37" facs="#NotizieVol3_riga37" break="no"/>mazioni rispetto alla spesa per la <term>linea ferrata</term>, la possibilità di avere 
+            <lb xml:id="Cod_NotizieVol3_riga38" n="38" facs="#NotizieVol3_riga38"/>
+            il materiale da costruzione, sapere se il <term>combustibile</term> esiste lungo la 
+            <lb xml:id="Cod_NotizieVol3_riga39" n="39" facs="#NotizieVol3_riga39"/>
+            via o anche la quantità di lavoro che si può ottenere; 2. Studiare la 
+            <lb xml:id="Cod_NotizieVol3_riga40" n="40" facs="#NotizieVol3_riga40"/>
+            velocità dell’<placeName ref="#Oxus">Oxus</placeName>, l’altezza delle sue sponde, sapere quanta è la po<lb xml:id="Cod_NotizieVol3_riga41" n="41" facs="#NotizieVol3_riga41" break="no"/>polazione delle città e stabilimenti più vicini, e conoscere il commer<lb xml:id="Cod_NotizieVol3_riga42" n="42" facs="#NotizieVol3_riga42" break="no"/>cio che si fa sul fiume; 3. Esaminare le oasi di <placeName ref="#Khiva">Khiva</placeName>, le acque di 
+            <lb xml:id="Cod_NotizieVol3_riga43" n="43" facs="#NotizieVol3_riga43"/>
+            <placeName ref="#Sari_Kamish">Sari Kamish</placeName> e l’antico letto dell’<placeName ref="#Oxus">Oxus</placeName>, conosciuto comunemente col 
+            <lb xml:id="Cod_NotizieVol3_riga44" n="44" facs="#NotizieVol3_riga44"/>
+            nome di <placeName ref="#Uzboi">Uzboi</placeName>; 4. Fare delle osservazioni astronomiche lungo la strada, 
+            <lb xml:id="Cod_NotizieVol3_riga45" n="45" facs="#NotizieVol3_riga45"/>
+            tracciare dei piani militari, far disegni del paese, raccogliere oggetti 
+            <lb xml:id="Cod_NotizieVol3_riga46" n="46" facs="#NotizieVol3_riga46"/>
+            mineralogici, geologici, archeologici, di qualche importanza, e tenere 
+            <lb xml:id="Cod_NotizieVol3_riga47" n="47" facs="#NotizieVol3_riga47"/>
+            un diario. È anche possibile tuttavia, che nel caso di certi imbrogli 
+            <lb xml:id="Cod_NotizieVol3_riga48" n="48" facs="#NotizieVol3_riga48"/>
+            orientali, la spedizione geografica possa divenire militare contro <placeName ref="#Merv">Merv</placeName>. 
+            <lb xml:id="Cod_NotizieVol3_riga49" n="49" facs="#NotizieVol3_riga49"/>
+            (<title level="j">Nature</title>)
+        </p>
+
+        <p xml:id="Notizie_P5" n="5">
+            <lb xml:id="Cod_NotizieVol3_riga50" n="50" facs="#NotizieVol3_riga50"/>
+            — Il <persName ref="#Rocher">signor Rocher</persName>, di <placeName ref="#TLS">Tolosa</placeName>, ha chiamato <term>Amianthine</term> un nuovo 
+            <lb xml:id="Cod_NotizieVol3_riga51" n="51" facs="#NotizieVol3_riga51"/>
+            combustibile da lui inventato, del quale si parla molto in <placeName ref="#America">America</placeName>.
+            <lb xml:id="Cod_NotizieVol3_riga52" n="52" facs="#NotizieVol3_riga52"/>
+            È un composto di <term>amianto</term> ridotto in polvere finissima, <term>carbone di le<lb xml:id="Cod_NotizieVol3_riga53" n="53" facs="#NotizieVol3_riga53" break="no"/>gna</term> e <term>nitrato di piombo</term>. 
+            <lb xml:id="Cod_NotizieVol3_riga54" n="54" facs="#NotizieVol3_riga54"/>
+            (<title level="j">Athenæum</title>)
+        </p>
+
+        <p xml:id="Notizie_P6" n="6">
+            <lb xml:id="Cod_NotizieVol3_riga55" n="55" facs="#NotizieVol3_riga55"/>
+            — Il <date when="1879-04-06">6 aprile</date> morì a <placeName ref="#BL1">Berlino</placeName> nell’età di 76 anni il celebre 
+            <lb xml:id="Cod_NotizieVol3_riga56" n="56" facs="#NotizieVol3_riga56"/>
+            fisico <persName ref="#HW_Dove">prof. Dove</persName>, che a giusto titolo si può chiamare il padre della meteo<lb xml:id="Cod_NotizieVol3_riga57" n="57" facs="#NotizieVol3_riga57" break="no"/>rologia.
+        </p>
+
+        <div type="errata">
+            <head rend="align(center)" xml:id="Cod_NotizieVol3_riga58" facs="#NotizieVol3_riga58">ERRATA-CORRIGE</head>
+            <p>
+                <lb xml:id="Cod_NotizieVol3_riga59" n="59" facs="#NotizieVol3_riga59"/>
+                Nel numero 68, pag. 309, col. 1ª, linea 22, invece di: <choice><sic>Cirici</sic><corr>Cinci</corr></choice>, leggasi: 
+                <lb xml:id="Cod_NotizieVol3_riga60" n="60" facs="#NotizieVol3_riga60"/>
+                <mentioned>Cinci</mentioned>.
+            </p>
+        </div>
+
+        <div type="colophon">
+            <p>
+                <lb xml:id="Cod_NotizieVol3_riga61" n="61" facs="#NotizieVol3_riga61"/>
+                <persName ref="#L_Franchetti">LEOPOLDO FRANCHETTI</persName> | 
+                <lb xml:id="Cod_NotizieVol3_riga62" n="62" facs="#NotizieVol3_riga62"/>
+                <persName ref="#S_Sonnino">SIDNEY SONNINO</persName> 
+                <lb xml:id="Cod_NotizieVol3_riga63" n="63" facs="#NotizieVol3_riga63"/>
+                } Proprietari Direttori.
+            </p>
+            <p>
+                <lb xml:id="Cod_NotizieVol3_riga64" n="64" facs="#NotizieVol3_riga64"/>
+                <persName ref="#P_Pampaloni">PIETRO PAMPALONI</persName>, Gerente Responsabile. 
+                <lb xml:id="Cod_NotizieVol3_riga65" n="65" facs="#NotizieVol3_riga65"/>
+                <placeName ref="#RM">ROMA</placeName>, <date when="1879">1879</date>. — <orgName ref="#Tip_Barbera">Tipografia BARBÈRA</orgName>.
+            </p>
+        </div>
+    </body>
+</text>
+    </TEI>
+    </teiCorpus>
+    

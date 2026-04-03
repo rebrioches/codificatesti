@@ -1,0 +1,221 @@
+<text xml:id="Scuole_Normali_text" subtype="essay">
+    <body>
+        <pb n="313" facs="#locali_scuole_normali_femminili_Pag313"/>
+        
+        <fw type="pageNum" place="left" xml:id="Cod_scuole_femminili313_NumeroPagina" facs="#scuole_femminili313_NumeroPagina">313</fw>
+        <fw type="title" place="center" xml:id="Cod_scuole_femminili313_Intestazione" facs="#scuole_femminili313_Intestazione">LA RASSEGNA SETTIMANALE</fw>
+        <fw type="issue" place="right" xml:id="Cod_scuole_femminili313_NumeroVolumeFascicolo" facs="#scuole_femminili313_NumeroVolumeFascicolo">
+            Vol. 3°. <placeName ref="#RM">ROMA</placeName>, <date when="1879-04-27">27 Aprile 1879</date>. N° 69.
+            <milestone unit="headerBreak"/>
+        </fw>
+
+        <head rend="align(center) case(allcaps)" xml:id="Cod_scuole_femminili313_Titolo" n="1" facs="#scuole_femminili313_Titolo">
+            <title type="main" rend="bold">I LOCALI DELLE SCUOLE NORMALI FEMMINILI.</title>
+        </head>
+
+        <p xml:id="Scuole_Normali313_paragrafo1" n="1">
+            <lb xml:id="Cod_scuole_femminili313_riga1" n="1" facs="#scuole_femminili313_riga1"/>
+            Nella <orgName ref="#Rassegna">Rassegna</orgName> del <date when="1879-04-13">13 aprile</date> pubblicammo una lettera,
+            <lb xml:id="Cod_scuole_femminili313_riga2" n="2" facs="#scuole_femminili313_riga2"/>
+            nella quale sono molte e giuste osservazioni, ed è citato un
+            <lb xml:id="Cod_scuole_femminili313_riga3" n="3" facs="#scuole_femminili313_riga3"/>
+            fatto che merita considerazione. Essa parla d’una <orgName ref="#SNF">scuola 
+            <lb xml:id="Cod_scuole_femminili313_riga4" n="4" facs="#scuole_femminili313_riga4" break="no"/>
+            normale</orgName> che si trova in un <emphasis>attico locale</emphasis>, insufficiente al 
+            <lb xml:id="Cod_scuole_femminili313_riga5" n="5" facs="#scuole_femminili313_riga5"/>
+            avere delle alunne che si presentano per l’ammissione. Bia-
+            <lb xml:id="Cod_scuole_femminili313_riga6" n="6" facs="#scuole_femminili313_riga6" break="no"/>
+            sima il <roleName ref="#Provv">provveditore</roleName> che ha messo, illegalmente egli dice,
+            <lb xml:id="Cod_scuole_femminili313_riga7" n="7" facs="#scuole_femminili313_riga7"/>
+            un limite al numero delle alunne. Noi non intendiamo giu-
+            <lb xml:id="Cod_scuole_femminili313_riga8" n="8" facs="#scuole_femminili313_riga8" break="no"/>
+            dicare il caso particolare. Bisognerebbe conoscere la città,
+            <lb xml:id="Cod_scuole_femminili313_riga9" n="9" facs="#scuole_femminili313_riga9"/>
+            la scuola, il locale a cui allude la lettera; bisognerebbe sapere 
+            <lb xml:id="Cod_scuole_femminili313_riga10" n="10" facs="#scuole_femminili313_riga10"/>
+            se è stato consultato il <orgName ref="#CPS">Consiglio Provinciale scolastico</orgName>, e
+            <lb xml:id="Cod_scuole_femminili313_riga11" n="11" facs="#scuole_femminili313_riga11"/>
+            molte altre cose. Ma non occorre occuparsene. L’importanza
+            <lb xml:id="Cod_scuole_femminili313_riga12" n="12" facs="#scuole_femminili313_riga12"/>
+            del fatto non sta nel caso particolare; sta nell'essere esso un 
+            <lb xml:id="Cod_scuole_femminili313_riga13" n="13" facs="#scuole_femminili313_riga13"/>
+            fatto che si ripete in molte città italiane.
+            <lb xml:id="Cod_scuole_femminili313_riga14" n="14" facs="#scuole_femminili313_riga14"/>
+            Le <orgName ref="#SNF">scuole femminili</orgName> sono fra noi assai meno del bisogno, 
+            <lb xml:id="Cod_scuole_femminili313_riga15" n="15" facs="#scuole_femminili313_riga15"/>
+            e le <orgName ref="#SNF">normali</orgName> non bastano di certo alle scolare che si 
+            <lb xml:id="Cod_scuole_femminili313_riga16" n="16" facs="#scuole_femminili313_riga16"/>
+            presentano. In moltissime città esse sono le uniche scuole, in
+            <lb xml:id="Cod_scuole_femminili313_riga17" n="17" facs="#scuole_femminili313_riga17"/>
+            cui la donna possa ricevere una <term ana="#istr_sup">istruzione superiore</term> alla 
+            <lb xml:id="Cod_scuole_femminili313_riga18" n="18" facs="#scuole_femminili313_riga18"/>
+            <term ana="#istr_ele">elementare</term>. È da ciò che seguono inconvenienti molti, e più 
+            <lb xml:id="Cod_scuole_femminili313_riga19" n="19" facs="#scuole_femminili313_riga19"/>
+            gravi assai di quello che si suppone. Se la <orgName ref="#SNF">scuola normale</orgName>
+            <lb xml:id="Cod_scuole_femminili313_riga20" n="20" facs="#scuole_femminili313_riga20"/>
+            è buona, tutte quelle che vanno in essa per avere una 
+            <lb xml:id="Cod_scuole_femminili313_riga21" n="21" facs="#scuole_femminili313_riga21"/>
+            <term ana="#cult_gen">cultura generale</term> restano, in parte almeno, tradite. La <orgName ref="#SNF">scuola 
+            <lb xml:id="Cod_scuole_femminili313_riga22" n="22" facs="#scuole_femminili313_riga22" break="no"/>
+            normale</orgName> deve formare <roleName ref="#Maestre">maestre elementari</roleName>, che sappiano
+            <lb xml:id="Cod_scuole_femminili313_riga23" n="23" facs="#scuole_femminili313_riga23"/>
+            tenere una classe numerosa, ed insegnare praticamente a 
+            <lb xml:id="Cod_scuole_femminili313_riga24" n="24" facs="#scuole_femminili313_riga24"/>
+            leggere, scrivere e far di conti correttamente. Per farlo 
+            <lb xml:id="Cod_scuole_femminili313_riga25" n="25" facs="#scuole_femminili313_riga25"/>
+            bene ci vogliono varie cognizioni e non poco studio: ma 
+            <lb xml:id="Cod_scuole_femminili313_riga26" n="26" facs="#scuole_femminili313_riga26"/>
+            <choice>
+                <sic>noi ci una donna abbastanza istruita per insegnare a maestre</sic>
+                <corr>non ci è una donna abbastanza istruita per insegnare a <roleName ref="#Maestre">maestre</roleName></corr>
+            </choice>, sono 
+            <lb xml:id="Cod_scuole_femminili313_riga27" n="27" facs="#scuole_femminili313_riga27"/>
+            anzi per lo più, incapacissimi a fare i <roleName ref="#Maestri">maestri elementari</roleName>. 
+            <lb xml:id="Cod_scuole_femminili313_riga28" n="28" facs="#scuole_femminili313_riga28"/>
+            Se noi mandassimo alle <orgName ref="#SNM">scuole normali maschili</orgName> tutti gli 
+            <lb xml:id="Cod_scuole_femminili313_riga29" n="29" facs="#scuole_femminili313_riga29"/>
+            alunni che vanno alle <orgName ref="#ST">scuole tecniche</orgName>, ai <orgName ref="#GIN">ginnasi</orgName>, ai <orgName ref="#LIC">licei</orgName>,
+            <lb xml:id="Cod_scuole_femminili313_riga31" n="31" facs="#scuole_femminili313_riga31"/>
+            agli <orgName ref="#IT">istituti tecnici</orgName> per avere in essi la cultura generale? 
+            <lb xml:id="Cod_scuole_femminili313_riga32" n="32" facs="#scuole_femminili313_riga32"/>
+            Ebbene, questo è quello che sono ora costrette a fare le 
+            <lb xml:id="Cod_scuole_femminili313_riga33" n="33" facs="#scuole_femminili313_riga33"/>
+            donne. E cioè che è peggio, anche gli <orgName ref="#EDUC">educandati</orgName>, anche
+            <lb xml:id="Cod_scuole_femminili313_riga34" n="34" facs="#scuole_femminili313_riga34"/>
+            alcune <orgName ref="#SPRIV">scuole private</orgName>, senza alcuna necessità, si uniformano
+            <lb xml:id="Cod_scuole_femminili313_riga35" n="35" facs="#scuole_femminili313_riga35"/>
+            alle <orgName ref="#SNF">scuole normali</orgName>, e non hanno altro scopo che ad apparecchiare agli
+            <lb xml:id="Cod_scuole_femminili313_riga36" n="36" facs="#scuole_femminili313_riga36"/>
+            esami di <term ana="#istr_sup">patente</term>. È il solo diploma che, non diremo per legge,
+            <lb xml:id="Cod_scuole_femminili313_riga37" n="37" facs="#scuole_femminili313_riga37"/>
+            ma per costume, apra una via alla donna, e tutti lo vogliono.
+            <lb xml:id="Cod_scuole_femminili313_riga38" n="38" facs="#scuole_femminili313_riga38"/>
+            Per quanto si faccia, l'istruzione della <roleName ref="#Maestre">maestra elementare</roleName> 
+            <lb xml:id="Cod_scuole_femminili313_riga39" n="39" facs="#scuole_femminili313_riga39"/>
+            deve essere pratica, professionale, se almeno deve corrispon-
+            <lb xml:id="Cod_scuole_femminili313_riga40" n="40" facs="#scuole_femminili313_riga40" break="no"/>
+            dere allo scopo. La <term ana="#cult_gen">cultura generale</term> è quindi nelle <orgName ref="#SNF">scuole
+            <lb xml:id="Cod_scuole_femminili313_riga41" n="41" facs="#scuole_femminili313_riga41" break="no"/>
+            normali</orgName> ristretta in angusti confini, e non può estendersi, al-
+            <lb xml:id="Cod_scuole_femminili313_riga42" n="42" facs="#scuole_femminili313_riga42" break="no"/>
+            largarsi largamente, come sarebbe necessario a quelle alunne
+            <lb xml:id="Cod_scuole_femminili313_riga43" n="43" facs="#scuole_femminili313_riga43"/>
+            che vogliono essere solamente donne colte per proprio uso 
+            <lb xml:id="Cod_scuole_femminili313_riga44" n="44" facs="#scuole_femminili313_riga44"/>
+            e piacere, e come non è certo necessario a chi vuole essere solo 
+            <lb xml:id="Cod_scuole_femminili313_riga45" n="45" facs="#scuole_femminili313_riga45"/>
+            una buona <roleName ref="#Maestre">maestra elementare</roleName>.
+            <lb xml:id="Cod_scuole_femminili313_riga46" n="46" facs="#scuole_femminili313_riga46"/>
+            Tutto questo però non toglie, che le nostre <orgName ref="#SNF">scuole normali</orgName> 
+            <lb xml:id="Cod_scuole_femminili313_riga47" n="47" facs="#scuole_femminili313_riga47"/>
+            servano di fatto nello stesso tempo come <orgName ana="#istr_sup">scuole speciali</orgName>, cioè
+            <lb xml:id="Cod_scuole_femminili313_riga48" n="48" facs="#scuole_femminili313_riga48"/>
+            normali, e come <orgName ana="#cult_gen">scuole di cultura generale</orgName>. Quindi le alunne
+            <lb xml:id="Cod_scuole_femminili313_riga49" n="49" facs="#scuole_femminili313_riga49"/>
+            s’affollano in esse, tanto che quasi non sono soltanto 
+            <lb xml:id="Cod_scuole_femminili313_riga50" n="50" facs="#scuole_femminili313_riga50"/>
+            piene ma addirittura <term ana="#stipate">stipate</term>. La legge, a cui accenna il caso
+            <lb xml:id="Cod_scuole_femminili313_riga51" n="51" facs="#scuole_femminili313_riga51"/>
+            citato nella lettera che pubblicammo, non ha messo un limite
+            <lb xml:id="Cod_scuole_femminili313_riga52" n="52" facs="#scuole_femminili313_riga52"/>
+            al numero delle alunne che debbano essere contenute in una
+            <lb xml:id="Cod_scuole_femminili313_riga53" n="53" facs="#scuole_femminili313_riga53"/>
+            classe di <orgName ref="#SNF">scuola normale</orgName>. I locali stessi sono ristretti, perchè
+            <lb xml:id="Cod_scuole_femminili313_riga54" n="54" facs="#scuole_femminili313_riga54"/>
+            non s'era preveduto il grande sviluppo <choice><sic>ched</sic><corr>che</corr></choice> dovevano pren-
+            <lb xml:id="Cod_scuole_femminili313_riga55" n="55" facs="#scuole_femminili313_riga55" break="no"/>
+            dere le scuole; spesso sono <term ana="#malsani">malsani</term>. Quando il <roleName ref="#Provv">Provveditore</roleName>
+            <lb xml:id="Cod_scuole_femminili313_riga56" n="56" facs="#scuole_femminili313_riga56"/>
+            ed il <orgName ref="#CPS">Consiglio scolastico</orgName> sono interrogati intorno al numero 
+            <lb xml:id="Cod_scuole_femminili313_riga57" n="57" facs="#scuole_femminili313_riga57"/>
+            delle alunne da ammettersi, rispondono spesso: la legge tace,
+            <lb xml:id="Cod_scuole_femminili313_riga58" n="58" facs="#scuole_femminili313_riga58"/>
+            — come tace di fatti. E allora le mura delle sale diventano
+            <lb xml:id="Cod_scuole_femminili313_riga59" n="59" facs="#scuole_femminili313_riga59"/>
+            i confini naturali e materiali al numero delle alunne. Se ne
+            <lb xml:id="Cod_scuole_femminili313_riga60" n="60" facs="#scuole_femminili313_riga60"/>
+            ammettono finche ce n'entrano, qualche volta fino ad <measure quantity="80">ottanta</measure> 
+
+            <cb n="2"/>
+
+            <lb xml:id="Cod_scuole_femminili313_riga61" n="61" facs="#scuole_femminili313_riga61"/>
+            o <measure quantity="90">novanta</measure> in una classe.
+            <lb xml:id="Cod_scuole_femminili313_riga62" n="62" facs="#scuole_femminili313_riga62"/>
+            È facile immaginare quello che segue. Metà delle alun-
+            <lb xml:id="Cod_scuole_femminili313_riga63" n="63" facs="#scuole_femminili313_riga63" break="no"/>
+            ne non ne profittano punto. I <term ref="#QUAD">quaderni</term> non sono corretti; 
+            <lb xml:id="Cod_scuole_femminili313_riga64" n="64" facs="#scuole_femminili313_riga64"/>
+            le <term ana="#ripetizioni">ripetizioni</term> si fanno male assai; la <term ana="#valore">disciplina</term> non si 
+            <lb xml:id="Cod_scuole_femminili313_riga65" n="65" facs="#scuole_femminili313_riga65"/>
+            può mantenere; il <term ana="#valore">profitto</term> è scarso. Ma ciò non è il peg-
+            <lb xml:id="Cod_scuole_femminili313_riga66" n="66" facs="#scuole_femminili313_riga66" break="no"/>
+            gio. Spesso la sala è ristretta, e c’è <term ana="#aria_luce">poca aria, poca luce</term>.
+            <lb xml:id="Cod_scuole_femminili313_riga67" n="67" facs="#scuole_femminili313_riga67"/>
+            È allora le alunne soffrono nella <term ana="#patologia">salute</term>. Possiamo citare un
+            <lb xml:id="Cod_scuole_femminili313_riga68" n="68" facs="#scuole_femminili313_riga68"/>
+            fatto a nostra conoscenza, seguito in una città del <placeName ref="#SUD">Mezzogiorno</placeName>. —
+            <lb xml:id="Cod_scuole_femminili313_riga69" n="69" facs="#scuole_femminili313_riga69"/>
+            <measure quantity="50">Cinquanta</measure> alunne erano messe in una stanza 
+            <lb xml:id="Cod_scuole_femminili313_riga70" n="70" facs="#scuole_femminili313_riga70"/>
+            strettissima, nella quale si <term ana="#soffocare">soffocava dal caldo</term>. Tutte le 
+            <lb xml:id="Cod_scuole_femminili313_riga71" n="71" facs="#scuole_femminili313_riga71"/>
+            premure fatte, perchè la scuola mutasse locale, furono vane.
+            <lb xml:id="Cod_scuole_femminili313_riga72" n="72" facs="#scuole_femminili313_riga72"/>
+            Il locale non v’era o non si voleva trovare. Di giorno in 
+            <lb xml:id="Cod_scuole_femminili313_riga73" n="73" facs="#scuole_femminili313_riga73"/>
+            giorno le alunne <term ana="#impallidire">impallidivano</term>. Alcune <term ana="#ammalarsi">s’ammalarono</term> in 
+            <lb xml:id="Cod_scuole_femminili313_riga74" n="74" facs="#scuole_femminili313_riga74"/>
+            modo da dovere per sempre abbandonare la scuola e gli 
+            <lb xml:id="Cod_scuole_femminili313_riga75" n="75" facs="#scuole_femminili313_riga75"/>
+            studi; un paio <term ana="#morire">morirono</term>. Questi racconti sembrano favole a chi 
+            <lb xml:id="Cod_scuole_femminili313_riga76" n="76" facs="#scuole_femminili313_riga76"/>
+            non ha visto coi propri occhi. Sappiamo di una giovanetta, 
+            <lb xml:id="Cod_scuole_femminili313_riga77" n="77" facs="#scuole_femminili313_riga77"/>
+            che entrò nella scuola piena di vita e di freschezza; pa-
+            <lb xml:id="Cod_scuole_femminili313_riga78" n="78" facs="#scuole_femminili313_riga78" break="no"/>
+            reva un fiore. Dopo due anni si durava fatica a ricono-
+            <lb xml:id="Cod_scuole_femminili313_riga79" n="79" facs="#scuole_femminili313_riga79" break="no"/>
+            scerla. <term ana="#deperimento">Pallida, magra, ricurva</term>, soffriva degli <term ana="#occhi">occhi</term>; aveva
+            <lb xml:id="Cod_scuole_femminili313_riga80" n="80" facs="#scuole_femminili313_riga80"/>
+            continui <term ana="#mal_capo">mal di capo</term>; pareva una vecchia. Aveva preso la
+            <lb xml:id="Cod_scuole_femminili313_riga81" n="81" facs="#scuole_femminili313_riga81"/>
+            <term ref="#PAT_SUP">patente di grado superiore</term>; ma aveva perduto ogni inte-
+            <lb xml:id="Cod_scuole_femminili313_riga82" n="82" facs="#scuole_femminili313_riga82" break="no"/>
+            resse alla vita. Non pensava che a quaderni, a domande 
+            <lb xml:id="Cod_scuole_femminili313_riga83" n="83" facs="#scuole_femminili313_riga83"/>
+            e risposte, ad esami. Domandava se c’era per le donne 
+            <lb xml:id="Cod_scuole_femminili313_riga84" n="84" facs="#scuole_femminili313_riga84"/>
+            altri <term ref="#DIP">diplomi</term> da prendere. Non aveva più passione nella let-
+            <lb xml:id="Cod_scuole_femminili313_riga85" n="85" facs="#scuole_femminili313_riga85" break="no"/>
+            tura, nello scrivere; confessava che, senza andare a lezione, 
+            <lb xml:id="Cod_scuole_femminili313_riga86" n="86" facs="#scuole_femminili313_riga86"/>
+            non poteva studiare.
+            <lb xml:id="Cod_scuole_femminili313_riga87" n="87" facs="#scuole_femminili313_riga87"/>
+            Tutto questo ci par che dia da pensare, e per parte
+            <lb xml:id="Cod_scuole_femminili313_riga88" n="88" facs="#scuole_femminili313_riga88"/>
+            nostra ci par che sia assolutamente necessario determinare 
+            <lb xml:id="Cod_scuole_femminili313_riga89" n="89" facs="#scuole_femminili313_riga89"/>
+            il <term ana="#num_max">numero massimo</term> delle alunne che si possano ammettere 
+            <lb xml:id="Cod_scuole_femminili313_riga90" n="90" facs="#scuole_femminili313_riga90"/>
+            in una classe, e quando le sale sono troppo piccole, dare al 
+            <lb xml:id="Cod_scuole_femminili313_riga91" n="91" facs="#scuole_femminili313_riga91"/>
+            <orgName ref="#CPS">Consiglio Provinciale</orgName> ed al <roleName ref="#Dir">Direttore</roleName> facoltà di limitare
+            <lb xml:id="Cod_scuole_femminili313_riga92" n="92" facs="#scuole_femminili313_riga92"/>
+            ancora questo numero, se non si vuole che le <orgName ref="#SNF">scuole fem-
+            <lb xml:id="Cod_scuole_femminili313_riga93" n="93" facs="#scuole_femminili313_riga93" break="no"/>
+            minili</orgName> divengano <term ana="#ammazzatoi">ammazzatoi</term>. Quando la legge tace, e non 
+            <lb xml:id="Cod_scuole_femminili313_riga94" n="94" facs="#scuole_femminili313_riga94"/>
+            vi sono ordini in contrario, noi crediamo che si possa biasi-
+            <lb xml:id="Cod_scuole_femminili313_riga95" n="95" facs="#scuole_femminili313_riga95" break="no"/>
+            mare l’<term ana="#istituzione">autorità scolastica</term> che provvede in nome della pub-
+            <lb xml:id="Cod_scuole_femminili313_riga96" n="96" facs="#scuole_femminili313_riga96" break="no"/>
+            blica salute e del pubblico bene. Si può disputare intorno 
+            <lb xml:id="Cod_scuole_femminili313_riga97" n="97" facs="#scuole_femminili313_riga97"/>
+            al modo. Non crediamo si possa disputare quanto al <term ana="#diritto">diritto</term>, 
+            <lb xml:id="Cod_scuole_femminili313_riga98" n="98" facs="#scuole_femminili313_riga98"/>
+            e diremmo anche al <term ana="#dovere">dovere</term>, di provvedere.
+            <lb xml:id="Cod_scuole_femminili313_riga99" n="99" facs="#scuole_femminili313_riga99"/>
+           <lb xml:id="Cod_scuole_femminili313_riga100" n="100" facs="#scuole_femminili313_riga100"/>
+        </p>
+    </body>
+</text>

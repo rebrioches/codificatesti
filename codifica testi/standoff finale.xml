@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Codifica de La Rassegna Settimanale</title>
+                <respStmt xml:id="Floris">
+                    <resp>Codifica a cura di:</resp>
+                    <persName>Rebecca Floris</persName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Edizione digitale 2026</edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>Informazioni sulla pubblicazione</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Informazioni sulla fonte originale</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+    <standOff>
+        <listPerson>
+            <person xml:id="FP_Perez">
+                <persName><forename>Francesco</forename> <forename>Paolo</forename> <surname>Perez</surname></persName>
+                <occupation>Ministro della Pubblica Istruzione (1878-1879).</occupation>
+            </person>
+            <person xml:id="C_Darwin">
+                <persName><forename>Charles</forename> <surname>Darwin</surname></persName>
+            </person>
+            <person xml:id="H_Spencer">
+                <persName><forename>Herbert</forename> <surname>Spencer</surname></persName>
+            </person>
+            <person xml:id="JS_Mill">
+                <persName><forename>John</forename> <forename>Stuart</forename> <surname>Mill</surname></persName>
+            </person>
+            <person xml:id="C_Alfieri">
+                <persName><forename>Carlo</forename> <surname>Alfieri di Sostegno</surname></persName>
+                <birth><date when="1827">1827</date></birth>
+                <death><date when="1897">1897</date></death>
+                <occupation>Senatore e pubblicista</occupation>
+                <note>Fondatore della Scuola di scienze politiche di Firenze.</note>
+            </person>
+            <person xml:id="P_Sbarbaro">
+                <persName><forename>Pietro</forename> <surname>Sbarbaro</surname></persName>
+                <birth><date when="1838">1838</date></birth>
+                <death><date when="1893">1893</date></death>
+                <occupation>Docente di economia e giornalista polemico</occupation>
+                <note>Direttore de "Le Forche Caudine".</note>
+            </person>
+            <person xml:id="Q_Sella">
+                <persName><forename>Quintino</forename> <surname>Sella</surname></persName>
+                <birth><date when="1827">1827</date></birth>
+                <death><date when="1884">1884</date></death>
+                <occupation>Statista della Destra Storica, scienziato e alpinista</occupation>
+            </person>
+            <person xml:id="A_Bertani">
+                <persName><forename>Agostino</forename> <surname>Bertani</surname></persName>
+                <birth><date when="1812">1812</date></birth>
+                <death><date when="1886">1886</date></death>
+                <occupation>Medico e politico; leader della Sinistra estrema</occupation>
+            </person>
+            <person xml:id="B_Spaventa">
+                <persName><forename>Bertrando</forename> <surname>Spaventa</surname></persName>
+                <birth><date when="1817">1817</date></birth>
+                <death><date when="1883">1883</date></death>
+                <occupation>Filosofo idealista hegeliano e deputato</occupation>
+            </person>
+            <person xml:id="GB_DeRossi">
+                <persName><forename>Giovanni</forename> <forename>Battista</forename> <surname>de Rossi</surname></persName>
+                <occupation>Archeologo delle catacombe cristiane</occupation>
+            </person>
+            <person xml:id="L_Bufalini">
+                <persName><forename>Leonardo</forename> <surname>Bufalini</surname></persName>
+                <occupation>Architetto e cartografo</occupation>
+                <death><date when="1567">1567</date></death>
+                <note>Celebre per la pianta di Roma del 1551 citata nel testo come supporto fondamentale agli studi topografici del De Rossi.</note>
+            </person>
+            <person xml:id="N_Costantinovich">
+                <persName><roleName>Gran Duca</roleName> <forename>Niccolò</forename> <surname>Costantinovich</surname></persName>
+                <birth><date when="1850">1850</date></birth>
+                <death><date when="1918">1918</date></death>
+                <affiliation>Famiglia Romanov</affiliation>
+                <note>Esiliato in Asia Centrale, fu promotore di infrastrutture irrigue e ferroviarie nel Turkestan, come menzionato nel programma della spedizione.</note>
+            </person>
+            <person xml:id="G_Dati">
+                <persName><forename>Giuliano</forename> <surname>Dati</surname></persName>
+                <birth><date when="1445">1445</date></birth>
+                <death><date when="1524">1524</date></death>
+                <occupation>Prelato e poeta</occupation>
+                <note>Tradusse in ottava rima la lettera di Colombo e scrisse poemi sul Prete Gianni, oggetto della lettura del conte Manzoni.</note>
+            </person>
+            <person xml:id="HW_Dove">
+                <persName><roleName>Prof.</roleName> <forename>Heinrich</forename> <forename>Wilhelm</forename> <surname>Dove</surname></persName>
+                <birth><date when="1803">1803</date></birth>
+                <occupation>Fisico e meteorologo</occupation>
+                <note>Padre della meteorologia moderna. Il testo della rivista riporta per errore il decesso al 6 aprile.</note>
+            </person>
+            <person xml:id="L_Franchetti">
+                <persName><forename>Leopoldo</forename> <surname>Franchetti</surname></persName>
+                <birth><date when="1847">1847</date></birth>
+                <death><date when="1917">1917</date></death>
+                <occupation>Senatore e studioso</occupation>
+                <note>Fondatore e proprietario della Rassegna Settimanale insieme a Sidney Sonnino.</note>
+            </person>
+            <person xml:id="G_Gherardino">
+                <persName><forename>Giustino</forename> <nameLink>di maestro</nameLink> <surname>Gherardino da Forlì</surname></persName>
+                <occupation>Miniatore</occupation>
+                <note>Artista del XIV secolo la cui identità è stata rivelata dal codice acquisito dalla Biblioteca Marciana.</note>
+            </person>
+            <person xml:id="P_Gianni">
+                <persName>Prete Gianni</persName>
+                <note type="myth">Leggendario sovrano cristiano d'Oriente, figura centrale dell'immaginario medievale trattata nel poema di Giuliano Dati.</note>
+            </person>
+            <person xml:id="L_Manzoni">
+                <persName><roleName>Conte</roleName> <forename>Luigi</forename> <surname>Manzoni</surname></persName>
+                <birth><date when="1844">1844</date></birth>
+                <death><date when="1905">1905</date></death>
+                <occupation>Bibliografo e uomo politico</occupation>
+                <affiliation ref="#Deputazione_BO">R. Deputazione di Storia patria di Bologna</affiliation>
+            </person>
+            <person xml:id="P_Pampaloni">
+                <persName><forename>Pietro</forename> <surname>Pampaloni</surname></persName>
+                <occupation>Gerente responsabile</occupation>
+                <affiliation ref="#Tip_Barbera">Tipografia Barbèra</affiliation>
+            </person>
+            <person xml:id="Rocher">
+                <persName>
+                    <choice>
+                        <abbr>Sig.</abbr>
+                        <expan>Signor</expan>
+                    </choice>
+                    <surname>Rocher</surname>
+                </persName>
+                <residence><placeName ref="#TLS">Tolosa</placeName></residence>
+                <occupation>Inventore del nuovo combustibile Amianthine.</occupation>
+            </person>
+            <person xml:id="S_Sonnino">
+                <persName><forename>Sidney</forename> <surname>Sonnino</surname></persName> 
+                <birth><date when="1847">1847</date></birth>
+                <death><date when="1922">1922</date></death>
+                <occupation>Uomo di stato</occupation>
+                <note>Co-fondatore della rivista e futuro Presidente del Consiglio del Regno d'Italia.</note>
+            </person>
+            <person xml:id="Provv">
+                <persName>Provveditore agli Studi</persName>
+                <note>Funzionario ministeriale a capo dell'amministrazione scolastica della provincia.</note>
+            </person>
+            <person xml:id="Dir">
+                <persName>Direttore scolastico</persName>
+                <note>Responsabile dell'istituto; l'autore ne invoca la facoltà di limitare le iscrizioni per motivi di salute.</note>
+            </person>
+            <person xml:id="Maestre">
+                <persName>Maestre elementari</persName>
+                <note>Professione d'uscita; l'autore critica la preparazione troppo teorica rispetto alle necessità pratiche.</note>
+            </person>
+            <person xml:id="Maestri">
+                <persName>Maestri elementari</persName>
+                <note>Professione d'uscita</note>
+            </person>
+            <person xml:id="Alunne">
+                <persName>Alunne / Scolare</persName>
+                <note>Giovani donne (15-19 anni) soggette a condizioni ambientali insalubri.</note>
+            </person>
+        </listPerson>
+
+        <listPlace>
+            <place xml:id="ITA" type="country">
+                <placeName>Italia</placeName>
+                <location><geo>41.8719 12.5674</geo></location>
+            </place>
+            <place xml:id="RM" type="city">
+                <placeName>Roma</placeName>
+                <location>
+                    <country key="ITA" ref="#ITA">Italia</country>
+                    <geo>41.8902 12.4922</geo>
+                </location>
+                <desc>Sede della redazione de "La Rassegna Settimanale".</desc>
+                <note>Capitale del Regno d'Italia dal 1871.</note>
+            </place>
+            <place xml:id="BL" type="city">
+                <placeName>Berlino</placeName>
+                <location>
+                    <country key="DE">Germania</country>
+                    <geo>52.5200 13.4050</geo>
+                </location>
+            </place>
+            <place xml:id="CN">
+                <placeName>Cuneo</placeName>
+                <location>
+                    <settlement>Cuneo</settlement>
+                    <region>Piemonte</region>
+                    <country>Italia</country>
+                </location>
+                <desc>Luogo del rinvenimento della copia della pianta di Roma del Bufalini (convento di S.M. degli Angeli).</desc>
+            </place>
+            <place xml:id="VE">
+                <placeName>Venezia</placeName>
+                <location>
+                    <settlement>Venezia</settlement>
+                    <region>Veneto</region>
+                    <country>Italia</country>
+                </location>
+                <desc>Sede della Biblioteca Marciana e della Confraternita della Carità.</desc>
+            </place>
+            <place xml:id="BL1">
+                <placeName>Berlino</placeName>
+                <location>
+                    <settlement>Berlino</settlement>
+                    <country>Germania</country>
+                </location>
+                <desc>Luogo del decesso del fisico Heinrich Wilhelm Dove.</desc>
+            </place>
+            <place xml:id="TLS">
+                <placeName>Tolosa</placeName>
+                <location>
+                    <settlement>Tolosa</settlement>
+                    <country>Francia</country>
+                </location>
+                <desc>Residenza del signor Rocher, inventore dell'Amianthine.</desc>
+            </place>
+            <place xml:id="Asia_C">
+                <placeName>Asia centrale</placeName>
+                <location><region>Continente Asiatico</region></location>
+                <desc>Vasta regione interna dell'Asia, teatro della spedizione del Gran Duca Niccolò Costantinovich.</desc>
+            </place>
+            <place xml:id="Ural">
+                <placeName>Ural</placeName>
+                <desc>Fiume che segna il confine geografico tra Europa e Asia; punto di partenza della spedizione.</desc>
+            </place>
+            <place xml:id="Oxus">
+                <placeName>Oxus</placeName>
+                <placeName type="modern">Amu Daria</placeName>
+                <desc>Grande fiume dell'Asia Centrale; la spedizione ne studiava la navigabilità e l'antico sbocco nel Caspio.</desc>
+            </place>
+            <place xml:id="Syr_Daria">
+                <placeName>Syr Daria</placeName>
+                <placeName type="ancient">Iassarte</placeName>
+                <desc>Fiume che attraversa il Kazakistan e l'Uzbekistan.</desc>
+            </place>
+            <place xml:id="Khiva">
+                <placeName>Khiva</placeName>
+                <location>
+                    <settlement>Khiva</settlement>
+                    <region>Corasmia</region>
+                    <country>Uzbekistan</country>
+                </location>
+                <desc>Capitale dello storico Khanato di Khiva, celebre per la sua oasi.</desc>
+            </place>
+            <place xml:id="Uzboi">
+                <placeName>Uzboi</placeName>
+                <desc>Antico letto fluviale che un tempo collegava l'Oxus (Amu Daria) al Mar Caspio attraverso il deserto.</desc>
+            </place>
+            <place xml:id="Caspio">
+                <placeName>Caspio</placeName>
+                <placeName type="standard">Mar Caspio</placeName>
+                <desc>Il più grande bacino d'acqua chiuso della Terra.</desc>
+            </place>
+            <place xml:id="Afghanistan">
+                <placeName>Afghanistan</placeName>
+                <location><country>Stato sovrano dell'Asia meridionale</country></location>
+            </place>
+            <place xml:id="Karasugai">
+                <placeName>Karasugai</placeName>
+                <location><region>Syr Daria</region></location>
+                <desc>Località di passaggio della spedizione russa.</desc>
+            </place>
+            <place xml:id="Tashkend">
+                <placeName>Tashkend</placeName>
+                <location>
+                    <settlement>Tashkent</settlement>
+                    <country>Uzbekistan</country>
+                </location>
+            </place>
+            <place xml:id="Samarcanda">
+                <placeName>Samarcanda</placeName>
+                <location>
+                    <settlement>Samarcanda</settlement>
+                    <country>Uzbekistan</country>
+                </location>
+                <desc>Storico centro culturale della Via della Seta.</desc>
+            </place>
+            <place xml:id="Kunduz">
+                <placeName>Kunduz</placeName>
+                <location>
+                    <settlement>Kunduz</settlement>
+                    <country>Afghanistan</country>
+                </location>
+            </place>
+            <place xml:id="Kara_Kum">
+                <placeName>Kara Kum</placeName>
+                <desc>Vasto deserto di sabbie nere nell'Asia Centrale (attuale Turkmenistan).</desc>
+            </place>
+            <place xml:id="Krasnovodsk">
+                <placeName>Krasnovodsk</placeName>
+                <placeName type="modern">Türkmenbaşy</placeName>
+                <location>
+                    <settlement>Krasnovodsk</settlement>
+                    <country>Turkmenistan</country>
+                </location>
+                <desc>Città portuale sul Mar Caspio.</desc>
+            </place>
+            <place xml:id="Sari_Kamish">
+                <placeName>Sari Kamish</placeName>
+                <desc>Lago salato situato tra il Turkmenistan e l'Uzbekistan.</desc>
+            </place>
+            <place xml:id="Merv">
+                <placeName>Merv</placeName>
+                <location>
+                    <region>Oasi di Merv</region>
+                    <country>Turkmenistan</country>
+                </location>
+                <desc>Città-oasi citata nel testo come possibile obiettivo di una spedizione militare russa.</desc>
+            </place>
+            <place xml:id="America">
+                <placeName>America</placeName>
+                <desc>Riferimento generico agli Stati Uniti o al continente americano.</desc>
+            </place>
+            <place xml:id="SUD">
+                <placeName>Mezzogiorno</placeName>
+                <desc>Riferimento alle province meridionali.</desc>
+            </place>
+        </listPlace>
+
+<list type="glossary" xml:id="glossario_critico">
+    <head>Glossario Unificato: Istituzioni, Norme e Concetti</head>
+
+    <label>
+        <term type="org" xml:id="Min_Istruzione">Ministero della Pubblica Istruzione</term>
+    </label>
+    <item>
+        <gloss corresp="#Min_Istruzione">Organo centrale del governo italiano preposto all'amministrazione del sistema scolastico nazionale.</gloss>
+    </item>
+
+    <label>
+        <term type="org" xml:id="CPS">Consiglio Provinciale Scolastico</term>
+    </label>
+    <item>
+        <gloss corresp="#CPS">Ente locale incaricato della gestione e della vigilanza sulle scuole della provincia.</gloss>
+    </item>
+
+    <label>
+        <term type="org" xml:id="Consiglio_Istr">Consiglio Superiore di Pubblica Istruzione</term>
+    </label>
+    <item>
+        <gloss corresp="#Consiglio_Istr">Massimo organo consultivo del Ministero, incaricato di dare pareri sulle riforme e sulla disciplina dei professori.</gloss>
+    </item>
+
+    <label>
+        <term type="org" xml:id="Rassegna">La Rassegna Settimanale</term>
+    </label>
+    <item>
+        <gloss corresp="#Rassegna">Rivista di orientamento politico e culturale attiva nel periodo post-unitario.</gloss>
+    </item>
+
+    <label>
+        <term type="political_party" xml:id="Destra">Destra Storica</term>
+    </label>
+    <item>
+        <gloss corresp="#Destra">Fazione politica erede di Cavour, caratterizzata da un orientamento conservatore liberale.</gloss>
+    </item>
+
+    <label>
+        <term type="political_party" xml:id="Sinistra">Sinistra Storica</term>
+    </label>
+    <item>
+        <gloss corresp="#Sinistra">Schieramento politico di stampo liberal-progressista che salì al potere nel 1876.</gloss>
+    </item>
+
+    <label>
+        <term type="political_party" xml:id="partito_conservatore">Partito conservatore</term>
+    </label>
+    <item>
+        <gloss corresp="#partito_conservatore">Area politica che mirava alla conservazione delle istituzioni tradizionali; associata nel testo a Carlo Alfieri.</gloss>
+    </item>
+
+    <label>
+        <term xml:id="democrazia_liberale">Democrazia liberale</term>
+    </label>
+    <item>
+        <gloss corresp="#democrazia_liberale">Sistema politico basato sulla sovranità popolare e tutela delle libertà individuali.</gloss>
+    </item>
+
+    <label>
+        <term xml:id="autoritarismo_democratico">Autoritarismo democratico</term>
+    </label>
+    <item>
+        <gloss corresp="#autoritarismo_democratico">Definizione polemica per descrivere una gestione del potere centrale molto forte (riferito a Sella e Bertani).</gloss>
+    </item>
+
+    <label>
+        <term xml:id="liberalismo">Liberalismo</term>
+    </label>
+    <item>
+        <gloss corresp="#liberalismo">Dottrina politica basata sulla libertà individuale e limitazione del potere statale.</gloss>
+    </item>
+
+    <label>
+        <term xml:id="democrazia">Democrazia</term>
+    </label>
+    <item>
+        <gloss corresp="#democrazia">Forma di governo in cui il potere risiede nel popolo; analizzata nel testo in chiave critica.</gloss>
+    </item>
+
+    <label>
+        <term type="law" xml:id="Legge_Casati">Legge Casati (1859)</term>
+    </label>
+    <item>
+        <gloss corresp="#Legge_Casati">Riforma fondamentale della scuola italiana; stabilì l'obbligatorietà del primo biennio elementare.</gloss>
+    </item>
+
+    <label>
+        <term type="law" xml:id="Statuto_Alb">Statuto Albertino</term>
+    </label>
+    <item>
+        <gloss corresp="#Statuto_Alb">La carta costituzionale del Regno d'Italia.</gloss>
+    </item>
+
+    <label>
+        <term type="object" xml:id="PAT_SUP">Diploma / Patente</term>
+    </label>
+    <item>
+        <gloss corresp="#PAT_SUP">Titolo legale (patente) che abilita all'esercizio della professione di insegnante.</gloss>
+    </item>
+
+    <label>
+        <term type="education" xml:id="istr_sup">Istruzione superiore</term>
+    </label>
+    <item>
+        <gloss corresp="#istr_sup">Insegnamento scolastico che prosegue oltre il livello elementare di base.</gloss>
+    </item>
+
+    <label>
+        <term xml:id="scuole_speciali">Scuole speciali</term>
+    </label>
+    <item>
+        <gloss corresp="#scuole_speciali">Istituti professionalizzanti (come le Scuole Normali) per la preparazione a un mestiere specifico.</gloss>
+    </item>
+
+    <label>
+        <term xml:id="scuole_cultura">Scuole di cultura generale</term>
+    </label>
+    <item>
+        <gloss corresp="#scuole_cultura">Istituti (Ginnasi/Licei) volti a fornire un'istruzione umanistica o scientifica ampia.</gloss>
+    </item>
+
+    <label>
+        <term xml:id="SNF">Scuole Normali Femminili</term>
+    </label>
+    <item>
+        <gloss corresp="#SNF">Istituti per la formazione delle maestre elementari.</gloss>
+    </item>
+
+    <label>
+        <term type="rhetoric" xml:id="ammazzatoi">Ammazzatoi</term>
+    </label>
+    <item>
+        <gloss corresp="#ammazzatoi">Metafora iperbolica per denunciare l'insalubrità mortale delle aule.</gloss>
+    </item>
+
+    <label>
+        <term type="hygiene" xml:id="stipate">Stivamento</term>
+    </label>
+    <item>
+        <gloss corresp="#stipate">Sovraffollamento critico delle aule oltre i limiti igienici.</gloss>
+    </item>
+
+    <label>
+        <term type="pathology" xml:id="soffocare">Asfissia / Spossatezza</term>
+    </label>
+    <item>
+        <gloss corresp="#soffocare">Stato patologico derivante dalla mancanza di ossigeno nelle aule chiuse.</gloss>
+    </item>
+
+    <label>
+        <term type="pathology" xml:id="pallida_magra_ricurva">Deperimento posturale</term>
+    </label>
+    <item>
+        <gloss corresp="#pallida_magra_ricurva">Sindrome fisica (anemia e scoliosi) causata dall'ambiente scolastico malsano.</gloss>
+    </item>
+
+    <label>
+        <term type="legal" xml:id="num_max">Limite legale (Capienza)</term>
+    </label>
+    <item>
+        <gloss corresp="#num_max">Numero massimo di alunni consentito per aula dalle norme di sicurezza.</gloss>
+    </item>
+
+    <label>
+        <term type="legal" xml:id="dovere">Responsabilità civile (Dovere)</term>
+    </label>
+    <item>
+        <gloss corresp="#dovere">Obbligo delle autorità di garantire la salute degli studenti.</gloss>
+    </item>
+
+    <label>
+        <term xml:id="industria_privata">Industria privata</term>
+    </label>
+    <item>
+        <gloss corresp="#industria_privata">Settore economico gestito da privati, qui riferito alla gestione ferroviaria.</gloss>
+    </item>
+<label>
+    <term type="org" xml:id="Consiglio_Istr">Consiglio Superiore di Pubblica Istruzione</term>
+</label>
+<item>
+    <gloss corresp="#Consiglio_Istr">Organo consultivo del Ministero della Pubblica Istruzione. Nel testo è descritto come un ente indebolito dai ministri che spesso ne ignorano i pareri obbligatori.</gloss>
+</item>
+
+<label>
+    <term type="org" xml:id="Camera">Camera dei Deputati</term>
+</label>
+<item>
+    <gloss corresp="#Camera">Ramo del Parlamento dove viene discussa la politica scolastica e dove, secondo l'autore, il Consiglio Superiore viene spesso attaccato.</gloss>
+</item>
+<label>
+    <term type="normativa" xml:id="Art_106">Articolo 106 (Legge Casati)</term>
+</label>
+<item>
+    <gloss corresp="#Art_106">Disposizione che permetteva al Ministro di rimuovere i professori che insegnavano dottrine contrarie alla religione o alla morale dello Stato.</gloss>
+</item>
+
+<label>
+    <term type="didattica" xml:id="licenza_liceale">Esame di Licenza Liceale</term>
+</label>
+<item>
+    <gloss corresp="#licenza_liceale">Esame finale del liceo classico, necessario per l'accesso all'università. Il testo denuncia la continua variazione delle norme per favorire gli istituti privati.</gloss>
+</item>
+
+<label>
+    <term type="valore" xml:id="liberta_scienza">Libertà della scienza e della coscienza</term>
+</label>
+<item>
+    <gloss corresp="#liberta_scienza">Concetto cardine del pensiero liberale rivendicato dall'autore contro l'ingerenza religiosa e politica nell'insegnamento universitario.</gloss>
+</item>
+
+<label>
+    <term type="atto_legale" xml:id="decreto_ministeriale">Decreto / Circolare</term>
+</label>
+<item>
+    <gloss corresp="#decreto_ministeriale">Strumenti amministrativi rapidi usati dai ministri per modificare il sistema scolastico senza passare dal dibattito parlamentare (denunciati come causa di instabilità).</gloss>
+</item>
+<list type="glossary" xml:id="glossario_rassegna_notizie">
+    <head>Glossario: Istituzioni, Scienza e Cultura</head>
+
+    <label>
+        <term type="org" xml:id="Inst_Archeo_Ger">Istituto archeologico germanico</term>
+    </label>
+    <item>
+        <gloss corresp="#Inst_Archeo_Ger">Importante istituto di ricerca fondato a Roma nel 1829; nel testo si celebra il 50° anniversario della sua fondazione.</gloss>
+    </item>
+
+    <label>
+        <term type="org" xml:id="Deputazione_BO">R. Deputazione di Storia patria di Bologna</term>
+    </label>
+    <item>
+        <gloss corresp="#Deputazione_BO">Istituzione accademica dedicata alla ricerca, conservazione e pubblicazione di documenti relativi alla storia del territorio bolognese.</gloss>
+    </item>
+
+    <label>
+        <term type="org" xml:id="Marciana">Biblioteca Marciana</term>
+    </label>
+    <item>
+        <gloss corresp="#Marciana">Storica biblioteca di Venezia, citata nel testo per l'acquisto di un prezioso antifonario del XIV secolo.</gloss>
+    </item>
+
+    <label>
+        <term type="org" xml:id="Conf_Carita">Confraternita della Carità</term>
+    </label>
+    <item>
+        <gloss corresp="#Conf_Carita">Antica associazione laica veneziana (Scuola) che commissionò l'antifonario miniato descritto nel testo.</gloss>
+    </item>
+
+    <label>
+        <term type="object" xml:id="Antifonario">Antifonario</term>
+    </label>
+    <item>
+        <gloss corresp="#Antifonario">Libro liturgico che raccoglie le antifone e gli altri canti dell'ufficiatura divina; quello citato è in pergamena e riccamente miniato.</gloss>
+    </item>
+
+    <label>
+        <term type="object" xml:id="cod">Codice (cod.)</term>
+    </label>
+    <item>
+        <gloss corresp="#cod">Manoscritto antico in forma di libro; nel testo è riferito all'antifonario, definito "interessantissimo per la storia dell'arte".</gloss>
+    </item>
+
+    <label>
+        <term type="project" xml:id="Spedizione_Imp">Spedizione Imperiale</term>
+    </label>
+    <item>
+        <gloss corresp="#Spedizione_Imp">Missione esplorativa russa nell'Asia centrale con scopi scientifici (geologia, archeologia) e strategici (progettazione ferroviaria).</gloss>
+    </item>
+
+    <label>
+        <term type="tech" xml:id="Amianthine">Amianthine</term>
+    </label>
+    <item>
+        <gloss corresp="#Amianthine">Nuovo combustibile inventato dal signor Rocher, composto da polvere di amianto, carbone di legna e nitrato di piombo.</gloss>
+    </item>
+
+    <label>
+        <term type="material" xml:id="amianto">Amianto</term>
+    </label>
+    <item>
+        <gloss corresp="#amianto">Minerale a struttura fibrosa, qui citato come componente principale del nuovo combustibile "Amianthine".</gloss>
+    </item>
+
+    <label>
+        <term type="discipline" xml:id="meteorologia">Meteorologia</term>
+    </label>
+    <item>
+        <gloss corresp="#meteorologia">Branca della fisica che studia i fenomeni atmosferici; nel testo viene citata in relazione alla morte del prof. Dove, definito "padre" della disciplina.</gloss>
+    </item>
+
+    <label>
+        <term type="journal" xml:id="Globe">The Globe</term>
+    </label>
+    <item>
+        <gloss corresp="#Globe">Giornale britannico citato come fonte per i dettagli sulla spedizione russa in Asia centrale.</gloss>
+    </item>
+
+    <label>
+        <term type="journal" xml:id="Nature">Nature</term>
+    </label>
+    <item>
+        <gloss corresp="#Nature">Prestigiosa rivista scientifica britannica (fondata nel 1869) citata come fonte di notizie scientifiche.</gloss>
+    </item>
+
+</list>
+    </standOff>
+</teiCorpus>

@@ -1,0 +1,128 @@
+<text xml:id="Alfieri_text" subtype="bibliography">
+    <body>
+        <pb n="330" facs="#Full_Alfieri"/>
+        
+        <fw type="pageNum" place="left" xml:id="Cod_Alfieri_header" facs="#Alfieri_intestazione">330</fw>
+        <fw type="title" place="center" xml:id="Cod_Alfieri_titolo" facs="#Alfieri_titolo">LA RASSEGNA SETTIMANALE</fw>
+        <fw type="issue" place="right" xml:id="Cod_ALfieri_riga1" facs="#Alfieri_riga1">
+            [Vol. 3°, N° 69]
+            <milestone unit="headerBreak"/>
+        </fw>
+
+        <head rend="align(center) case(allcaps)" xml:id="Cod_ALfieri_riga2" n="1" facs="#Alfieri_riga2">
+            <term type="tema">BIBLIOGRAFIA</term>.
+        </head>
+        <head rend="align(center) case(allcaps)" xml:id="Cod_ALfieri_riga3" n="2" facs="#Alfieri_riga3">
+            <term type="tema">POLITICA</term>.
+        </head>
+
+        <p xml:id="Alfieri_citazione_bibl" n="1">
+            <lb xml:id="Cod_ALfieri_riga4" n="4" facs="#Alfieri_riga4"/>
+            <persName ref="#C_Alfieri">CARLO ALFIERI</persName>. <title level="m" rend="italic">Chi ha tempo non aspetti tempo. Pareri d’un 
+            <lb xml:id="Cod_ALfieri_riga5" n="5" facs="#Alfieri_riga5"/>
+            Senatore</title>. — <placeName ref="#RM">Roma</placeName> <orgName ref="#Tip_Senato">Tip. del Senato</orgName>, <date when="1879">1879</date>.
+        </p>
+
+        <p xml:id="Alfieri_paragrafo1" n="2">
+            <lb xml:id="Cod_ALfieri_riga6" n="6" facs="#Alfieri_riga6"/>
+            Da alcuni anni <choice><abbr>l’on.</abbr><expan>l’onorevole</expan></choice> <persName ref="#C_Alfieri">Alfieri</persName> suole, di quando in quando, 
+            <lb xml:id="Cod_ALfieri_riga7" n="7" facs="#Alfieri_riga7"/>
+            dire al pubblico le ragioni, che lo fanno essere malcontento
+            <lb xml:id="Cod_ALfieri_riga8" n="8" facs="#Alfieri_riga8"/>
+            delle nostre condizioni politiche. Fedele a questa sua buona
+            <lb xml:id="Cod_ALfieri_riga9" n="9" facs="#Alfieri_riga9"/>
+            abitudine egli ripubblica ora alcune lettere già apparse nella
+            <lb xml:id="Cod_ALfieri_riga10" n="10" facs="#Alfieri_riga10"/>
+            <title level="j" rend="italic">Gazzetta Piemontese</title>, precedute da un proemio, e chiuse con
+            <lb xml:id="Cod_ALfieri_riga11" n="11" facs="#Alfieri_riga11"/>
+            due altre lettere al <roleName>prof.</roleName> <persName ref="#P_Sbarbaro">Sbarbaro</persName> intorno al <term type="corrente">partito con-
+            <lb xml:id="Cod_ALfieri_riga12" n="12" facs="#Alfieri_riga12" break="no"/>
+            servatore</term>, ed alla trasformazione della <orgName ref="#DestraS">Destra</orgName> nella <term type="corrente">demo-
+            <lb xml:id="Cod_ALfieri_riga13" n="13" facs="#Alfieri_riga13" break="no"/>
+            crazia liberale</term>.
+        </p>
+
+        <p xml:id="Alfieri_paragrafo2" n="3">
+            <lb xml:id="Cod_ALfieri_riga14" n="14" facs="#Alfieri_riga14"/>
+            <choice><abbr>L’on.</abbr><expan>L’onorevole</expan></choice> <roleName>Senatore</roleName> rammenta com’egli avesse ben augurato
+            <lb xml:id="Cod_ALfieri_riga15" n="15" facs="#Alfieri_riga15"/>
+            della <orgName ref="#Sinistra">Sinistra</orgName>, quando questa, per salire al potere, si fece
+            <lb xml:id="Cod_ALfieri_riga16" n="16" facs="#Alfieri_riga16"/>
+            a difendere la causa dei capitali e dell’<term type="tema">industria privata</term> 
+            <lb xml:id="Cod_ALfieri_riga17" n="17" facs="#Alfieri_riga17"/>
+            applicata alla costruzione ed all’esercizio delle nostre fer-
+            <lb xml:id="Cod_ALfieri_riga18" n="18" facs="#Alfieri_riga18" break="no"/>
+            rovie. Quella causa sembra <choice><abbr>all’A.</abbr><expan>all'Autore</expan></choice> essere stata poscia abban-
+            <lb xml:id="Cod_ALfieri_riga19" n="19" facs="#Alfieri_riga19" break="no"/>
+            donata dalla <orgName ref="#Sinistra">Sinistra</orgName>, la quale ha così perduto le sue sim-
+            <lb xml:id="Cod_ALfieri_riga20" n="20" facs="#Alfieri_riga20" break="no"/>
+            patie. La <orgName ref="#DestraS">Destra</orgName> poi nel frattempo ha proclamato a suo
+            <lb xml:id="Cod_ALfieri_riga22" n="22" facs="#Alfieri_riga22"/>
+            capo <persName ref="#Q_Sella">Sella</persName>, il più autorevole rappresentante dell’<term type="corrente">autoritarismo democra-
+            <lb xml:id="Cod_ALfieri_riga23" n="23" facs="#Alfieri_riga23" break="no"/>
+            tico</term> nello stato nostro.
+            <lb xml:id="Cod_ALfieri_riga24" n="24" facs="#Alfieri_riga24"/>
+            Il <term type="corrente">partito conservatore</term> doveva necessariamente essere inclinato
+            <lb xml:id="Cod_ALfieri_riga25" n="25" facs="#Alfieri_riga25"/>
+            a favorire l’influenza delle autorità ecclesiastiche nella no-
+            <lb xml:id="Cod_ALfieri_riga26" n="26" facs="#Alfieri_riga26" break="no"/>
+            stra politica. Questa dichiarazione, che a noi pare conforme
+            <lb xml:id="Cod_ALfieri_riga27" n="27" facs="#Alfieri_riga27"/>
+            alla verità, dispiacque molto <choice><abbr>all’on.</abbr><expan>all’onorevole</expan></choice> <persName ref="#C_Alfieri">Alfieri</persName>, il quale, nel rim-
+            <lb xml:id="Cod_ALfieri_riga28" n="28" facs="#Alfieri_riga28"/>
+            proverarla ingiustamente al <persName ref="#Q_Sella">Sella</persName>, non riesce a contenere
+            <lb xml:id="Cod_ALfieri_riga29" n="29" facs="#Alfieri_riga29"/>
+            in giusta misura l’espressione del suo malcontento. Eppure
+            <lb xml:id="Cod_ALfieri_riga30" n="30" facs="#Alfieri_riga30"/>
+            se ci fosse modo di trasformare, come vorrebbe l’<persName ref="#C_Alfieri">Alfieri</persName>,
+            <lb xml:id="Cod_ALfieri_riga31" n="31" facs="#Alfieri_riga31"/>
+            la <orgName ref="#DestraS">Destra</orgName> in un partito di liberisti cattolici della scuola
+            <lb xml:id="Cod_ALfieri_riga32" n="32" facs="#Alfieri_riga32"/>
+            del <persName>Montalembert</persName>, questo appunto sarebbe che il <persName ref="#Q_Sella">Sella</persName>
+            <lb xml:id="Cod_ALfieri_riga33" n="33" facs="#Alfieri_riga33"/>
+            e lo <persName ref="#B_Spaventa">Spaventa</persName> con altri autoritari democratici passassero
+            <lb xml:id="Cod_ALfieri_riga34" n="34" facs="#Alfieri_riga34"/>
+            a <orgName ref="#Sinistra">Sinistra</orgName>. Le intenzioni <choice><abbr>dell’on.</abbr><expan>dell’onorevole</expan></choice> <roleName>Senatore</roleName> sono eccel-
+            <lb xml:id="Cod_ALfieri_riga35" n="35" facs="#Alfieri_riga35" break="no"/>
+            lenti: i suoi ideali politici degni di rispetto, molte delle sue
+            <lb xml:id="Cod_ALfieri_riga36" n="36" facs="#Alfieri_riga36"/>
+            considerazioni giuste, l’operosità sua <choice><sic>patriotticaè</sic><corr>patriottica è</corr></choice> lode-
+            <lb xml:id="Cod_ALfieri_riga37" n="37" facs="#Alfieri_riga37" break="no"/>
+            vole; ma bisogna anche aggiungere che in tutto ciò ch’egli
+            <lb xml:id="Cod_ALfieri_riga38" n="38" facs="#Alfieri_riga38"/>
+            pubblica o fa, si cerca invano qualche precisione di concetti,
+            <lb xml:id="Cod_ALfieri_riga39" n="39" facs="#Alfieri_riga39"/>
+            qualche chiarezza di fini. Com’è vago il suo cattolicismo, così
+            <lb xml:id="Cod_ALfieri_riga40" n="40" facs="#Alfieri_riga40"/>
+            è indeterminato il <term type="corrente">liberalismo democratico</term> ch’egli invoca.
+            <lb xml:id="Cod_ALfieri_riga41" n="41" facs="#Alfieri_riga41"/>
+            Egli non istudia la realtà politica in sè stessa; la <orgName ref="#Chiesa">Chiesa</orgName>,
+            <lb xml:id="Cod_ALfieri_riga42" n="42" facs="#Alfieri_riga42"/>
+            lo <orgName ref="#Stato">Stato</orgName>, la <term type="tema">democrazia</term>, e il <term type="corrente">liberalismo</term> in <placeName ref="#ITA">Italia</placeName> così come 
+            <lb xml:id="Cod_ALfieri_riga43" n="43" facs="#Alfieri_riga43"/>
+            sono, come li ha fatti la storia, e come uscirono dagli av-
+            <lb xml:id="Cod_ALfieri_riga44" n="44" facs="#Alfieri_riga44" break="no"/>
+            venimenti e dal moto degli interessi e dei pensieri contempo-
+            <lb xml:id="Cod_ALfieri_riga45" n="45" facs="#Alfieri_riga45" break="no"/>
+            ranei. Gli sfugge pertanto il concetto dei limiti entro i quali
+            <lb xml:id="Cod_ALfieri_riga46" n="46" facs="#Alfieri_riga46"/>
+            una loro modificazione è possibile. Egli si è formato, sulle
+            <lb xml:id="Cod_ALfieri_riga47" n="47" facs="#Alfieri_riga47"/>
+            tracce di alcuni maestri, un ideale politico, una dottrina
+            <lb xml:id="Cod_ALfieri_riga48" n="48" facs="#Alfieri_riga48"/>
+            molto più astratta ch’egli non creda, e vorrebbe che tutti
+            <lb xml:id="Cod_ALfieri_riga49" n="49" facs="#Alfieri_riga49"/>
+            s’inchinassero a quei suoi <choice><sic>fantasimi;s’illude</sic><corr>fantasimi; s’illude</corr></choice> quando gli pare 
+            <lb xml:id="Cod_ALfieri_riga50" n="50" facs="#Alfieri_riga50"/>
+            di aver trovati compagni nel suo culto, si sdegna quando
+            <lb xml:id="Cod_ALfieri_riga51" n="51" facs="#Alfieri_riga51"/>
+            s’avvede d’aver troppo sperato. In questo opuscolo egli si
+            <lb xml:id="Cod_ALfieri_riga52" n="52" facs="#Alfieri_riga52"/>
+            mostra molto fiducioso nei nuovi <term type="corrente">conservatori</term>, i quali, o non 
+            <lb xml:id="Cod_ALfieri_riga53" n="53" facs="#Alfieri_riga53"/>
+            si faranno vivi, o si mostreranno assai diversi da quelli, che
+            <lb xml:id="Cod_ALfieri_riga54" n="54" facs="#Alfieri_riga54"/>
+            <choice><abbr>l’on.</abbr><expan>l’onorevole</expan></choice> <roleName>Senatore</roleName> vagheggia a lui somiglianti.
+        </p>
+    </body>
+</text>

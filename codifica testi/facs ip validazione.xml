@@ -1,0 +1,295 @@
+<text xml:id="IstruzionePubblica_text" subtype="essay">
+    <body>
+        <pb n="21" facs="#la_legge_sull_istruzione_pubblica_pag_21"/>
+        
+        <fw type="pageNum" place="left" xml:id="Cod_IstruzionePubblica21_NumeroPagina" facs="#IstruzionePubblica21_NumeroPagina">21</fw>
+        <fw type="title" place="center" xml:id="Cod_IstruzionePubblica21_Intestazione" facs="#IstruzionePubblica21_Intestazione">LA RASSEGNA SETTIMANALE</fw>
+        <fw type="issue" place="right" xml:id="Cod_IstruzionePubblica21_NumeroVolumeFascicolo" facs="#IstruzionePubblica21_NumeroVolumeFascicolo">
+            Vol. 5°, N° 106
+            <milestone unit="headerBreak"/>
+        </fw> 
+
+        <head rend="align(center) case(allcaps)" xml:id="Cod_IstruzionePubblica21_Titolo" n="1" facs="#IstruzionePubblica21_Titolo">
+            <lb/>DI <term type="tema">POLITICA</term>, <term type="tema">SCIENZE</term> <term type="tema">LETTERE</term>
+            <lb/>Vol. 5°. <placeName ref="#RM">ROMA</placeName>, <date when="1880-01-11">11 Gennaio 1880</date>. N° 106.
+            <lb/><title rend="bold">LA LEGGE SULL'ISTRUZIONE PUBBLICA</title>
+        </head>
+
+        <p xml:id="IstruzionePubblica21_paragrafo1" n="1">
+            <lb xml:id="Cod_IstruzionePubblica21_riga1" n="1" facs="#IstruzionePubblica21_riga1"/>
+            È appena passato qualche mese, che tutto il <term type="collettivo">corpo in
+            <lb xml:id="Cod_IstruzionePubblica21_riga2" n="2" facs="#IstruzionePubblica21_riga2" break="no"/>
+            segnante</term> e, quello che è più, anche la <term type="media">stampa</term> erano una
+            <lb xml:id="Cod_IstruzionePubblica21_riga3" n="3" facs="#IstruzionePubblica21_riga3" break="no"/>
+            nimi nel dichiarare, che il <term type="istituzione">pubblico insegnamento</term> correva 
+            <lb xml:id="Cod_IstruzionePubblica21_riga4" n="4" facs="#IstruzionePubblica21_riga4"/>
+            fra noi un gravissimo pericolo. Alcune poche <term type="normativa">disposizioni</term> 
+            <lb xml:id="Cod_IstruzionePubblica21_riga5" n="5" facs="#IstruzionePubblica21_riga5"/>
+            assai utili alle <orgName type="scuola">scuole secondarie</orgName>, — le sole che riuscivano  
+            <lb xml:id="Cod_IstruzionePubblica21_riga6" n="6" facs="#IstruzionePubblica21_riga6"/>
+            a mantenere ancora qualche <term type="valore">ordine</term>, a dare qualche debole  
+            <lb xml:id="Cod_IstruzionePubblica21_riga7" n="7" facs="#IstruzionePubblica21_riga7"/>
+            efficacia all’<term type="didattica">insegnamento classico</term>, — che in dieci anni di 
+            <lb xml:id="Cod_IstruzionePubblica21_riga8" n="8" facs="#IstruzionePubblica21_riga8"/>
+            sforzi continui erano state finalmente, non solo adottate dal 
+            <lb xml:id="Cod_IstruzionePubblica21_riga9" n="9" facs="#IstruzionePubblica21_riga9"/>
+            <orgName ref="#Min_Istruzione">Ministero</orgName>, ma accettate dal <placeName>paese</placeName> e riconosciute da tutti 
+            <lb xml:id="Cod_IstruzionePubblica21_riga10" n="10" facs="#IstruzionePubblica21_riga10"/>
+            necessarie, indispensabili, stavano per essere abolite dal 
+            <lb xml:id="Cod_IstruzionePubblica21_riga11" n="11" facs="#IstruzionePubblica21_riga11"/>
+            <roleName>ministro</roleName> <persName ref="#FP_Perez">Perez</persName>, nonostante l’opposizione del <term type="collettivo">corpo inse            <lb xml:id="Cod_IstruzionePubblica21_riga12" n="12" facs="#IstruzionePubblica21_riga12" break="no"/>
+            gnante</term>, dell’<term type="istituzione">amministrazione</term> e del <orgName ref="#Consiglio_Istr">Consiglio di Pubblica 
+            <lb xml:id="Cod_IstruzionePubblica21_riga13" n="13" facs="#IstruzionePubblica21_riga13"/>
+            Istruzione</orgName>, che egli non aveva neppure consultato. A far 
+            <lb xml:id="Cod_IstruzionePubblica21_riga14" n="14" facs="#IstruzionePubblica21_riga14"/>
+            tutto questo, si diceva, sarebbe bastato un semplice <term type="atto_legale">decreto</term>, 
+            <lb xml:id="Cod_IstruzionePubblica21_riga15" n="15" facs="#IstruzionePubblica21_riga15"/>
+            e forse anche una <term type="atto_legale">circolare</term> del <roleName>Ministro</roleName>. Il pericolo fu scon
+            <lb xml:id="Cod_IstruzionePubblica21_riga16" n="16" facs="#IstruzionePubblica21_riga16" break="no"/>
+            giurato solo dalla <term type="politica">crisi ministeriale</term>, seguita per una que
+            <lb xml:id="Cod_IstruzionePubblica21_riga17" n="17" facs="#IstruzionePubblica21_riga17" break="no"/>
+            stione finanziaria. Senza di ciò l’operazione sarebbe stata 
+            <lb xml:id="Cod_IstruzionePubblica21_riga18" n="18" facs="#IstruzionePubblica21_riga18"/>
+            compiuta, e gli sforzi fatti in dieci anni a vantaggio delle 
+            <lb xml:id="Cod_IstruzionePubblica21_riga19" n="19" facs="#IstruzionePubblica21_riga19"/>
+            <orgName type="scuola">scuole</orgName> sarebbero a quest’ora perduti.
+        </p>
+
+        <p xml:id="IstruzionePubblica21_paragrafo2" n="2">
+            <lb xml:id="Cod_IstruzionePubblica21_riga20" n="20" facs="#IstruzionePubblica21_riga20"/>
+            Come dunque è così facile fare e disfare? Hanno dav
+            <lb xml:id="Cod_IstruzionePubblica21_riga21" n="21" facs="#IstruzionePubblica21_riga21" break="no"/>
+            vero le nostre <orgName type="scuola">scuole</orgName>, tutto il nostro <term type="sistema">sistema scolastico</term> un
+            <lb xml:id="Cod_IstruzionePubblica21_riga22" n="22" facs="#IstruzionePubblica21_riga22"/>
+            fondamento così debole, che si possano con un <term type="atto_legale">decreto</term> o 
+            <lb xml:id="Cod_IstruzionePubblica21_riga23" n="23" facs="#IstruzionePubblica21_riga23"/>
+            una <term type="atto_legale">circolare</term> alterare sostanzialmente a dispetto di tutti? 
+            <lb xml:id="Cod_IstruzionePubblica21_riga24" n="24" facs="#IstruzionePubblica21_riga24"/>
+            La questione ci pare che meriti qualche attenzione, perché il 
+            <lb xml:id="Cod_IstruzionePubblica21_riga25" n="25" facs="#IstruzionePubblica21_riga25"/>
+            <term type="concetto">pericolo passato</term> oggi può ricomparire domani. Il fatto è che  
+            <lb xml:id="Cod_IstruzionePubblica21_riga26" n="26" facs="#IstruzionePubblica21_riga26"/>
+            a forza di <term type="normativa">leggi</term>, di <term type="normativa">regolamenti</term>, di <term type="normativa">circolari</term> e di mutamenti  
+            <lb xml:id="Cod_IstruzionePubblica21_riga27" n="27" facs="#IstruzionePubblica21_riga27"/>
+            continui noi siamo arrivati a non aver più alcuna <term type="valore">stabilità</term>, e  
+            <lb xml:id="Cod_IstruzionePubblica21_riga28" n="28" facs="#IstruzionePubblica21_riga28"/>
+            tutto dipende dall’<orgName ref="#Min_Istruzione">amministrazione</orgName> e dal capriccio del <roleName>Mini
+            <lb xml:id="Cod_IstruzionePubblica21_riga29" n="29" facs="#IstruzionePubblica21_riga29" break="no"/>
+            stro</roleName>. Vi sono esempi di <placeName type="nazione">paesi</placeName> i quali, anche con una <term type="normativa">legge</term> poco
+            <lb xml:id="Cod_IstruzionePubblica21_riga30" n="30" facs="#IstruzionePubblica21_riga30"/>
+            chiara e poco determinata, vanno regolarmente innanzi. 
+            <lb xml:id="Cod_IstruzionePubblica21_riga31" n="31" facs="#IstruzionePubblica21_riga31"/>
+            Ma questi sono paesi nei quali hanno gran forza e sono 
+            <lb xml:id="Cod_IstruzionePubblica21_riga32" n="32" facs="#IstruzionePubblica21_riga32"/>
+            molto rispettate le <term type="concetto">consuetudini</term>, il che non segue fra noi. 
+            <lb xml:id="Cod_IstruzionePubblica21_riga33" n="33" facs="#IstruzionePubblica21_riga33"/>
+            O sono paesi nei quali in mancanza di buone <term type="normativa">leggi</term> e  
+            <lb xml:id="Cod_IstruzionePubblica21_riga34" n="34" facs="#IstruzionePubblica21_riga34"/>
+            di buoni <term type="normativa">regolamenti</term>, si trovano <term type="istituzione">autorità costituite</term>, che ser
+            <lb xml:id="Cod_IstruzionePubblica21_riga35" n="35" facs="#IstruzionePubblica21_riga35" break="no"/>
+            bano inalterate le <term type="concetto">tradizioni scolastiche</term>, nè le mutano
+            <lb xml:id="Cod_IstruzionePubblica21_riga36" n="36" facs="#IstruzionePubblica21_riga36"/>
+            senza molto discutere e molto ponderare. E neppur questo 
+            <lb xml:id="Cod_IstruzionePubblica21_riga37" n="37" facs="#IstruzionePubblica21_riga37"/>
+            segue fra noi. Il <orgName ref="#Consiglio_Istr">Consiglio Superiore</orgName> dovrebbe serbare le 
+            <lb xml:id="Cod_IstruzionePubblica21_riga38" n="38" facs="#IstruzionePubblica21_riga38"/>
+            buone tradizioni e qualche volta vi è riuscito, frenando i 
+            <lb xml:id="Cod_IstruzionePubblica21_riga39" n="39" facs="#IstruzionePubblica21_riga39"/>
+            <roleName>Ministri</roleName>, salvandoli dal discendere quella china su cui li 
+            <lb xml:id="Cod_IstruzionePubblica21_riga40" n="40" facs="#IstruzionePubblica21_riga40"/>
+            spingeva l’<term type="concetto">onda politica</term> e il desiderio di male intesa <term type="valore">popolarità</term>. 
+            <lb xml:id="Cod_IstruzionePubblica21_riga41" n="41" facs="#IstruzionePubblica21_riga41"/>
+            Ma questo <orgName ref="#Consiglio_Istr">Consiglio</orgName> è ora ogni giorno attaccato 
+            <lb xml:id="Cod_IstruzionePubblica21_riga42" n="42" facs="#IstruzionePubblica21_riga42"/>
+            nella <orgName>Camera</orgName> e fuori, ed il <roleName>Ministro</roleName> lo interroga o no, se
+            <lb xml:id="Cod_IstruzionePubblica21_riga43" n="43" facs="#IstruzionePubblica21_riga43" break="no"/>
+            condo che gli piace. Sebbene costituito per <term type="normativa">legge</term> e nomi
+            <lb xml:id="Cod_IstruzionePubblica21_riga44" n="44" facs="#IstruzionePubblica21_riga44" break="no"/>
+            nato anche nello <term ref="#Statuto_Alb">Statuto fondamentale</term>, esso fu una volta 
+            <lb xml:id="Cod_IstruzionePubblica21_riga45" n="45" facs="#IstruzionePubblica21_riga45"/>
+            disfatto con un <term type="atto_legale">decreto</term>, e poi ricostituito con un altro <term type="atto_legale">de
+            <lb xml:id="Cod_IstruzionePubblica21_riga46" n="46" facs="#IstruzionePubblica21_riga46" break="no"/>
+            creto</term>. Sebbene il <roleName>Ministro</roleName> sia tenuto a consultarlo in certi 
+            <lb xml:id="Cod_IstruzionePubblica21_riga47" n="47" facs="#IstruzionePubblica21_riga47"/>
+            casi, continuamente avviene che non lo consulta. Recente
+            <lb xml:id="Cod_IstruzionePubblica21_riga48" n="48" facs="#IstruzionePubblica21_riga48" break="no"/>
+            mente il <persName ref="#FP_Perez">Perez</persName> operava come se il <orgName ref="#Consiglio_Istr">Consiglio</orgName> non esistesse, 
+            <lb xml:id="Cod_IstruzionePubblica21_riga49" n="49" facs="#IstruzionePubblica21_riga49"/>
+            o faceva il contrario di quello che esso gli proponeva, senza 
+            <lb xml:id="Cod_IstruzionePubblica21_riga50" n="50" facs="#IstruzionePubblica21_riga50"/>
+            neppur dirgliene le ragioni. Che forza può dunque avere 
+            <lb xml:id="Cod_IstruzionePubblica21_riga51" n="51" facs="#IstruzionePubblica21_riga51"/>
+            il <orgName ref="#Consiglio_Istr">Consiglio</orgName>, e dove possono le <orgName type="scuola">scuole</orgName> trovare qualche sta
+            <lb xml:id="Cod_IstruzionePubblica21_riga52" n="52" facs="#IstruzionePubblica21_riga52" break="no"/>
+            bilità? Non vediamo ogni anno essere mutate le norme, secon
+            <lb xml:id="Cod_IstruzionePubblica21_riga53" n="53" facs="#IstruzionePubblica21_riga53" break="no"/>
+            do cui si danno gli <term type="didattica">esami della licenza liceale</term>, senza che se ne 
+            <lb xml:id="Cod_IstruzionePubblica21_riga54" n="54" facs="#IstruzionePubblica21_riga54"/>
+            sappia il perchè? O piuttosto è un perchè che non si osa confes
+            <lb xml:id="Cod_IstruzionePubblica21_riga55" n="55" facs="#IstruzionePubblica21_riga55" break="no"/>
+            sare, cioè il solo desiderio di essere indulgenti verso i molti 
+            
+            <cb n="2"/>
+
+            <lb xml:id="Cod_IstruzionePubblica21_riga56" n="56" facs="#IstruzionePubblica21_riga56"/>
+            che studiano poco e gridano assai, e verso coloro che fanno 
+            <lb xml:id="Cod_IstruzionePubblica21_riga57" n="57" facs="#IstruzionePubblica21_riga57"/>
+            la <term type="economico">speculazione</term> d’ <orgName type="scuola_privata">istituti privati</orgName> a buon prezzo. I <term type="normativa">regola
+            <lb xml:id="Cod_IstruzionePubblica21_riga58" n="58" facs="#IstruzionePubblica21_riga58" break="no"/>
+            menti universitari</term> furono tante volte mutati, e sono così
+            <lb xml:id="Cod_IstruzionePubblica21_riga59" n="59" facs="#IstruzionePubblica21_riga59"/>
+            intricati, che ogni <orgName type="università">università</orgName> li interpreta a suo modo, e si  
+            <lb xml:id="Cod_IstruzionePubblica21_riga60" n="60" facs="#IstruzionePubblica21_riga60"/>
+            crede di trovar sempre un <term type="atto_legale">articolo</term> con cui giustificarsi.
+        </p>
+
+        <p xml:id="IstruzionePubblica21_paragrafo3" n="3">
+            <lb xml:id="Cod_IstruzionePubblica21_riga61" n="61" facs="#IstruzionePubblica21_riga61"/>
+            La <term ref="#Legge_Casati">legge 13 nov. 1859</term>, che sarebbe la nostra <term type="normativa">legge fonda
+            <lb xml:id="Cod_IstruzionePubblica21_riga62" n="62" facs="#IstruzionePubblica21_riga62" break="no"/>
+            mentale di pubblica istruzione</term>, è stata tante volte in tante parti 
+            <lb xml:id="Cod_IstruzionePubblica21_riga63" n="63" facs="#IstruzionePubblica21_riga63"/>
+            modificata, che non sappiamo se può dirsi più una <term type="normativa">legge  
+            <lb xml:id="Cod_IstruzionePubblica21_riga64" n="64" facs="#IstruzionePubblica21_riga64" break="no"/>
+            dello Stato</term>. Del <term type="sistema">sistema universitario</term> che fondava, appena  
+            <lb xml:id="Cod_IstruzionePubblica21_riga65" n="65" facs="#IstruzionePubblica21_riga65"/>
+            si può dire che resti qualche cosa di sostanziale. Tutto è 
+            <lb xml:id="Cod_IstruzionePubblica21_riga66" n="66" facs="#IstruzionePubblica21_riga66"/>
+            mutato e spesso mutato in una direzione opposta a quella 
+            <lb xml:id="Cod_IstruzionePubblica21_riga67" n="67" facs="#IstruzionePubblica21_riga67"/>
+            per cui essa voleva andare. E molto di ciò che non è stato 
+            <lb xml:id="Cod_IstruzionePubblica21_riga68" n="68" facs="#IstruzionePubblica21_riga68"/>
+            distrutto, non è più osservato da un gran pezzo, e nessuno 
+            <lb xml:id="Cod_IstruzionePubblica21_riga69" n="69" facs="#IstruzionePubblica21_riga69"/>
+            vi pensa.
+        </p>
+
+        <p xml:id="IstruzionePubblica21_paragrafo4" n="4">
+            <lb xml:id="Cod_IstruzionePubblica21_riga70" n="70" facs="#IstruzionePubblica21_riga70"/>
+            Noi abbiamo molte volte ricordato, che questa <term type="normativa">legge</term> 
+            <lb xml:id="Cod_IstruzionePubblica21_riga71" n="71" facs="#IstruzionePubblica21_riga71"/>
+            vieta agli alunni dei <orgName type="seminario">seminari</orgName>, che non hanno <roleName>professori</roleName> con                    
+            <lb xml:id="Cod_IstruzionePubblica21_riga72" n="72" facs="#IstruzionePubblica21_riga72"/>
+            <term type="titolo">diploma</term>, di presentarsi agli <term type="didattica">esami di licenza liceale</term>. Se ciò
+            <lb xml:id="Cod_IstruzionePubblica21_riga73" n="73" facs="#IstruzionePubblica21_riga73"/>
+            fosse eseguito, la più parte dei <orgName type="seminario">seminari</orgName> dovrebbero chiu            <lb xml:id="Cod_IstruzionePubblica21_riga74" n="74" facs="#IstruzionePubblica21_riga74" break="no"/>
+            dersi o restringersi ai <term type="didattica">corsi teologici</term>. Invece fioriscono, 
+            <lb xml:id="Cod_IstruzionePubblica21_riga75" n="75" facs="#IstruzionePubblica21_riga75"/>
+            si moltiplicano, fanno concorrenza al <orgName type="governo">governo</orgName>, che accoglie 
+            <lb xml:id="Cod_IstruzionePubblica21_riga76" n="76" facs="#IstruzionePubblica21_riga76"/>
+            i loro alunni agli esami in onta alla <term type="normativa">legge</term>. Ma v'è di peg
+            <lb xml:id="Cod_IstruzionePubblica21_riga77" n="77" facs="#IstruzionePubblica21_riga77" break="no"/>
+            gio ancora.
+        </p>
+
+        <p xml:id="IstruzionePubblica21_paragrafo5" n="5">
+            <lb xml:id="Cod_IstruzionePubblica21_riga78" n="78" facs="#IstruzionePubblica21_riga78"/>
+            L' <term type="atto_legale">art. 106</term> della <term type="normativa">legge</term> dice che il <roleName>Ministro</roleName> può <quote>« so
+            <lb xml:id="Cod_IstruzionePubblica21_riga79" n="79" facs="#IstruzionePubblica21_riga79" break="no"/>
+            spendere o rimuovere quei <roleName>professori</roleName>, i quali coll'inse
+            <lb xml:id="Cod_IstruzionePubblica21_riga80" n="80" facs="#IstruzionePubblica21_riga80" break="no"/>
+            gnamento o cogli scritti hanno impugnato le verità sulle 
+            <lb xml:id="Cod_IstruzionePubblica21_riga81" n="81" facs="#IstruzionePubblica21_riga81"/>
+            quali riposa l' <term type="valore">ordine religioso e morale</term> »</quote>. Il che vuol dire 
+            <lb xml:id="Cod_IstruzionePubblica21_riga82" n="82" facs="#IstruzionePubblica21_riga82"/>
+            che se fra noi insegnassero il <persName ref="#C_Darwin">Darwin</persName>, lo <persName ref="#H_Spencer">Spencer</persName>, il <persName ref="#JS_Mill">Mill</persName> 
+            <lb xml:id="Cod_IstruzionePubblica21_riga83" n="83" facs="#IstruzionePubblica21_riga83"/>
+            ed altri di ugual valore, potrebbero, forse dovrebbero se
+            <lb xml:id="Cod_IstruzionePubblica21_riga84" n="84" facs="#IstruzionePubblica21_riga84" break="no"/>
+            condo la <term type="normativa">legge</term> essere destituiti. E senza andare al <persName ref="#C_Darwin">Darwin</persName> 
+            <lb xml:id="Cod_IstruzionePubblica21_riga85" n="85" facs="#IstruzionePubblica21_riga85"/>
+            o al <persName ref="#JS_Mill">Mill</persName>, possiamo dire che quasi tutti i nostri migliori  
+            <lb xml:id="Cod_IstruzionePubblica21_riga86" n="86" facs="#IstruzionePubblica21_riga86"/>
+            <roleName>insegnanti</roleName> potrebbero essere destituiti, giacchè non sono  
+            <lb xml:id="Cod_IstruzionePubblica21_riga87" n="87" facs="#IstruzionePubblica21_riga87"/>
+            pochi coloro i quali insegnano <term type="concetto">dottrine contrarie alla reli
+            <lb xml:id="Cod_IstruzionePubblica21_riga88" n="88" facs="#IstruzionePubblica21_riga88" break="no"/>
+            gione</term> che lo <term ref="#Statuto_Alb">Statuto</term> riconosce come <term type="istituzione">religione dello Stato</term>. 
+            <lb xml:id="Cod_IstruzionePubblica21_riga89" n="89" facs="#IstruzionePubblica21_riga89"/>
+            È vero che il <roleName>Ministro</roleName> non può destituire un <roleName>professore</roleName> 
+            <lb xml:id="Cod_IstruzionePubblica21_riga90" n="90" facs="#IstruzionePubblica21_riga90"/>
+            senza « il parere conforme del <orgName ref="#Consiglio_Istr">Consiglio Superiore</orgName>. » Ma 
+            <lb xml:id="Cod_IstruzionePubblica21_riga91" n="91" facs="#IstruzionePubblica21_riga91"/>
+            noi abbiamo visto che conto esso fa del <orgName ref="#Consiglio_Istr">Consiglio</orgName>, e come
+            <lb xml:id="Cod_IstruzionePubblica21_riga92" n="92" facs="#IstruzionePubblica21_riga92"/>
+            si crede in diritto anche di modificarlo, quasi di disfarlo con
+            <lb xml:id="Cod_IstruzionePubblica21_riga93" n="93" facs="#IstruzionePubblica21_riga93"/>
+            un <term type="atto_legale">decreto</term>. E poi, stando alla <term type="normativa">legge</term>, e se vuol rispettarla, non
+            <lb xml:id="Cod_IstruzionePubblica21_riga94" n="94" facs="#IstruzionePubblica21_riga94"/>
+            si trova il <orgName ref="#Consiglio_Istr">Consiglio</orgName> stesso molto impacciato? Finora ha
+            <lb xml:id="Cod_IstruzionePubblica21_riga95" n="95" facs="#IstruzionePubblica21_riga95"/>
+            prevalso una <term type="concetto">interpretazione molto larga</term>, e la <term type="valore">libertà d'in
+            <lb xml:id="Cod_IstruzionePubblica21_riga96" n="96" facs="#IstruzionePubblica21_riga96" break="no"/>
+            segnamento</term> di fatto esiste fra noi nelle <orgName type="scuola">scuole dello Stato</orgName>.  
+            <lb xml:id="Cod_IstruzionePubblica21_riga97" n="97" facs="#IstruzionePubblica21_riga97"/>
+            Ma quanto alla <term type="normativa">legge</term> non si può dire che essa esplicita
+            <lb xml:id="Cod_IstruzionePubblica21_riga98" n="98" facs="#IstruzionePubblica21_riga98" break="no"/>
+            mente riconosca la <term type="valore">libertà della scienza e della coscienza</term> nelle
+            <lb xml:id="Cod_IstruzionePubblica21_riga99" n="99" facs="#IstruzionePubblica21_riga99"/>
+            <orgName type="scuola">scuole</orgName>. Essa anzi adopera un tale linguaggio, che se un 
+            <lb xml:id="Cod_IstruzionePubblica21_riga100" n="100" facs="#IstruzionePubblica21_riga100"/>
+            giorno il <orgName ref="#Destra">partito « conservatore »</orgName> venisse al potere, gli sarebbe 
+            <lb xml:id="Cod_IstruzionePubblica21_riga101" n="101" facs="#IstruzionePubblica21_riga101"/>
+            facile, quando avesse un <orgName ref="#Consiglio_Istr">Consiglio superiore</orgName> fatto a sua  
+            <lb xml:id="Cod_IstruzionePubblica21_riga102" n="102" facs="#IstruzionePubblica21_riga102"/>
+            immagine, di destituire una buona parte dei <roleName>professori uni
+            <lb xml:id="Cod_IstruzionePubblica21_riga103" n="103" facs="#IstruzionePubblica21_riga103" break="no"/>
+            versitari</roleName>, e mettere sulla <term type="didattica">cattedra</term> uomini del suo colore.  
+            <lb xml:id="Cod_IstruzionePubblica21_riga104" n="104" facs="#IstruzionePubblica21_riga104"/>
+            E quello che è peggio, potrebbe farlo con tutta l'appa
+            <lb xml:id="Cod_IstruzionePubblica21_riga105" n="105" facs="#IstruzionePubblica21_riga105" break="no"/>
+            renza di rispettare la <term type="normativa">legge</term>. Non è questo un pericolo ed
+            <lb xml:id="Cod_IstruzionePubblica21_riga106" n="106" facs="#IstruzionePubblica21_riga106"/>
+            un grave pericolo per noi?
+        </p>
+
+        <p xml:id="IstruzionePubblica21_paragrafo6" n="6">
+            <lb xml:id="Cod_IstruzionePubblica21_riga107" n="107" facs="#IstruzionePubblica21_riga107"/>
+            Crediamo perciò che sia necessario mettere una volta 
+            <lb xml:id="Cod_IstruzionePubblica21_riga108" n="108" facs="#IstruzionePubblica21_riga108"/>
+            qualche <term type="valore">ordine</term> nella <term type="concetto">indigesta farragine delle nostre leggi  
+            <lb xml:id="Cod_IstruzionePubblica21_riga109" n="109" facs="#IstruzionePubblica21_riga109" break="no"/>
+            e regolamenti scolastici</term>, e dare coll'ordine una qual
+            <lb xml:id="Cod_IstruzionePubblica21_riga110" n="110" facs="#IstruzionePubblica21_riga110" break="no"/>
+            che <term type="valore">stabilità</term> alle <orgName type="scuola">scuole</orgName>, senza di che non sarà mai 
+            <lb xml:id="Cod_IstruzionePubblica21_riga111" n="111" facs="#IstruzionePubblica21_riga111"/>
+            possibile vederle fiorire. Se ogni giorno ai <roleName>Ministri</roleName> è 
+            <lb xml:id="Cod_IstruzionePubblica21_riga112" n="112" facs="#IstruzionePubblica21_riga112"/>
+            dato mutare i <term type="didattica">programmi</term>, gli <term type="didattica">esami</term>, i <term type="normativa">regolamenti</term>, senza  
+            <lb xml:id="Cod_IstruzionePubblica21_riga113" n="113" facs="#IstruzionePubblica21_riga113"/>
+            consultare alcuno o consultando solo chi a loro piace; se 
+            <lb xml:id="Cod_IstruzionePubblica21_riga114" n="114" facs="#IstruzionePubblica21_riga114"/>
+            nessuna <term type="concetto">tradizione</term> si può costituire, nessun <term type="sistema">ordinamento</term> è 
+            <lb xml:id="Cod_IstruzionePubblica21_riga115" n="115" facs="#IstruzionePubblica21_riga115"/>
+            sicuro di vivere, è certo che non si potrà avere alcun pro
+            <lb xml:id="Cod_IstruzionePubblica21_riga116" n="116" facs="#IstruzionePubblica21_riga116" break="no"/>
+            fitto negli <roleName>alunni</roleName>, e le <term type="istituzione">autorità scolastiche</term> non avranno mai 
+            <lb xml:id="Cod_IstruzionePubblica21_riga117" n="117" facs="#IstruzionePubblica21_riga117"/>
+            forza alcuna per far rispettare le <term type="normativa">leggi</term>, nè potranno for
+            <lb xml:id="Cod_IstruzionePubblica21_riga118" n="118" facs="#IstruzionePubblica21_riga118" break="no"/>
+            marsi un giudizio sicuro sui risultati che esse danno.
+        </p>
+        
+        <pb n="22" facs="#la_legge_sull_istruzione_pubblica_pag22"/>
+        <p xml:id="IstruzionePubblica22_paragrafo1" n="1">
+            <lb xml:id="Cod_IstruzionePubblica22_riga1" n="1" facs="#IstruzionePubblica22_riga1"/>
+            giacchè vengono mutate prima che questi risultati riescano vi
+            <lb xml:id="Cod_IstruzionePubblica22_riga2" n="2" facs="#IstruzionePubblica22_riga2" break="no"/>
+            sibili. E se a ciò si aggiunge l'incertezza stessa della <term type="normativa">legge</term>  
+            <lb xml:id="Cod_IstruzionePubblica22_riga3" n="3" facs="#IstruzionePubblica22_riga3"/>
+            in cose di così capitale importanza come è la <term type="valore">libertà della 
+            <lb xml:id="Cod_IstruzionePubblica22_riga4" n="4" facs="#IstruzionePubblica22_riga4"/>
+            scienza</term> e l' <term type="valore">indipendenza dell'insegnamento</term>, non parrà troppo
+            <lb xml:id="Cod_IstruzionePubblica22_riga5" n="5" facs="#IstruzionePubblica22_riga5"/>
+            il chiedere che s'esca una volta per sempre da tanta con
+            <lb xml:id="Cod_IstruzionePubblica22_riga6" n="6" facs="#IstruzionePubblica22_riga6" break="no"/>
+            fusione, tanti <term type="concetto">arbitrii</term> o tante <term type="concetto">illegalità</term>. Queste cose son sem
+            <lb xml:id="Cod_IstruzionePubblica22_riga7" n="7" facs="#IstruzionePubblica22_riga7" break="no"/>
+            pre biasimevoli e pericolose, ma sopra tutto poi, quando ne 
+            <lb xml:id="Cod_IstruzionePubblica22_riga8" n="8" facs="#IstruzionePubblica22_riga8"/>
+            dà esempio al <placeName>paese</placeName> il <orgName ref="#Min_Istruzione">Ministero della pubblica istruzione 
+            <lb xml:id="Cod_IstruzionePubblica22_riga9" n="9" facs="#IstruzionePubblica22_riga9"/>
+            ed educazione</orgName>.
+        </p>
+    </body>
+</text>

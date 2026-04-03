@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE teiCorpus SYSTEM "tei_all.dtd">
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" version="4.0.1" xml:lang="it">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Edizione Critica Digitale de La Rassegna Settimanale - Numero 69 (27 Aprile 1879)</title>
+                <respStmt xml:id="Floris">
+                    <resp>Responsabile della codifica:</resp>
+                    <persName>Rebecca Floris</persName>
+                </respStmt>
+                <respStmt xml:id="Professor">
+                    <resp>Coordinamento scientifico:</resp>
+                    <persName>Angelo Mario Del Grosso</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Università di Pisa - Informatica Umanistica</publisher>
+                <date when="2025">2025</date>
+                <availability status="free"><p>Accesso aperto per fini accademici.</p></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct xml:id="Rassegna_69">
+                    <monogr>
+                        <title level="j">La Rassegna Settimanale di politica, scienze, lettere ed arti</title>
+                        <imprint>
+                            <publisher>Tipografia Barbèra</publisher>
+                            <pubPlace>Roma</pubPlace>
+                            <date when="1879-04-27">27 Aprile 1879</date>
+                            <biblScope unit="issue">69</biblScope>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <correction method="markup">
+                    <p>Errori di stampa originali e refusi OCR sono stati trattati con il tag choice/sic/corr.</p>
+                </correction>
+                <hyphenation eol="hard">
+                    <p>La sillabazione originale a fine riga è stata preservata tramite lb.</p>
+                </hyphenation>
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>

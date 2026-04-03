@@ -1,0 +1,140 @@
+<text xml:id="NotizieVol3_text" subtype="news">
+    <body>
+        <pb n="332" facs="#NotizieVol3_header"/>
+        
+        <fw type="header" xml:id="Cod_NotizieVol3_header" facs="#NotizieVol3_header">
+            332 LA RASSEGNA SETTIMANALE Vol. 3°, N° 69
+        </fw>
+
+        <head rend="align(center) case(allcaps)" xml:id="Cod_NotizieVol3_labelDx" facs="#NotizieVol3_labelDx">
+            NOTIZIE.
+        </head>
+
+        <p xml:id="Notizie_P1" n="1">
+            <lb xml:id="Cod_NotizieVol3_riga1" n="1" facs="#NotizieVol3_riga1"/>
+            — La festa per il 50° anniversario della fondazione dell'<orgName ref="#Inst_Archeo_Ger">Istituto ar<lb xml:id="Cod_NotizieVol3_riga2" n="2" facs="#NotizieVol3_riga2" break="no"/>cheologico germanico</orgName> fu celebrata con grande solennità il 21 di aprile. 
+            <lb xml:id="Cod_NotizieVol3_riga3" n="3" facs="#NotizieVol3_riga3"/>
+            Furono editi vari libri in tale solenne circostanza, tra i quali è im<lb xml:id="Cod_NotizieVol3_riga4" n="4" facs="#NotizieVol3_riga4" break="no"/>portante il libro del <persName ref="#GB_DeRossi">commendatore de Rossi</persName>, intitolato: <title level="m">Storia gene<lb xml:id="Cod_NotizieVol3_riga5" n="5" facs="#NotizieVol3_riga5" break="no"/>rale delle misure e piante di Roma dalle sue origini a tutto il secolo XV.</title> 
+            <lb xml:id="Cod_NotizieVol3_riga6" n="6" facs="#NotizieVol3_riga6"/>
+            Questo libro trova il suo compimento nella pubblicazione che il <orgName ref="#Min_Istruzione">Mini<lb xml:id="Cod_NotizieVol3_riga7" n="7" facs="#NotizieVol3_riga7" break="no"/>stero dell'Istruzione</orgName> fece per la medesima circostanza, dando alla luce 
+            <lb xml:id="Cod_NotizieVol3_riga8" n="8" facs="#NotizieVol3_riga8"/>
+            una riproduzione della grande pianta di <placeName ref="#RM">Roma</placeName> di <persName ref="#L_Bufalini">L. Bufalini</persName>, tratta da 
+            <lb xml:id="Cod_NotizieVol3_riga9" n="9" facs="#NotizieVol3_riga9"/>
+            una copia rinvenuta a <placeName ref="#CN">Cuneo</placeName> nel convento di <placeName>S. M. degli Angeli</placeName>.
+        </p>
+
+        <p xml:id="Notizie_P2" n="2">
+            <lb xml:id="Cod_NotizieVol3_riga10" n="10" facs="#NotizieVol3_riga10"/>
+            — Nell’adunanza del <date when="1879-02-23">23 febbraio 1879</date>, della <orgName ref="#Deputazione_BO">R. Deputazione di 
+            <lb xml:id="Cod_NotizieVol3_riga11" n="11" facs="#NotizieVol3_riga11"/>
+            Storia patria di Bologna</orgName>, il <persName ref="#L_Manzoni">conte Luigi Manzoni</persName> ha letto la prima
+            <lb xml:id="Cod_NotizieVol3_riga12" n="12" facs="#NotizieVol3_riga12"/>
+            parte di un suo lavoro sulla storia e letteratura della leggenda di 
+            <lb xml:id="Cod_NotizieVol3_riga13" n="13" facs="#NotizieVol3_riga13"/>
+            <persName ref="#P_Gianni">Prete Gianni</persName>, menzionato nel <title level="m">Novellino</title> e famoso nelle cronache caval<lb xml:id="Cod_NotizieVol3_riga14" n="14" facs="#NotizieVol3_riga14" break="no"/>leresche del medio evo. In questa prima parte il <choice><abbr>signor</abbr><expan>signore</expan></choice> <persName ref="#L_Manzoni">Manzoni</persName> di<lb xml:id="Cod_NotizieVol3_riga15" n="15" facs="#NotizieVol3_riga15" break="no"/>scorre del poema in ottava rima sopra tale argomento, composto da 
+            <lb xml:id="Cod_NotizieVol3_riga16" n="16" facs="#NotizieVol3_riga16"/>
+            <persName ref="#G_Dati">Giuliano Dati</persName> sulla fine del <date>secolo XV</date>, più volte edita; ne chiarisce 
+            <lb xml:id="Cod_NotizieVol3_riga17" n="17" facs="#NotizieVol3_riga17"/>
+            le fonti, e n'espone il contenuto.
+        </p>
+
+        <p xml:id="Notizie_P3" n="3">
+            <lb xml:id="Cod_NotizieVol3_riga18" n="18" facs="#NotizieVol3_riga18"/>
+            — La <orgName ref="#Marciana">Biblioteca Marciana</orgName> ha acquistato recentemente un <term>Antifo<lb xml:id="Cod_NotizieVol3_riga19" n="19" facs="#NotizieVol3_riga19" break="no"/>nario</term> in pergamena, del <date>secolo XIV</date> (già appartenuto alla <orgName ref="#Conf_Carita">Confrater<lb xml:id="Cod_NotizieVol3_riga20" n="20" facs="#NotizieVol3_riga20" break="no"/>nita della Carità</orgName> di <placeName ref="#VE">Venezia</placeName>, e fatto a spese di questa), ornato di 
+            <lb xml:id="Cod_NotizieVol3_riga21" n="21" facs="#NotizieVol3_riga21"/>
+            venticinque miniature di rappresentazioni sacre. Nella seconda di dette 
+            <lb xml:id="Cod_NotizieVol3_riga22" n="22" facs="#NotizieVol3_riga22"/>
+            tavole miniate è scritto il nome dell’autore, che è <persName ref="#G_Gherardino">Giustino di maestro 
+            <lb xml:id="Cod_NotizieVol3_riga23" n="23" facs="#NotizieVol3_riga23" facs="#NotizieVol3_riga23"/>
+            Gherardino da Forlì</persName>. Il <term>cod.</term> è interessantissimo per la storia dell’arte, 
+            <lb xml:id="Cod_NotizieVol3_riga24" n="24" facs="#NotizieVol3_riga24"/>
+            e ci rivela il nome di un artista miniatore finora ignoto agli eruditi.
+        </p>
+
+        <p xml:id="Notizie_P4" n="4">
+            <lb xml:id="Cod_NotizieVol3_riga25" n="25" facs="#NotizieVol3_riga25"/>
+            Secondo il <title level="j">Globe</title> il programma ufficiale stabilito per la « Spedi<lb xml:id="Cod_NotizieVol3_riga26" n="26" facs="#NotizieVol3_riga26" break="no"/>zione Imperiale » nell’<placeName ref="#Asia_C">Asia centrale</placeName>, comandata dal <persName ref="#N_Costantinovich">Gran Duca Niccolò 
+            <lb xml:id="Cod_NotizieVol3_riga27" n="27" facs="#NotizieVol3_riga27"/>
+            Costantinovich</persName>, sarebbe il seguente: Lo Stato maggiore della spedi<lb xml:id="Cod_NotizieVol3_riga28" n="28" facs="#NotizieVol3_riga28" break="no"/>zione si comporrà di un <roleName>ingegnere</roleName>, di un <roleName>ufficiale</roleName> della flotta del Bal<lb xml:id="Cod_NotizieVol3_riga29" n="29" facs="#NotizieVol3_riga29" break="no"/>tico, di un <roleName>ispettore</roleName>, un <roleName>naturalista</roleName>, un <roleName>archeologo</roleName>, un <roleName>geologo</roleName>, un 
+            <lb xml:id="Cod_NotizieVol3_riga30" n="30" facs="#NotizieVol3_riga30"/>
+            <roleName>pittore</roleName>, un <roleName>topografo</roleName> ed un <roleName>corrispondente</roleName>. Scopo della spedizione è di 
+            <lb xml:id="Cod_NotizieVol3_riga31" n="31" facs="#NotizieVol3_riga31"/>
+            scegliere la strada che dovrà percorrere la <term>ferrovia dell’Asia centrale</term>, 
+            <lb xml:id="Cod_NotizieVol3_riga32" n="32" facs="#NotizieVol3_riga32"/>
+            esaminare la navigabilità dell’<placeName ref="#Oxus">Oxus</placeName> e decidere se è possibile di farlo 
+            <lb xml:id="Cod_NotizieVol3_riga33" n="33" facs="#NotizieVol3_riga33"/>
+            sboccare nel <placeName ref="#Caspio">Caspio</placeName>. La spedizione andrà dall’<placeName ref="#Ural">Ural</placeName> a <placeName ref="#Karasugai">Karasugai</placeName>, sul 
+            <lb xml:id="Cod_NotizieVol3_riga34" n="34" facs="#NotizieVol3_riga34"/>
+            <placeName ref="#Syr_Daria">Syr Daria</placeName>, poi per la via di <placeName ref="#Tashkend">Tashkend</placeName> e <placeName ref="#Samarcanda">Samarcanda</placeName> all’<placeName ref="#Oxus">Oxus</placeName> a <placeName ref="#Kunduz">Kunduz</placeName> 
+            <lb xml:id="Cod_NotizieVol3_riga35" n="35" facs="#NotizieVol3_riga35"/>
+            (<placeName ref="#Afghanistan">Afghanistan</placeName>); quindi lungo il fiume a <placeName ref="#Khiva">Khiva</placeName> e traverso il <placeName ref="#Kara_Kum">Kara Kum</placeName> 
+            <lb xml:id="Cod_NotizieVol3_riga36" n="36" facs="#NotizieVol3_riga36"/>
+            a <placeName ref="#Krasnovodsk">Krasnovodsk</placeName>. Lo scopo della spedizione sarà: 1. Raccogliere infor<lb xml:id="Cod_NotizieVol3_riga37" n="37" facs="#NotizieVol3_riga37" break="no"/>mazioni rispetto alla spesa per la <term>linea ferrata</term>, la possibilità di avere 
+            <lb xml:id="Cod_NotizieVol3_riga38" n="38" facs="#NotizieVol3_riga38"/>
+            il materiale da costruzione, sapere se il <term>combustibile</term> esiste lungo la 
+            <lb xml:id="Cod_NotizieVol3_riga39" n="39" facs="#NotizieVol3_riga39"/>
+            via o anche la quantità di lavoro che si può ottenere; 2. Studiare la 
+            <lb xml:id="Cod_NotizieVol3_riga40" n="40" facs="#NotizieVol3_riga40"/>
+            velocità dell’<placeName ref="#Oxus">Oxus</placeName>, l’altezza delle sue sponde, sapere quanta è la po<lb xml:id="Cod_NotizieVol3_riga41" n="41" facs="#NotizieVol3_riga41" break="no"/>polazione delle città e stabilimenti più vicini, e conoscere il commer<lb xml:id="Cod_NotizieVol3_riga42" n="42" facs="#NotizieVol3_riga42" break="no"/>cio che si fa sul fiume; 3. Esaminare le oasi di <placeName ref="#Khiva">Khiva</placeName>, le acque di 
+            <lb xml:id="Cod_NotizieVol3_riga43" n="43" facs="#NotizieVol3_riga43"/>
+            <placeName ref="#Sari_Kamish">Sari Kamish</placeName> e l’antico letto dell’<placeName ref="#Oxus">Oxus</placeName>, conosciuto comunemente col 
+            <lb xml:id="Cod_NotizieVol3_riga44" n="44" facs="#NotizieVol3_riga44"/>
+            nome di <placeName ref="#Uzboi">Uzboi</placeName>; 4. Fare delle osservazioni astronomiche lungo la strada, 
+            <lb xml:id="Cod_NotizieVol3_riga45" n="45" facs="#NotizieVol3_riga45"/>
+            tracciare dei piani militari, far disegni del paese, raccogliere oggetti 
+            <lb xml:id="Cod_NotizieVol3_riga46" n="46" facs="#NotizieVol3_riga46"/>
+            mineralogici, geologici, archeologici, di qualche importanza, e tenere 
+            <lb xml:id="Cod_NotizieVol3_riga47" n="47" facs="#NotizieVol3_riga47"/>
+            un diario. È anche possibile tuttavia, che nel caso di certi imbrogli 
+            <lb xml:id="Cod_NotizieVol3_riga48" n="48" facs="#NotizieVol3_riga48"/>
+            orientali, la spedizione geografica possa divenire militare contro <placeName ref="#Merv">Merv</placeName>. 
+            <lb xml:id="Cod_NotizieVol3_riga49" n="49" facs="#NotizieVol3_riga49"/>
+            (<title level="j">Nature</title>)
+        </p>
+
+        <p xml:id="Notizie_P5" n="5">
+            <lb xml:id="Cod_NotizieVol3_riga50" n="50" facs="#NotizieVol3_riga50"/>
+            — Il <persName ref="#Rocher">signor Rocher</persName>, di <placeName ref="#TLS">Tolosa</placeName>, ha chiamato <term>Amianthine</term> un nuovo 
+            <lb xml:id="Cod_NotizieVol3_riga51" n="51" facs="#NotizieVol3_riga51"/>
+            combustibile da lui inventato, del quale si parla molto in <placeName ref="#America">America</placeName>.
+            <lb xml:id="Cod_NotizieVol3_riga52" n="52" facs="#NotizieVol3_riga52"/>
+            È un composto di <term>amianto</term> ridotto in polvere finissima, <term>carbone di le<lb xml:id="Cod_NotizieVol3_riga53" n="53" facs="#NotizieVol3_riga53" break="no"/>gna</term> e <term>nitrato di piombo</term>. 
+            <lb xml:id="Cod_NotizieVol3_riga54" n="54" facs="#NotizieVol3_riga54"/>
+            (<title level="j">Athenæum</title>)
+        </p>
+
+        <p xml:id="Notizie_P6" n="6">
+            <lb xml:id="Cod_NotizieVol3_riga55" n="55" facs="#NotizieVol3_riga55"/>
+            — Il <date when="1879-04-06">6 aprile</date> morì a <placeName ref="#BL1">Berlino</placeName> nell’età di 76 anni il celebre 
+            <lb xml:id="Cod_NotizieVol3_riga56" n="56" facs="#NotizieVol3_riga56"/>
+            fisico <persName ref="#HW_Dove">prof. Dove</persName>, che a giusto titolo si può chiamare il padre della meteo<lb xml:id="Cod_NotizieVol3_riga57" n="57" facs="#NotizieVol3_riga57" break="no"/>rologia.
+        </p>
+
+        <div type="errata">
+            <head rend="align(center)" xml:id="Cod_NotizieVol3_riga58" facs="#NotizieVol3_riga58">ERRATA-CORRIGE</head>
+            <p>
+                <lb xml:id="Cod_NotizieVol3_riga59" n="59" facs="#NotizieVol3_riga59"/>
+                Nel numero 68, pag. 309, col. 1ª, linea 22, invece di: <choice><sic>Cirici</sic><corr>Cinci</corr></choice>, leggasi: 
+                <lb xml:id="Cod_NotizieVol3_riga60" n="60" facs="#NotizieVol3_riga60"/>
+                <mentioned>Cinci</mentioned>.
+            </p>
+        </div>
+
+        <div type="colophon">
+            <p>
+                <lb xml:id="Cod_NotizieVol3_riga61" n="61" facs="#NotizieVol3_riga61"/>
+                <persName ref="#L_Franchetti">LEOPOLDO FRANCHETTI</persName> | 
+                <lb xml:id="Cod_NotizieVol3_riga62" n="62" facs="#NotizieVol3_riga62"/>
+                <persName ref="#S_Sonnino">SIDNEY SONNINO</persName> 
+                <lb xml:id="Cod_NotizieVol3_riga63" n="63" facs="#NotizieVol3_riga63"/>
+                } Proprietari Direttori.
+            </p>
+            <p>
+                <lb xml:id="Cod_NotizieVol3_riga64" n="64" facs="#NotizieVol3_riga64"/>
+                <persName ref="#P_Pampaloni">PIETRO PAMPALONI</persName>, Gerente Responsabile. 
+                <lb xml:id="Cod_NotizieVol3_riga65" n="65" facs="#NotizieVol3_riga65"/>
+                <placeName ref="#RM">ROMA</placeName>, <date when="1879">1879</date>. — <orgName ref="#Tip_Barbera">Tipografia BARBÈRA</orgName>.
+            </p>
+        </div>
+    </body>
+</text>

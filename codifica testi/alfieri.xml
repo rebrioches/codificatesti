@@ -1,0 +1,67 @@
+<facsimile> 
+  <surface xml:id="Full_Alfieri">
+    <graphic url='Bibliografia- Volume 3, Fascicolo 69, C. Alfieri Chi ha tempo non aspetti tempo Pag. 330.png' width='566.4px' height='833.4px' />
+
+    <!-- Header / Intestazione pagina -->
+    <zone ulx="46" uly="35" lrx="66" lry="43" xml:id="Alfieri_header" corresp="#Cod_Alfieri_header"/>
+
+    <!-- Titolo pagina -->
+    <zone ulx="217" uly="33" lrx="378" lry="42" xml:id="Alfieri_titolo" corresp="#Cod_Alfieri_titolo" />
+
+    <!-- Righe del corpo -->
+    <zone ulx="477" uly="35" lrx="551" lry="44" xml:id="Alfieri_riga1" corresp="#Cod_Alfieri_riga1"/>
+    <zone ulx="131" uly="62" lrx="211" lry="70" xml:id="Alfieri_riga2" corresp="#Cod_Alfieri_riga2"/>
+    <zone ulx="152" uly="74" lrx="190" lry="82" xml:id="Alfieri_riga3" corresp="#Cod_Alfieri_riga3"/>
+    <zone ulx="46" uly="83" lrx="296" lry="93" xml:id="Alfieri_riga4" corresp="#Cod_Alfieri_riga4"/>
+    <zone ulx="60" uly="94" lrx="232" lry="104" xml:id="Alfieri_riga5" corresp="#Cod_Alfieri_riga5"/>
+    <zone ulx="60" uly="111" lrx="296" lry="121" xml:id="Alfieri_riga6" corresp="#Cod_Alfieri_riga6"/>
+    <zone ulx="48" uly="123" lrx="297" lry="130" xml:id="Alfieri_riga7" corresp="#Cod_Alfieri_riga7"/>
+    <zone ulx="45" uly="132" lrx="298" lry="140" xml:id="Alfieri_riga8" corresp="#Cod_Alfieri_riga8"/>
+    <zone ulx="47" uly="144" lrx="295" lry="151" xml:id="Alfieri_riga9" corresp="#Cod_Alfieri_riga9"/>
+    <zone ulx="48" uly="153" lrx="296" lry="163" xml:id="Alfieri_riga10" corresp="#Cod_Alfieri_riga10"/>
+    <zone ulx="46" uly="165" lrx="296" lry="174" xml:id="Alfieri_riga11" corresp="#Cod_Alfieri_riga11"/>
+    <zone ulx="44" uly="176" lrx="296" lry="183" xml:id="Alfieri_riga12" corresp="#Cod_Alfieri_riga12"/>
+    <zone ulx="46" uly="187" lrx="108" lry="195" xml:id="Alfieri_riga13" corresp="#Cod_Alfieri_riga13"/>
+    <zone ulx="59" uly="196" lrx="298" lry="206" xml:id="Alfieri_riga14" corresp="#Cod_Alfieri_riga14"/>
+    <zone ulx="47" uly="208" lrx="297" lry="216" xml:id="Alfieri_riga15" corresp="#Cod_Alfieri_riga15"/>
+    <zone ulx="46" uly="220" lrx="296" lry="227" xml:id="Alfieri_riga16" corresp="#Cod_Alfieri_riga16"/>
+    <zone ulx="47" uly="231" lrx="295" lry="236" xml:id="Alfieri_riga17" corresp="#Cod_Alfieri_riga17"/>
+    <zone ulx="47" uly="241" lrx="296" lry="247" xml:id="Alfieri_riga18" corresp="#Cod_Alfieri_riga18"/>
+    <zone ulx="46" uly="250" lrx="295" lry="258" xml:id="Alfieri_riga19" corresp="#Cod_Alfieri_riga19"/>
+    <zone ulx="46" uly="262" lrx="296" lry="270" xml:id="Alfieri_riga20" corresp="#Cod_Alfieri_riga20"/>
+    <zone ulx="46" uly="272" lrx="297" lry="282" xml:id="Alfieri_riga21" corresp="#Cod_Alfieri_riga21"/>
+    <zone ulx="44" uly="284" lrx="297" lry="290" xml:id="Alfieri_riga22" corresp="#Cod_Alfieri_riga22"/>
+    <zone ulx="46" uly="294" lrx="296" lry="303" xml:id="Alfieri_riga23" corresp="#Cod_Alfieri_riga23"/>
+    <zone ulx="45" uly="306" lrx="299" lry="312" xml:id="Alfieri_riga24" corresp="#Cod_Alfieri_riga24"/>
+    <zone ulx="45" uly="316" lrx="296" lry="323" xml:id="Alfieri_riga25" corresp="#Cod_Alfieri_riga25"/>
+    <zone ulx="47" uly="327" lrx="298" lry="335" xml:id="Alfieri_riga26" corresp="#Cod_Alfieri_riga26"/>
+    <zone ulx="44" uly="338" lrx="295" lry="345" xml:id="Alfieri_riga27" corresp="#Cod_Alfieri_riga27"/>
+    <zone ulx="43" uly="350" lrx="296" lry="357" xml:id="Alfieri_riga28" corresp="#Cod_Alfieri_riga28"/>
+    <zone ulx="46" uly="359" lrx="296" lry="367" xml:id="Alfieri_riga29" corresp="#Cod_Alfieri_riga29"/>
+    <zone ulx="43" uly="370" lrx="298" lry="378" xml:id="Alfieri_riga30" corresp="#Cod_Alfieri_riga30"/>
+    <zone ulx="43" uly="380" lrx="296" lry="389" xml:id="Alfieri_riga31" corresp="#Cod_Alfieri_riga31"/>
+    <zone ulx="46" uly="392" lrx="298" lry="399" xml:id="Alfieri_riga32" corresp="#Cod_Alfieri_riga32"/>
+    <zone ulx="46" uly="404" lrx="295" lry="411" xml:id="Alfieri_riga33" corresp="#Cod_Alfieri_riga33"/>
+    <zone ulx="47" uly="415" lrx="295" lry="422" xml:id="Alfieri_riga34" corresp="#Cod_Alfieri_riga34"/>
+    <zone ulx="47" uly="426" lrx="295" lry="431" xml:id="Alfieri_riga35" corresp="#Cod_Alfieri_riga35"/>
+    <zone ulx="45" uly="433" lrx="298" lry="441" xml:id="Alfieri_riga36" corresp="#Cod_Alfieri_riga36"/>
+    <zone ulx="47" uly="445" lrx="298" lry="452" xml:id="Alfieri_riga37" corresp="#Cod_Alfieri_riga37"/>
+    <zone ulx="46" uly="454" lrx="298" lry="466" xml:id="Alfieri_riga38" corresp="#Cod_Alfieri_riga38"/>
+    <zone ulx="47" uly="468" lrx="298" lry="474" xml:id="Alfieri_riga39" corresp="#Cod_Alfieri_riga39"/>
+    <zone ulx="46" uly="478" lrx="294" lry="486" xml:id="Alfieri_riga40" corresp="#Cod_Alfieri_riga40"/>
+    <zone ulx="44" uly="486" lrx="295" lry="496" xml:id="Alfieri_riga41" corresp="#Cod_Alfieri_riga41"/>
+    <zone ulx="47" uly="498" lrx="295" lry="506" xml:id="Alfieri_riga42" corresp="#Cod_Alfieri_riga42"/>
+    <zone ulx="45" uly="506" lrx="296" lry="514" xml:id="Alfieri_riga43" corresp="#Cod_Alfieri_riga43"/>
+    <zone ulx="44" uly="518" lrx="295" lry="529" xml:id="Alfieri_riga44" corresp="#Cod_Alfieri_riga44"/>
+    <zone ulx="45" uly="531" lrx="295" lry="538" xml:id="Alfieri_riga45" corresp="#Cod_Alfieri_riga45"/>
+    <zone ulx="46" uly="540" lrx="296" lry="548" xml:id="Alfieri_riga46" corresp="#Cod_Alfieri_riga46"/>
+    <zone ulx="47" uly="550" lrx="296" lry="561" xml:id="Alfieri_riga47" corresp="#Cod_Alfieri_riga47"/>
+    <zone ulx="46" uly="562" lrx="295" lry="571" xml:id="Alfieri_riga48" corresp="#Cod_Alfieri_riga48"/>
+    <zone ulx="44" uly="575" lrx="295" lry="582" xml:id="Alfieri_riga49" corresp="#Cod_Alfieri_riga49"/>
+    <zone ulx="44" uly="586" lrx="296" lry="592" xml:id="Alfieri_riga50" corresp="#Cod_Alfieri_riga50"/>
+    <zone ulx="47" uly="594" lrx="297" lry="604" xml:id="Alfieri_riga51" corresp="#Cod_Alfieri_riga51"/>
+    <zone ulx="44" uly="606" lrx="299" lry="614" xml:id="Alfieri_riga52" corresp="#Cod_Alfieri_riga52"/>
+    <zone ulx="45" uly="617" lrx="298" lry="626" xml:id="Alfieri_riga53" corresp="#Cod_Alfieri_riga53"/>
+    <zone ulx="44" uly="628" lrx="227" lry="636" xml:id="Alfieri_riga54" corresp="#Cod_Alfieri_riga54"/>
+  </surface>
+</facsimile>

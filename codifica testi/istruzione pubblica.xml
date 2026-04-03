@@ -1,0 +1,151 @@
+<facsimile>
+<surface xml:id="la_legge_sull_istruzione_pubblica_pag_21">
+<!--volume 5 fascicolo 106 pagina 21-->
+<graphic url='Volume 5 Fascicolo 106 La legge sulistruzione pubblica Pag 21.png' width='559.4px' height='833.4px' />
+<zone ulx="25" uly="37" lrx="532" lry="58"  xml:id="IstruzionePubblica21_Header" corresp="#Cod_istruzionePubblica21_Header"/>
+
+<zone ulx="32" uly="72" lrx="279" lry="83" xml:id="IstruzionePubblica21_NumeroPagina" corresp="#Cod_IstruzionePubblica21_NumeroPagina"/> 
+<zone ulx="36" uly="140" lrx="259" lry="146" xml:id="IstruzionePubblica21_Intestazione" corresp="#Cod_IstruzionePubblica21_Intestazione"/ />
+<zone ulx="40" uly="154" lrx="270" lry="162" xml:id="IstruzionePubblica21_NumeroVolumeFascicolo" corresp="#Cod_IstruzionePubblica21_NumeroVolumeFascicolo" />
+<!-- intestazione interna -->
+<zone ulx="25" uly="167" lrx="272" lry="173" xml:id="IstruzionePubblica21_HeaderInterno" corresp="#Cod_IstruzionePubblica21_HeaderInterno"/>
+
+<!-- titolo articolo -->
+<zone ulx="23" uly="180" lrx="273" lry="184" xml:id="IstruzionePubblica21_Titolo" corresp="#Cod_IstruzionePubblica21_Titolo"/>
+
+<!--    testo    -->
+<zone ulx="25" uly="190" lrx="273" lry="193" xml:id="IstruzionePubblica21_riga1" corresp="#Cod_IstruzionePubblica21_riga1" />
+<zone ulx="28" uly="202" lrx="274" lry="205" xml:id="IstruzionePubblica21_riga2" corresp="#Cod_IstruzionePubblica21_riga2"/>
+<zone ulx="26" uly="213" lrx="274" lry="216" xml:id="IstruzionePubblica21_riga3" corresp="#Cod_IstruzionePubblica21_riga3"/>
+<zone ulx="31" uly="224" lrx="273" lry="227" xml:id="IstruzionePubblica21_riga4" corresp="#Cod_IstruzionePubblica21_riga4"/>
+<zone ulx="27" uly="233" lrx="275" lry="238" xml:id="IstruzionePubblica21_riga5" corresp="#Cod_IstruzionePubblica21_riga5"/>
+<zone ulx="30" uly="245" lrx="272" lry="248" xml:id="IstruzionePubblica21_riga6" corresp="#Cod_IstruzionePubblica21_riga6"/>
+<zone ulx="29" uly="254" lrx="275" lry="261" xml:id="IstruzionePubblica21_riga7" corresp="#Cod_IstruzionePubblica21_riga7"/>
+<zone ulx="27" uly="266" lrx="272" lry="270" xml:id="IstruzionePubblica21_riga8" corresp="#Cod_IstruzionePubblica21_riga8"/>
+<zone ulx="27" uly="275" lrx="274" lry="279" xml:id="IstruzionePubblica21_riga9" corresp="#Cod_IstruzionePubblica21_riga9"/>
+<zone ulx="28" uly="288" lrx="270" lry="290" xml:id="IstruzionePubblica21_riga10" corresp="#Cod_IstruzionePubblica21_riga10"/>
+<zone ulx="26" uly="295" lrx="274" lry="302" xml:id="IstruzionePubblica21_riga11" corresp="#Cod_IstruzionePubblica21_riga11"/>
+<zone ulx="27" uly="306" lrx="271" lry="312" xml:id="IstruzionePubblica21_riga12" corresp="#Cod_IstruzionePubblica21_riga12"/>
+<zone ulx="27" uly="319" lrx="273" lry="324" xml:id="IstruzionePubblica21_riga13" corresp="#Cod_IstruzionePubblica21_riga13"/>
+<zone ulx="27" uly="327" lrx="274" lry="333" xml:id="IstruzionePubblica21_riga14" corresp="#Cod_IstruzionePubblica21_riga14"/>
+<zone ulx="25" uly="340" lrx="278" lry="346" xml:id="IstruzionePubblica21_riga15" corresp="#Cod_IstruzionePubblica21_riga15"/>
+<zone ulx="27" uly="351" lrx="179" lry="354" xml:id="IstruzionePubblica21_riga16" corresp="#Cod_IstruzionePubblica21_riga16"/>
+<zone ulx="40" uly="361" lrx="275" lry="366" xml:id="IstruzionePubblica21_riga17" corresp="#Cod_IstruzionePubblica21_riga17"/>
+<zone ulx="25" uly="370" lrx="271" lry="378" xml:id="IstruzionePubblica21_riga18" corresp="#Cod_IstruzionePubblica21_riga18"/>
+<zone ulx="27" uly="379" lrx="274" lry="390" xml:id="IstruzionePubblica21_riga19" corresp="#Cod_IstruzionePubblica21_riga19"/>
+<zone ulx="28" uly="391" lrx="271" lry="400" xml:id="IstruzionePubblica21_riga20" corresp="#Cod_IstruzionePubblica21_riga20" />
+<zone ulx="30" uly="399" lrx="276" lry="407" xml:id="IstruzionePubblica21_riga21" corresp="#Cod_IstruzionePubblica21_riga21"/>
+<zone ulx="27" uly="413" lrx="275" lry="420" xml:id="IstruzionePubblica21_riga22" corresp="#Cod_IstruzionePubblica21_riga22"/>
+<zone ulx="24" uly="425" lrx="273" lry="429" xml:id="IstruzionePubblica21_riga23" corresp="#Cod_IstruzionePubblica21_riga23"/>
+<zone ulx="25" uly="436" lrx="276" lry="441" xml:id="IstruzionePubblica21_riga24" corresp="#Cod_IstruzionePubblica21_riga24"/>
+<zone ulx="29" uly="444" lrx="275" lry="453" xml:id="IstruzionePubblica21_riga25" corresp="#Cod_IstruzionePubblica21_riga25"/>
+<zone ulx="31" uly="455" lrx="271" lry="463" xml:id="IstruzionePubblica21_riga26" corresp="#Cod_IstruzionePubblica21_riga26"/>
+<zone ulx="27" uly="467" lrx="271" lry="473" xml:id="IstruzionePubblica21_riga27" corresp="#Cod_IstruzionePubblica21_riga27"/>
+<zone ulx="31" uly="478" lrx="272" lry="486" xml:id="IstruzionePubblica21_riga28" corresp="#Cod_IstruzionePubblica21_riga28"/>
+<zone ulx="29" uly="488" lrx="272" lry="497" xml:id="IstruzionePubblica21_riga29" corresp="#Cod_IstruzionePubblica21_riga29"/>
+<zone ulx="30" uly="500" lrx="273" lry="506" xml:id="IstruzionePubblica21_riga30" corresp="#Cod_IstruzionePubblica21_riga30"/> 
+<zone ulx="30" uly="512" lrx="271" lry="519" xml:id="IstruzionePubblica21_riga31" corresp="#Cod_IstruzionePubblica21_riga31"/>
+<zone ulx="31" uly="522" lrx="275" lry="527" xml:id="IstruzionePubblica21_riga32" corresp="#Cod_IstruzionePubblica21_riga32"/>
+<zone ulx="26" uly="533" lrx="272" lry="540" xml:id="IstruzionePubblica21_riga33" corresp="#Cod_IstruzionePubblica21_riga33"/>
+<zone ulx="30" uly="543" lrx="273" lry="549" xml:id="IstruzionePubblica21_riga34" corresp="#Cod_IstruzionePubblica21_riga34"/>
+<zone ulx="31" uly="555" lrx="276" lry="561" xml:id="IstruzionePubblica21_riga35" corresp="#Cod_IstruzionePubblica21_riga35"/>
+<zone ulx="25" uly="566" lrx="276" lry="570" xml:id="IstruzionePubblica21_riga36" corresp="#Cod_IstruzionePubblica21_riga36"/>
+<zone ulx="31" uly="572" lrx="269" lry="586" xml:id="IstruzionePubblica21_riga37" corresp="#Cod_IstruzionePubblica21_riga37"/>
+<zone ulx="28" uly="585" lrx="269" lry="595" xml:id="IstruzionePubblica21_riga38" corresp="#Cod_IstruzionePubblica21_riga38"/>
+<zone ulx="28" uly="596" lrx="272" lry="602" xml:id="IstruzionePubblica21_riga39" corresp="#Cod_IstruzionePubblica21_riga39"/>
+<zone ulx="30" uly="606" lrx="268" lry="615" xml:id="IstruzionePubblica21_riga40" corresp="#Cod_IstruzionePubblica21_riga40"/>
+<zone ulx="27" uly="620" lrx="271" lry="623" xml:id="IstruzionePubblica21_riga41" corresp="#Cod_IstruzionePubblica21_riga41"/>
+<zone ulx="34" uly="627" lrx="272" lry="634" xml:id="IstruzionePubblica21_riga42" corresp="#Cod_IstruzionePubblica21_riga42"/>
+<zone ulx="32" uly="637" lrx="272" lry="645" xml:id="IstruzionePubblica21_riga43" corresp="#Cod_IstruzionePubblica21_riga43"/>
+<zone ulx="28" uly="646" lrx="273" lry="657" xml:id="IstruzionePubblica21_riga44" corresp="#Cod_IstruzionePubblica21_riga44"/>
+<zone ulx="29" uly="658" lrx="271" lry="669" xml:id="IstruzionePubblica21_riga45" corresp="#Cod_IstruzionePubblica21_riga45"/>
+<zone ulx="31" uly="671" lrx="275" lry="678" xml:id="IstruzionePubblica21_riga46" corresp="#Cod_IstruzionePubblica21_riga46"/>
+<zone ulx="24" uly="679" lrx="276" lry="690" xml:id="IstruzionePubblica21_riga47" corresp="#Cod_IstruzionePubblica21_riga47"/>
+<zone ulx="28" uly="690" lrx="275" lry="700" xml:id="IstruzionePubblica21_riga48" corresp="#Cod_IstruzionePubblica21_riga48"/>
+<zone ulx="29" uly="699" lrx="275" lry="710" xml:id="IstruzionePubblica21_riga49" corresp="#Cod_IstruzionePubblica21_riga49"/>
+<zone ulx="26" uly="711" lrx="275" lry="721" xml:id="IstruzionePubblica21_riga50" corresp="#Cod_IstruzionePubblica21_riga50"/>
+<zone ulx="27" uly="726" lrx="275" lry="731" xml:id="IstruzionePubblica21_riga51" corresp="#Cod_IstruzionePubblica21_riga51"/>
+<zone ulx="25" uly="734" lrx="274" lry="741" xml:id="IstruzionePubblica21_riga52" corresp="#Cod_IstruzionePubblica21_riga52"/>
+<zone ulx="27" uly="746" lrx="273" lry="750" xml:id="IstruzionePubblica21_riga53" corresp="#Cod_IstruzionePubblica21_riga53"/>
+<zone ulx="26" uly="754" lrx="273" lry="762" xml:id="IstruzionePubblica21_riga54" corresp="#Cod_IstruzionePubblica21_riga54"/>
+<zone ulx="27" uly="766" lrx="275" lry="774" xml:id="IstruzionePubblica21_riga55" corresp="#Cod_IstruzionePubblica21_riga55"/>
+<zone ulx="282" uly="134" lrx="536" lry="143" xml:id="IstruzionePubblica21_riga56" corresp="#Cod_IstruzionePubblica21_riga56"/>
+<zone ulx="282" uly="146" lrx="515" lry="153" xml:id="IstruzionePubblica21_riga57" corresp="#Cod_IstruzionePubblica21_riga57"/>
+<zone ulx="296" uly="157" lrx="534" lry="166" xml:id="IstruzionePubblica21_riga58" corresp="#Cod_IstruzionePubblica21_riga58"/>
+<zone ulx="286" uly="169" lrx="538" lry="177" xml:id="IstruzionePubblica21_riga59" corresp="#Cod_IstruzionePubblica21_riga59"/>
+<zone ulx="283" uly="180" lrx="536" lry="188" xml:id="IstruzionePubblica21_riga60" corresp="#Cod_IstruzionePubblica21_riga60"/>
+<zone ulx="285" uly="190" lrx="531" lry="198" xml:id="IstruzionePubblica21_riga61" corresp="#Cod_IstruzionePubblica21_riga61"/>
+<zone ulx="281" uly="200" lrx="536" lry="208" xml:id="IstruzionePubblica21_riga62" corresp="#Cod_IstruzionePubblica21_riga62"/>
+<zone ulx="283" uly="211" lrx="535" lry="219" xml:id="IstruzionePubblica21_riga63" corresp="#Cod_IstruzionePubblica21_riga63"/>
+<zone ulx="285" uly="220" lrx="534" lry="230" xml:id="IstruzionePubblica21_riga64" corresp="#Cod_IstruzionePubblica21_riga64"/>
+<zone ulx="283" uly="231" lrx="533" lry="240" xml:id="IstruzionePubblica21_riga65" corresp="#Cod_IstruzionePubblica21_riga65"/>
+<zone ulx="285" uly="240" lrx="325" lry="251" xml:id="IstruzionePubblica21_riga66" corresp="#Cod_IstruzionePubblica21_riga66"/>
+<zone ulx="298" uly="251" lrx="536" lry="262" xml:id="IstruzionePubblica21_riga67" corresp="#Cod_IstruzionePubblica21_riga67"/>
+<zone ulx="284" uly="264" lrx="535" lry="271" xml:id="IstruzionePubblica21_riga68" corresp="#Cod_IstruzionePubblica21_riga68"/>
+<zone ulx="282" uly="274" lrx="535" lry="284" xml:id="IstruzionePubblica21_riga69" corresp="#Cod_IstruzionePubblica21_riga69"/>
+<zone ulx="283" uly="285" lrx="536" lry="294" xml:id="IstruzionePubblica21_riga70" corresp="#Cod_IstruzionePubblica21_riga70"/>
+<zone ulx="26" uly="282" lrx="273" lry="287" xml:id="IstruzionePubblica21_riga71" corresp="#Cod_IstruzionePubblica21_riga71"/>
+<zone ulx="286" uly="294" lrx="535" lry="305" xml:id="IstruzionePubblica21_riga72" corresp="#Cod_IstruzionePubblica21_riga72"/>
+<zone ulx="283" uly="309" lrx="535" lry="314" xml:id="IstruzionePubblica21_riga73" corresp="#Cod_IstruzionePubblica21_riga73"/>
+<zone ulx="284" uly="318" lrx="536" lry="327" xml:id="IstruzionePubblica21_riga74" corresp="#Cod_IstruzionePubblica21_riga74"/>
+<zone ulx="284" uly="318" lrx="536" lry="327" xml:id="IstruzionePubblica21_riga75" corresp="#Cod_IstruzionePubblica21_riga75"/>
+<zone ulx="284" uly="318" lrx="536" lry="327" xml:id="IstruzionePubblica21_riga76" corresp="#Cod_IstruzionePubblica21_riga76"/>
+<zone ulx="280" uly="328" lrx="331" lry="337" xml:id="IstruzionePubblica21_riga77" corresp="#Cod_IstruzionePubblica21_riga77"/>
+<zone ulx="290" uly="339" lrx="532" lry="348" xml:id="IstruzionePubblica21_riga78" corresp="#Cod_IstruzionePubblica21_riga78"/>
+<zone ulx="280" uly="349" lrx="535" lry="356" xml:id="IstruzionePubblica21_riga79" corresp="#Cod_IstruzionePubblica21_riga79"/>
+<zone ulx="283" uly="359" lrx="536" lry="365" xml:id="IstruzionePubblica21_riga80" corresp="#Cod_IstruzionePubblica21_riga80"/>
+<zone ulx="280" uly="369" lrx="538" lry="379" xml:id="IstruzionePubblica21_riga81" corresp="#Cod_IstruzionePubblica21_riga81"/>
+<zone ulx="287" uly="384" lrx="536" lry="390" xml:id="IstruzionePubblica21_riga82" corresp="#Cod_IstruzionePubblica21_riga82"/>
+<zone ulx="286" uly="393" lrx="532" lry="400" xml:id="IstruzionePubblica21_riga83" corresp="#Cod_IstruzionePubblica21_riga83"/>
+<zone ulx="285" uly="402" lrx="537" lry="410" xml:id="IstruzionePubblica21_riga84" corresp="#Cod_IstruzionePubblica21_riga84"/>
+<zone ulx="280" uly="410" lrx="538" lry="420" xml:id="IstruzionePubblica21_riga85" corresp="#Cod_IstruzionePubblica21_riga85"/>
+<zone ulx="283" uly="424" lrx="536" lry="434" xml:id="IstruzionePubblica21_riga86" corresp="#Cod_IstruzionePubblica21_riga86"/>
+<zone ulx="283" uly="438" lrx="533" lry="442" xml:id="IstruzionePubblica21_riga87" corresp="#Cod_IstruzionePubblica21_riga87"/>
+<zone ulx="285" uly="446" lrx="531" lry="454" xml:id="IstruzionePubblica21_riga88" corresp="#Cod_IstruzionePubblica21_riga88"/>
+<zone ulx="283" uly="455" lrx="537" lry="465" xml:id="IstruzionePubblica21_riga89" corresp="#Cod_IstruzionePubblica21_riga89"/>
+<zone ulx="282" uly="468" lrx="538" lry="475" xml:id="IstruzionePubblica21_riga90" corresp="#Cod_IstruzionePubblica21_riga90"/>
+<zone ulx="283" uly="477" lrx="536" lry="485" xml:id="IstruzionePubblica21_riga91" corresp="#Cod_IstruzionePubblica21_riga91"/>
+<zone ulx="283" uly="490" lrx="535" lry="498" xml:id="IstruzionePubblica21_riga92" corresp="#Cod_IstruzionePubblica21_riga92"/>
+<zone ulx="284" uly="501" lrx="539" lry="509" xml:id="IstruzionePubblica21_riga93" corresp="#Cod_IstruzionePubblica21_riga93"/>
+<zone ulx="285" uly="514" lrx="533" lry="518" xml:id="IstruzionePubblica21_riga94" corresp="#Cod_IstruzionePubblica21_riga94"/>
+<zone ulx="286" uly="520" lrx="535" lry="528" xml:id="IstruzionePubblica21_riga95" corresp="#Cod_IstruzionePubblica21_riga95"/>
+<zone ulx="285" uly="530" lrx="536" lry="538" xml:id="IstruzionePubblica21_riga96" corresp="#Cod_IstruzionePubblica21_riga96"/>
+<zone ulx="286" uly="542" lrx="535" lry="551" xml:id="IstruzionePubblica21_riga97" corresp="#Cod_IstruzionePubblica21_riga97"/>
+<zone ulx="283" uly="554" lrx="537" lry="562" xml:id="IstruzionePubblica21_riga98" corresp="#Cod_IstruzionePubblica21_riga98"/>
+<zone ulx="284" uly="566" lrx="538" lry="572" xml:id="IstruzionePubblica21_riga99" corresp="#Cod_IstruzionePubblica21_riga99"/>
+<zone ulx="286" uly="577" lrx="535" lry="584" xml:id="IstruzionePubblica21_riga100" corresp="#Cod_IstruzionePubblica21_riga100"/>
+<zone ulx="283" uly="583" lrx="536" lry="594" xml:id="IstruzionePubblica21_riga101" corresp="#Cod_IstruzionePubblica21_riga101"/>
+<zone ulx="284" uly="597" lrx="535" lry="605" xml:id="IstruzionePubblica21_riga102" corresp="#Cod_IstruzionePubblica21_riga102"/>
+<zone ulx="284" uly="608" lrx="535" lry="617" xml:id="IstruzionePubblica21_riga103" corresp="#Cod_IstruzionePubblica21_riga103"/>
+<zone ulx="283" uly="615" lrx="537" lry="626" xml:id="IstruzionePubblica21_riga104" corresp="#Cod_IstruzionePubblica21_riga104"/>
+<zone ulx="284" uly="627" lrx="537" lry="636" xml:id="IstruzionePubblica21_riga105" corresp="#Cod_IstruzionePubblica21_riga105"/>
+<zone ulx="282" uly="639" lrx="403" lry="646" xml:id="IstruzionePubblica21_riga106" corresp="#Cod_IstruzionePubblica21_riga106"/>
+<zone ulx="300" uly="648" lrx="539" lry="658" xml:id="IstruzionePubblica21_riga107" corresp="#Cod_IstruzionePubblica21_riga107"/>
+<zone ulx="283" uly="660" lrx="539" lry="668" xml:id="IstruzionePubblica21_riga108" corresp="#Cod_IstruzionePubblica21_riga108"/>
+<zone ulx="285" uly="671" lrx="535" lry="678" xml:id="IstruzionePubblica21_riga109" corresp="#Cod_IstruzionePubblica21_riga109"/>
+<zone ulx="281" uly="682" lrx="536" lry="688" xml:id="IstruzionePubblica21_riga110" corresp="#Cod_IstruzionePubblica21_riga110"/>
+<zone ulx="282" uly="692" lrx="537" lry="702" xml:id="IstruzionePubblica21_riga111" corresp="#Cod_IstruzionePubblica21_riga111"/>
+<zone ulx="285" uly="702" lrx="535" lry="710" xml:id="IstruzionePubblica21_riga112" corresp="#Cod_IstruzionePubblica21_riga112"/>
+<zone ulx="287" uly="711" lrx="539" lry="722" xml:id="IstruzionePubblica21_riga113" corresp="#Cod_IstruzionePubblica21_riga113"/>
+<zone ulx="283" uly="726" lrx="538" lry="730" xml:id="IstruzionePubblica21_riga114" corresp="#Cod_IstruzionePubblica21_riga114"/>
+<zone ulx="285" uly="733" lrx="539" lry="740" xml:id="IstruzionePubblica21_riga115" corresp="#Cod_IstruzionePubblica21_riga115"/>
+<zone ulx="284" uly="745" lrx="535" lry="753" xml:id="IstruzionePubblica21_riga116" corresp="#Cod_IstruzionePubblica21_riga116"/>
+<zone ulx="281" uly="755" lrx="536" lry="761" xml:id="IstruzionePubblica21_riga117" corresp="#Cod_IstruzionePubblica21_riga117"/>
+<zone ulx="282" uly="766" lrx="537" lry="774" xml:id="IstruzionePubblica21_riga118" corresp="#Cod_IstruzionePubblica21_riga118"/>
+</surface>
+<surface xml:id="la_legge_sull_istruzione_pubblica_pag21">
+<graphic url='Volume 5 Fascicolo 106 La legge sulistruzione pubblica Pag 22.png' width='557.4px' height='828.4px' />
+<!--Volume 5 Fascicolo 106 pagina 22-->
+<!--    intestazione    -->
+
+<zone ulx="32" uly="72" lrx="279" lry="83" xml:id="IstruzionePubblica22_riga1" corresp="#Cod_IstruzionePubblica22_riga1"/>
+<zone ulx="31" uly="84" lrx="280" lry="91" xml:id="IstruzionePubblica22_riga2" corresp="#Cod_IstruzionePubblica22_riga2"/>
+<zone ulx="31" uly="96" lrx="279" lry="102" xml:id="IstruzionePubblica22_riga3" corresp="#Cod_IstruzionePubblica22_riga3"/>
+<zone ulx="34" uly="106" lrx="281" lry="118" xml:id="IstruzionePubblica22_riga4" corresp="#Cod_IstruzionePubblica22_riga4"/>
+<zone ulx="33" uly="119" lrx="278" lry="125" xml:id="IstruzionePubblica22_riga5" corresp="#Cod_IstruzionePubblica22_riga5"/>
+<zone ulx="30" uly="125" lrx="280" lry="136" xml:id="IstruzionePubblica22_riga6" corresp="#Cod_IstruzionePubblica22_riga6"/>
+<zone ulx="31" uly="141" lrx="280" lry="146" xml:id="IstruzionePubblica22_riga7" corresp="#Cod_IstruzionePubblica22_riga7" />
+<zone ulx="31" uly="150" lrx="282" lry="156" xml:id="IstruzionePubblica22_riga8" corresp="#Cod_IstruzionePubblica22_riga8"/>
+<zone ulx="33" uly="159" lrx="97" lry="167" xml:id="IstruzionePubblica22_riga9" corresp="#Cod_IstruzionePubblica22_riga9"/>
+</surface>
+</facsimile>
